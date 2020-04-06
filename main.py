@@ -4,7 +4,7 @@ import sys
 if __name__ == '__main__':
 
     # [Fix] cuDNN error
-    # torch.backends.cudnn.enabled = False
+    # torch.backends.cudnn.enabled = False  
 
     # All necessary arguments are defined in args.py
     # args = Args()
@@ -12,6 +12,9 @@ if __name__ == '__main__':
     args = Args(sys.argv[1], sys.argv[2])
     
     os.environ['CUDA_VISIBLE_DEVICES'] = str(args.cuda)
+
+    torch.set_num_threads(2) 
+
     print('CUDA', args.cuda)
     print('File name prefix',args.fname)
     # check if necessary directories exist

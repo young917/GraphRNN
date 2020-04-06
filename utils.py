@@ -14,6 +14,7 @@ from sklearn.decomposition import PCA
 import community
 import pickle
 import re
+from args import Args
 
 import data
 
@@ -267,6 +268,10 @@ def draw_graph_list(G_list, row, col, fname = 'figures/test', layout='spring', i
 
         elif layout=='spectral':
             pos = nx.spectral_layout(G)
+
+        elif layout=='bipartite':
+            top = bipartite.sets(G)[0]
+            pos = nx.bipartite_layout(G, top)
         # # nx.draw_networkx(G, with_labels=True, node_size=2, width=0.15, font_size = 1.5, node_color=colors,pos=pos)
         # nx.draw_networkx(G, with_labels=False, node_size=1.5, width=0.2, font_size = 1.5, linewidths=0.2, node_color = 'k',pos=pos,alpha=0.2)
 
@@ -461,11 +466,15 @@ def load_graph_list(fname,is_real=True):
     with open(fname, "rb") as f:
         graph_list = pickle.load(f)
     for i in range(len(graph_list)):
-        edges_with_selfloops = nx.selfloop_edges(graph_list[i])
+        edges_with_selfloops = list(nx.selfloop_edges(graph_list[i]))
         if len(edges_with_selfloops)>0:
             graph_list[i].remove_edges_from(edges_with_selfloops)
         if is_real:
-            graph_list[i] = max(nx.connected_component_subgraphs(graph_list[i]), key=len)
+            if nx.number_connected_components(graph_list[i]) == 0:
+                graph_list[i] = nx.Graph()
+                continue
+            graph_nodes = list(sorted(nx.connected_components(graph_list[i]), key=len, reverse=True)[0])
+            graph_list[i] = graph_list[i].subgraph(graph_nodes)
             graph_list[i] = nx.convert_node_labels_to_integers(graph_list[i])
         else:
             graph_list[i] = pick_connected_component_new(graph_list[i])
@@ -511,23 +520,25 @@ if __name__ == '__main__':
     #test_perturbed()
     #graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_community4_4_128_train_0.dat')
     #graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_community4_4_128_pred_2500_1.dat')
-    graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_bipartite_small_4_64_pred_1000_1.dat') # 16 graphs
-    
+    graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_bipartite_small_4_64_pred_3000_1.dat') # 16 graphs
+    draw_graph_list(graphs[:16], 4, 4, fname='figures_prediction/bipartite_' + str(1), layout='bipartite')
+
+    '''
     args = Args('GraphRNN_RNN', 'bipartite_small')
 
     non_bipartite = 0
-    for epoch in range(100,10001,100):
+    for epoch in range( 1000, args.epochs + 1, args.epochs_test):
         non_bipartite_epoch = 0
         total_graph_epoch = 0
-        fname_pred = args.dir_input + args.model_name + '_' + args.dataset_name + '_' + str(args.num_layers) + '_' + str(64) + '_pred_' + str(epoch) + '_1' + '.dat'
+        fname_pred = args.graph_save_path + args.note + '_' + args.graph_type + '_' + str(args.num_layers) + '_' + str(64) + '_pred_' + str(epoch) + '_1' + '.dat'
         # bipartite verify
-        graphs = load_graph_list(fname_pred, is_real=False)
+        graphs = load_graph_list(fname_pred)
         for graph in graphs:
-            if not is_bipartite(graph):
+            if not bipartite.is_bipartite(graph):
                 non_bipartite_epoch += 1
             total_graph_epoch += 1
         print(str(epoch)+" non bipartite rate : "+str(non_bipartite_epoch / total_graph_epoch))
 
     #for i in range(0, 160, 16):
-        #draw_graph_list(graphs[i:i+16], 4, 4, fname='figures_prediction/bipartite_' + str(i))
-
+        #draw_graph_list(graphs[i:i+16], 4, 4, fname='figures_prediction/bipartite_' + str(i), layout='bipartite')
+    '''
