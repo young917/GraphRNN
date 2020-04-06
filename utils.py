@@ -1,4 +1,5 @@
 import networkx as nx
+from networkx.algorithms import bipartite
 import numpy as np
 import torch
 import torch.nn as nn
@@ -438,7 +439,6 @@ def save_graph_list(G_list, fname):
     with open(fname, "wb") as f:
         pickle.dump(G_list, f)
 
-
 # pick the first connected component
 def pick_connected_component(G):
     node_list = nx.node_connected_component(G,0)
@@ -461,7 +461,7 @@ def load_graph_list(fname,is_real=True):
     with open(fname, "rb") as f:
         graph_list = pickle.load(f)
     for i in range(len(graph_list)):
-        edges_with_selfloops = graph_list[i].selfloop_edges()
+        edges_with_selfloops = nx.selfloop_edges(graph_list[i])
         if len(edges_with_selfloops)>0:
             graph_list[i].remove_edges_from(edges_with_selfloops)
         if is_real:
@@ -511,8 +511,23 @@ if __name__ == '__main__':
     #test_perturbed()
     #graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_community4_4_128_train_0.dat')
     #graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_community4_4_128_pred_2500_1.dat')
-    graphs = load_graph_list('eval_results/mmsb/' + 'community41.dat')
+    graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_bipartite_small_4_64_pred_1000_1.dat') # 16 graphs
     
-    for i in range(0, 160, 16):
-        draw_graph_list(graphs[i:i+16], 4, 4, fname='figures/community4_' + str(i))
+    args = Args('GraphRNN_RNN', 'bipartite_small')
+
+    non_bipartite = 0
+    for epoch in range(100,10001,100):
+        non_bipartite_epoch = 0
+        total_graph_epoch = 0
+        fname_pred = args.dir_input + args.model_name + '_' + args.dataset_name + '_' + str(args.num_layers) + '_' + str(64) + '_pred_' + str(epoch) + '_1' + '.dat'
+        # bipartite verify
+        graphs = load_graph_list(fname_pred, is_real=False)
+        for graph in graphs:
+            if not is_bipartite(graph):
+                non_bipartite_epoch += 1
+            total_graph_epoch += 1
+        print(str(epoch)+" non bipartite rate : "+str(non_bipartite_epoch / total_graph_epoch))
+
+    #for i in range(0, 160, 16):
+        #draw_graph_list(graphs[i:i+16], 4, 4, fname='figures_prediction/bipartite_' + str(i))
 

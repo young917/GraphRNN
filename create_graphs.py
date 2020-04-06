@@ -1,4 +1,5 @@
 import networkx as nx
+from networkx.algorithms import bipartite
 import numpy as np
 
 from utils import *
@@ -18,6 +19,12 @@ def create(args):
         for i in range(2, 11):
             graphs.append(nx.ladder_graph(i))
         args.max_prev_node = 10
+    elif args.graph_type=='bipartite_small':
+        graphs = []
+        for n in range(10,15):
+            for m in range(15, 30-n):
+                graphs.append(bipartite.random_graph(n,m, 0.2))
+        args.max_prev_node = 30
     elif args.graph_type=='tree':
         graphs = []
         for i in range(2,5):

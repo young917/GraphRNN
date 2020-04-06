@@ -1,8 +1,16 @@
 from train import *
+import sys
 
 if __name__ == '__main__':
+
+    # [Fix] cuDNN error
+    # torch.backends.cudnn.enabled = False
+
     # All necessary arguments are defined in args.py
-    args = Args()
+    # args = Args()
+    # For shell script
+    args = Args(sys.argv[1], sys.argv[2])
+    
     os.environ['CUDA_VISIBLE_DEVICES'] = str(args.cuda)
     print('CUDA', args.cuda)
     print('File name prefix',args.fname)
@@ -103,15 +111,15 @@ if __name__ == '__main__':
     else:
         dataset = Graph_sequence_sampler_pytorch(graphs_train,max_prev_node=args.max_prev_node,max_num_node=args.max_num_node)
     sample_strategy = torch.utils.data.sampler.WeightedRandomSampler([1.0 / len(dataset) for i in range(len(dataset))],
-                                                                     num_samples=args.batch_size*args.batch_ratio, replacement=True)
-    dataset_loader = torch.utils.data.DataLoader(dataset, batch_size=args.batch_size, num_workers=args.num_workers,
-                                               sampler=sample_strategy)
+                                                                   num_samples=args.batch_size*args.batch_ratio, replacement=True)
+    dataset_loader = torch.utils.data.DataLoader(dataset, batch_size=args.batch_size, sampler=sample_strategy) #num_workers=args.num_workers
+    # [ Fix ] RuntimeError: DataLoader worker (pid 13) is killed by signal: Bus error 
 
     ### model initialization
     ## Graph RNN VAE model
     # lstm = LSTM_plain(input_size=args.max_prev_node, embedding_size=args.embedding_size_lstm,
     #                   hidden_size=args.hidden_size, num_layers=args.num_layers).cuda()
-
+    
     if 'GraphRNN_VAE_conditional' in args.note:
         rnn = GRU_plain(input_size=args.max_prev_node, embedding_size=args.embedding_size_rnn,
                         hidden_size=args.hidden_size_rnn, num_layers=args.num_layers, has_input=True,

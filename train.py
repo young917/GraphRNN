@@ -134,7 +134,7 @@ def test_vae_epoch(epoch, args, rnn, output, test_batch_size=16, save_histogram=
     # save prediction histograms, plot histogram over each time step
     # if save_histogram:
     #     save_prediction_histogram(y_pred_data.cpu().numpy(),
-    #                           fname_pred=args.figure_prediction_save_path+args.fname_pred+str(epoch)+'.jpg',
+    #                           pred=args.figure_prediction_save_path+args.fname_pred+str(epoch)+'.jpg',
     #                           max_num_node=max_num_node)
 
 
@@ -510,12 +510,12 @@ def train_rnn_epoch(epoch, args, rnn, output, data_loader,
 
         if epoch % args.epochs_log==0 and batch_idx==0: # only output first batch's statistics
             print('Epoch: {}/{}, train loss: {:.6f}, graph type: {}, num_layer: {}, hidden: {}'.format(
-                epoch, args.epochs,loss.data[0], args.graph_type, args.num_layers, args.hidden_size_rnn))
+                epoch, args.epochs,loss.item(), args.graph_type, args.num_layers, args.hidden_size_rnn))
 
         # logging
-        log_value('loss_'+args.fname, loss.data[0], epoch*args.batch_ratio+batch_idx)
+        log_value('loss_'+args.fname, loss.item(), epoch*args.batch_ratio+batch_idx)
         feature_dim = y.size(1)*y.size(2)
-        loss_sum += loss.data[0]*feature_dim
+        loss_sum += loss.item()*feature_dim
     return loss_sum/(batch_idx+1)
 
 
