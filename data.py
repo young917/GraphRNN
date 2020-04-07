@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from random import shuffle
 
 import networkx as nx
+from networkx.algorithms import bipartite
 import pickle as pkl
 import scipy.sparse as sp
 import logging
@@ -130,7 +131,7 @@ def Graph_load(dataset = 'cora'):
     adj = nx.adjacency_matrix(G)
     return adj, features, G
 
-def Hypergraph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'email_Enron', node_attributes = False, graph_labels=False):
+def Hypergraph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'email-Enron', node_attributes = False, graph_labels=False):
 
     print('Loading graph dataset: '+str(name))
     G = nx.Graph()
@@ -138,8 +139,9 @@ def Hypergraph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'emai
     path = '../../minyoung/'+name+'/'
     data_simplices = np.loadtxt(path+name+'-simplices.txt', dtype=np.int).flatten()
     data_nverts_per_simplices = np.loadtxt(path+name+'-nverts.txt', dtype=np.int).flatten()
-    hedge_num = np.amax(data_nverts) + 1
+    hedge_num = np.amax(data_simplices) + 1
 
+    # add nodes and edges
     start = 0
     for n in data_nverts_per_simplices:
         verts_in_simplice = data_simplices[start:start+n]
@@ -148,6 +150,26 @@ def Hypergraph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'emai
         G.add_edges_from([(hedge_num,v) for v in verts_in_simplice])
         start += n
         hedge_num += 1
+    
+    print('number of graph:',nx.number_connected_components(G))
+
+    #split into connected component
+    graphs = []
+    for nodes in nx.connected_components(G):
+        G_sub = G.subgraph(nodes)
+        
+        assert bipartite.is_bipartite(G_sub)
+        
+        print('number of edge:', G.number_of_edges())
+        print('number of node:', G.number_of_nodes())
+        print()
+
+        graphs.append(G_sub)
+        #if G_sub.number_of_nodes() >= min_num_nodes and G_sub.number_of_nodes() <= max_num_nodes:
+        #    graphs.append(G_sub)
+    
+    print('Loaded')
+    return graphs
 
 
 ######### code test ########
@@ -1408,4 +1430,5 @@ class GraphDataset(torch.utils.data.Dataset):
                   'node_list_pad':node_list_pad, 'node_count_list_pad':node_count_list_pad, 'node_adj_list':node_adj_list}
         return sample
 
-
+if __name__ == '__main__':
+    Hypergraph_load_batch()
