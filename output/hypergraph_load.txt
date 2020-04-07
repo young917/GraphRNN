@@ -1,0 +1,13322 @@
+[Email Enron]
+Loading graph dataset: email-Enron
+number of edge: 235
+number of node: 119
+
+number of edge: 234
+number of node: 114
+
+number of edge: 260
+number of node: 116
+
+number of edge: 225
+number of node: 120
+
+number of edge: 257
+number of node: 138
+
+number of edge: 258
+number of node: 150
+
+number of edge: 250
+number of node: 144
+
+number of edge: 232
+number of node: 144
+
+number of edge: 240
+number of node: 143
+
+number of edge: 242
+number of node: 149
+
+number of edge: 227
+number of node: 157
+
+number of edge: 254
+number of node: 140
+
+number of edge: 232
+number of node: 149
+
+number of edge: 242
+number of node: 148
+
+number of edge: 256
+number of node: 154
+
+number of edge: 233
+number of node: 154
+
+number of edge: 258
+number of node: 158
+
+number of edge: 239
+number of node: 159
+
+number of edge: 252
+number of node: 163
+
+number of edge: 223
+number of node: 146
+
+number of edge: 262
+number of node: 166
+
+number of edge: 252
+number of node: 167
+
+number of edge: 249
+number of node: 172
+
+number of edge: 249
+number of node: 166
+
+number of edge: 234
+number of node: 161
+
+number of edge: 236
+number of node: 164
+
+number of edge: 221
+number of node: 158
+
+number of edge: 223
+number of node: 157
+
+number of edge: 235
+number of node: 165
+
+number of edge: 236
+number of node: 165
+
+number of edge: 236
+number of node: 164
+
+number of edge: 245
+number of node: 162
+
+number of edge: 253
+number of node: 160
+
+number of edge: 251
+number of node: 164
+
+number of edge: 244
+number of node: 154
+
+number of edge: 234
+number of node: 168
+
+number of edge: 230
+number of node: 163
+
+number of edge: 256
+number of node: 167
+
+number of edge: 244
+number of node: 165
+
+number of edge: 232
+number of node: 163
+
+number of edge: 204
+number of node: 157
+
+number of edge: 252
+number of node: 169
+
+number of edge: 258
+number of node: 177
+
+number of edge: 236
+number of node: 164
+
+number of edge: 231
+number of node: 161
+
+number of edge: 220
+number of node: 153
+
+number of edge: 239
+number of node: 169
+
+number of edge: 249
+number of node: 167
+
+number of edge: 246
+number of node: 164
+
+number of edge: 262
+number of node: 154
+
+number of edge: 264
+number of node: 159
+
+number of edge: 288
+number of node: 163
+
+number of edge: 262
+number of node: 163
+
+number of edge: 247
+number of node: 157
+
+number of edge: 312
+number of node: 165
+
+number of edge: 265
+number of node: 169
+
+number of edge: 253
+number of node: 171
+
+number of edge: 288
+number of node: 155
+
+number of edge: 278
+number of node: 170
+
+number of edge: 251
+number of node: 156
+
+number of edge: 253
+number of node: 163
+
+number of edge: 243
+number of node: 159
+
+number of edge: 233
+number of node: 153
+
+number of edge: 225
+number of node: 164
+
+number of edge: 244
+number of node: 153
+
+number of edge: 216
+number of node: 158
+
+number of edge: 217
+number of node: 163
+
+number of edge: 259
+number of node: 174
+
+number of edge: 237
+number of node: 174
+
+number of edge: 227
+number of node: 171
+
+number of edge: 242
+number of node: 163
+
+number of edge: 224
+number of node: 160
+
+number of edge: 225
+number of node: 161
+
+number of edge: 223
+number of node: 161
+
+number of edge: 223
+number of node: 154
+
+number of edge: 223
+number of node: 154
+
+number of edge: 274
+number of node: 160
+
+number of edge: 300
+number of node: 136
+
+number of edge: 302
+number of node: 138
+
+number of edge: 319
+number of node: 152
+
+number of edge: 303
+number of node: 157
+
+number of edge: 273
+number of node: 165
+
+number of edge: 247
+number of node: 149
+
+number of edge: 303
+number of node: 162
+
+number of edge: 250
+number of node: 157
+
+number of edge: 255
+number of node: 167
+
+number of edge: 295
+number of node: 167
+
+number of edge: 221
+number of node: 164
+
+number of edge: 275
+number of node: 169
+
+number of edge: 250
+number of node: 158
+
+number of edge: 265
+number of node: 173
+
+number of edge: 220
+number of node: 159
+
+number of edge: 264
+number of node: 167
+
+number of edge: 239
+number of node: 155
+
+number of edge: 242
+number of node: 163
+
+number of edge: 257
+number of node: 158
+
+number of edge: 226
+number of node: 165
+
+number of edge: 228
+number of node: 161
+
+number of edge: 259
+number of node: 173
+
+number of edge: 244
+number of node: 156
+
+number of edge: 227
+number of node: 162
+
+number of edge: 219
+number of node: 161
+
+number of edge: 229
+number of node: 159
+
+number of edge: 258
+number of node: 147
+
+number of edge: 243
+number of node: 152
+
+number of edge: 246
+number of node: 155
+
+number of edge: 239
+number of node: 155
+
+number of edge: 244
+number of node: 124
+
+number of graph: 108
+Loaded
+
+[Congress Bills]
+Loading graph dataset: congress-bills
+number of edge: 132
+number of node: 148
+
+number of edge: 155
+number of node: 172
+
+number of edge: 212
+number of node: 194
+
+number of edge: 267
+number of node: 213
+
+number of edge: 102
+number of node: 121
+
+number of edge: 140
+number of node: 164
+
+number of edge: 190
+number of node: 201
+
+number of edge: 336
+number of node: 290
+
+number of edge: 134
+number of node: 171
+
+number of edge: 238
+number of node: 221
+
+number of edge: 188
+number of node: 169
+
+number of edge: 183
+number of node: 194
+
+number of edge: 292
+number of node: 177
+
+number of edge: 186
+number of node: 200
+
+number of edge: 104
+number of node: 145
+
+number of edge: 192
+number of node: 207
+
+number of edge: 217
+number of node: 206
+
+number of edge: 225
+number of node: 166
+
+number of edge: 173
+number of node: 167
+
+number of edge: 329
+number of node: 250
+
+number of edge: 488
+number of node: 233
+
+number of edge: 328
+number of node: 271
+
+number of edge: 129
+number of node: 148
+
+number of edge: 142
+number of node: 167
+
+number of edge: 256
+number of node: 242
+
+number of edge: 207
+number of node: 204
+
+number of edge: 312
+number of node: 268
+
+number of edge: 294
+number of node: 290
+
+number of edge: 124
+number of node: 145
+
+number of edge: 199
+number of node: 210
+
+number of edge: 443
+number of node: 260
+
+number of edge: 359
+number of node: 321
+
+number of edge: 468
+number of node: 321
+
+number of edge: 750
+number of node: 430
+
+number of edge: 305
+number of node: 277
+
+number of edge: 396
+number of node: 320
+
+number of edge: 368
+number of node: 315
+
+number of edge: 395
+number of node: 326
+
+number of edge: 239
+number of node: 235
+
+number of edge: 286
+number of node: 245
+
+number of edge: 283
+number of node: 268
+
+number of edge: 286
+number of node: 294
+
+number of edge: 222
+number of node: 249
+
+number of edge: 187
+number of node: 210
+
+number of edge: 255
+number of node: 215
+
+number of edge: 343
+number of node: 317
+
+number of edge: 375
+number of node: 302
+
+number of edge: 217
+number of node: 233
+
+number of edge: 338
+number of node: 243
+
+number of edge: 449
+number of node: 368
+
+number of edge: 394
+number of node: 290
+
+number of edge: 427
+number of node: 302
+
+number of edge: 191
+number of node: 230
+
+number of edge: 890
+number of node: 289
+
+number of edge: 534
+number of node: 393
+
+number of edge: 406
+number of node: 315
+
+number of edge: 373
+number of node: 314
+
+number of edge: 567
+number of node: 338
+
+number of edge: 410
+number of node: 262
+
+number of edge: 240
+number of node: 236
+
+number of edge: 229
+number of node: 263
+
+number of edge: 136
+number of node: 176
+
+number of edge: 364
+number of node: 296
+
+number of edge: 536
+number of node: 369
+
+number of edge: 345
+number of node: 283
+
+number of edge: 417
+number of node: 335
+
+number of edge: 490
+number of node: 335
+
+number of edge: 351
+number of node: 302
+
+number of edge: 360
+number of node: 322
+
+number of edge: 337
+number of node: 312
+
+number of edge: 324
+number of node: 262
+
+number of edge: 593
+number of node: 383
+
+number of edge: 458
+number of node: 320
+
+number of edge: 266
+number of node: 270
+
+number of edge: 425
+number of node: 374
+
+number of edge: 266
+number of node: 262
+
+number of edge: 273
+number of node: 283
+
+number of edge: 447
+number of node: 308
+
+number of edge: 531
+number of node: 357
+
+number of edge: 270
+number of node: 282
+
+number of edge: 323
+number of node: 307
+
+number of edge: 341
+number of node: 331
+
+number of edge: 582
+number of node: 390
+
+number of edge: 297
+number of node: 294
+
+number of edge: 274
+number of node: 292
+
+number of edge: 491
+number of node: 372
+
+number of edge: 396
+number of node: 338
+
+number of edge: 449
+number of node: 346
+
+number of edge: 356
+number of node: 326
+
+number of edge: 410
+number of node: 333
+
+number of edge: 332
+number of node: 284
+
+number of edge: 396
+number of node: 332
+
+number of edge: 259
+number of node: 283
+
+number of edge: 558
+number of node: 438
+
+number of edge: 262
+number of node: 275
+
+number of edge: 302
+number of node: 285
+
+number of edge: 315
+number of node: 280
+
+number of edge: 457
+number of node: 345
+
+number of edge: 441
+number of node: 336
+
+number of edge: 357
+number of node: 306
+
+number of edge: 266
+number of node: 264
+
+number of edge: 265
+number of node: 287
+
+number of edge: 450
+number of node: 321
+
+number of edge: 356
+number of node: 308
+
+number of edge: 244
+number of node: 265
+
+number of edge: 378
+number of node: 339
+
+number of edge: 306
+number of node: 309
+
+number of edge: 286
+number of node: 287
+
+number of edge: 418
+number of node: 332
+
+number of edge: 439
+number of node: 334
+
+number of edge: 299
+number of node: 301
+
+number of edge: 361
+number of node: 288
+
+number of edge: 418
+number of node: 329
+
+number of edge: 375
+number of node: 332
+
+number of edge: 355
+number of node: 305
+
+number of edge: 442
+number of node: 315
+
+number of edge: 438
+number of node: 324
+
+number of edge: 406
+number of node: 320
+
+number of edge: 306
+number of node: 300
+
+number of edge: 294
+number of node: 295
+
+number of edge: 495
+number of node: 379
+
+number of edge: 394
+number of node: 345
+
+number of edge: 331
+number of node: 326
+
+number of edge: 394
+number of node: 313
+
+number of edge: 323
+number of node: 310
+
+number of edge: 433
+number of node: 327
+
+number of edge: 345
+number of node: 312
+
+number of edge: 428
+number of node: 350
+
+number of edge: 283
+number of node: 284
+
+number of edge: 377
+number of node: 331
+
+number of edge: 247
+number of node: 266
+
+number of edge: 387
+number of node: 347
+
+number of edge: 438
+number of node: 357
+
+number of edge: 355
+number of node: 281
+
+number of edge: 368
+number of node: 337
+
+number of edge: 406
+number of node: 356
+
+number of edge: 553
+number of node: 365
+
+number of edge: 567
+number of node: 352
+
+number of edge: 374
+number of node: 349
+
+number of edge: 205
+number of node: 250
+
+number of edge: 397
+number of node: 335
+
+number of edge: 465
+number of node: 368
+
+number of edge: 386
+number of node: 348
+
+number of edge: 334
+number of node: 334
+
+number of edge: 273
+number of node: 281
+
+number of edge: 279
+number of node: 292
+
+number of edge: 388
+number of node: 334
+
+number of edge: 369
+number of node: 333
+
+number of edge: 409
+number of node: 366
+
+number of edge: 288
+number of node: 306
+
+number of edge: 447
+number of node: 335
+
+number of edge: 287
+number of node: 280
+
+number of edge: 387
+number of node: 327
+
+number of edge: 644
+number of node: 427
+
+number of edge: 593
+number of node: 377
+
+number of edge: 422
+number of node: 336
+
+number of edge: 410
+number of node: 347
+
+number of edge: 332
+number of node: 314
+
+number of edge: 465
+number of node: 359
+
+number of edge: 345
+number of node: 326
+
+number of edge: 460
+number of node: 366
+
+number of edge: 452
+number of node: 361
+
+number of edge: 333
+number of node: 299
+
+number of edge: 302
+number of node: 306
+
+number of edge: 365
+number of node: 340
+
+number of edge: 392
+number of node: 354
+
+number of edge: 335
+number of node: 330
+
+number of edge: 457
+number of node: 384
+
+number of edge: 340
+number of node: 331
+
+number of edge: 278
+number of node: 296
+
+number of edge: 353
+number of node: 329
+
+number of edge: 360
+number of node: 342
+
+number of edge: 222
+number of node: 262
+
+number of edge: 292
+number of node: 310
+
+number of edge: 432
+number of node: 364
+
+number of edge: 368
+number of node: 320
+
+number of edge: 454
+number of node: 376
+
+number of edge: 437
+number of node: 355
+
+number of edge: 328
+number of node: 298
+
+number of edge: 322
+number of node: 310
+
+number of edge: 301
+number of node: 297
+
+number of edge: 393
+number of node: 331
+
+number of edge: 355
+number of node: 343
+
+number of edge: 433
+number of node: 340
+
+number of edge: 543
+number of node: 399
+
+number of edge: 329
+number of node: 324
+
+number of edge: 465
+number of node: 368
+
+number of edge: 538
+number of node: 377
+
+number of edge: 289
+number of node: 301
+
+number of edge: 344
+number of node: 334
+
+number of edge: 421
+number of node: 376
+
+number of edge: 380
+number of node: 330
+
+number of edge: 321
+number of node: 290
+
+number of edge: 375
+number of node: 321
+
+number of edge: 305
+number of node: 316
+
+number of edge: 240
+number of node: 278
+
+number of edge: 365
+number of node: 324
+
+number of edge: 275
+number of node: 298
+
+number of edge: 316
+number of node: 321
+
+number of edge: 502
+number of node: 380
+
+number of edge: 250
+number of node: 282
+
+number of edge: 548
+number of node: 373
+
+number of edge: 425
+number of node: 359
+
+number of edge: 173
+number of node: 217
+
+number of edge: 372
+number of node: 352
+
+number of edge: 338
+number of node: 314
+
+number of edge: 370
+number of node: 333
+
+number of edge: 441
+number of node: 345
+
+number of edge: 282
+number of node: 291
+
+number of edge: 358
+number of node: 329
+
+number of edge: 438
+number of node: 377
+
+number of edge: 764
+number of node: 461
+
+number of edge: 430
+number of node: 372
+
+number of edge: 285
+number of node: 300
+
+number of edge: 455
+number of node: 341
+
+number of edge: 525
+number of node: 414
+
+number of edge: 428
+number of node: 368
+
+number of edge: 465
+number of node: 369
+
+number of edge: 626
+number of node: 437
+
+number of edge: 258
+number of node: 286
+
+number of edge: 484
+number of node: 383
+
+number of edge: 434
+number of node: 382
+
+number of edge: 325
+number of node: 323
+
+number of edge: 342
+number of node: 320
+
+number of edge: 390
+number of node: 371
+
+number of edge: 439
+number of node: 346
+
+number of edge: 251
+number of node: 292
+
+number of edge: 465
+number of node: 360
+
+number of edge: 497
+number of node: 357
+
+number of edge: 325
+number of node: 307
+
+number of edge: 443
+number of node: 385
+
+number of edge: 527
+number of node: 395
+
+number of edge: 307
+number of node: 282
+
+number of edge: 395
+number of node: 343
+
+number of edge: 455
+number of node: 352
+
+number of edge: 472
+number of node: 326
+
+number of edge: 552
+number of node: 409
+
+number of edge: 457
+number of node: 327
+
+number of edge: 564
+number of node: 406
+
+number of edge: 488
+number of node: 352
+
+number of edge: 283
+number of node: 283
+
+number of edge: 226
+number of node: 260
+
+number of edge: 323
+number of node: 301
+
+number of edge: 266
+number of node: 278
+
+number of edge: 268
+number of node: 281
+
+number of edge: 374
+number of node: 343
+
+number of edge: 346
+number of node: 356
+
+number of edge: 284
+number of node: 296
+
+number of edge: 213
+number of node: 263
+
+number of edge: 303
+number of node: 325
+
+number of edge: 375
+number of node: 344
+
+number of edge: 324
+number of node: 333
+
+number of edge: 264
+number of node: 279
+
+number of edge: 351
+number of node: 329
+
+number of edge: 277
+number of node: 292
+
+number of edge: 309
+number of node: 308
+
+number of edge: 286
+number of node: 300
+
+number of edge: 279
+number of node: 277
+
+number of edge: 298
+number of node: 292
+
+number of edge: 358
+number of node: 339
+
+number of edge: 141
+number of node: 162
+
+number of edge: 125
+number of node: 159
+
+number of edge: 244
+number of node: 226
+
+number of edge: 146
+number of node: 171
+
+number of edge: 107
+number of node: 148
+
+number of edge: 127
+number of node: 160
+
+number of edge: 167
+number of node: 187
+
+number of edge: 151
+number of node: 179
+
+number of edge: 283
+number of node: 238
+
+number of edge: 147
+number of node: 171
+
+number of edge: 109
+number of node: 123
+
+number of edge: 223
+number of node: 198
+
+number of edge: 197
+number of node: 215
+
+number of edge: 173
+number of node: 193
+
+number of edge: 160
+number of node: 189
+
+number of edge: 235
+number of node: 198
+
+number of edge: 222
+number of node: 208
+
+number of edge: 317
+number of node: 194
+
+number of edge: 246
+number of node: 222
+
+number of edge: 260
+number of node: 252
+
+number of edge: 282
+number of node: 252
+
+number of edge: 329
+number of node: 274
+
+number of edge: 472
+number of node: 329
+
+number of edge: 275
+number of node: 245
+
+number of edge: 481
+number of node: 323
+
+number of edge: 268
+number of node: 232
+
+number of edge: 427
+number of node: 315
+
+number of edge: 163
+number of node: 185
+
+number of edge: 451
+number of node: 361
+
+number of edge: 315
+number of node: 289
+
+number of edge: 495
+number of node: 385
+
+number of edge: 401
+number of node: 292
+
+number of edge: 562
+number of node: 375
+
+number of edge: 366
+number of node: 315
+
+number of edge: 596
+number of node: 410
+
+number of edge: 390
+number of node: 308
+
+number of edge: 348
+number of node: 291
+
+number of edge: 399
+number of node: 327
+
+number of edge: 548
+number of node: 392
+
+number of edge: 501
+number of node: 365
+
+number of edge: 646
+number of node: 349
+
+number of edge: 480
+number of node: 305
+
+number of edge: 275
+number of node: 255
+
+number of edge: 260
+number of node: 260
+
+number of edge: 488
+number of node: 326
+
+number of edge: 663
+number of node: 368
+
+number of edge: 597
+number of node: 318
+
+number of edge: 417
+number of node: 312
+
+number of edge: 515
+number of node: 361
+
+number of edge: 494
+number of node: 295
+
+number of edge: 305
+number of node: 296
+
+number of edge: 267
+number of node: 256
+
+number of edge: 446
+number of node: 359
+
+number of edge: 380
+number of node: 335
+
+number of edge: 480
+number of node: 335
+
+number of edge: 346
+number of node: 307
+
+number of edge: 212
+number of node: 230
+
+number of edge: 406
+number of node: 334
+
+number of edge: 436
+number of node: 311
+
+number of edge: 632
+number of node: 392
+
+number of edge: 574
+number of node: 349
+
+number of edge: 417
+number of node: 287
+
+number of edge: 255
+number of node: 160
+
+number of edge: 301
+number of node: 298
+
+number of edge: 389
+number of node: 298
+
+number of edge: 479
+number of node: 292
+
+number of edge: 339
+number of node: 309
+
+number of edge: 419
+number of node: 329
+
+number of edge: 459
+number of node: 384
+
+number of edge: 360
+number of node: 293
+
+number of edge: 550
+number of node: 345
+
+number of edge: 550
+number of node: 341
+
+number of edge: 503
+number of node: 363
+
+number of edge: 570
+number of node: 369
+
+number of edge: 434
+number of node: 372
+
+number of edge: 571
+number of node: 395
+
+number of edge: 374
+number of node: 319
+
+number of edge: 419
+number of node: 355
+
+number of edge: 514
+number of node: 375
+
+number of edge: 417
+number of node: 319
+
+number of edge: 452
+number of node: 385
+
+number of edge: 292
+number of node: 293
+
+number of edge: 504
+number of node: 374
+
+number of edge: 497
+number of node: 355
+
+number of edge: 508
+number of node: 327
+
+number of edge: 414
+number of node: 343
+
+number of edge: 403
+number of node: 319
+
+number of edge: 487
+number of node: 377
+
+number of edge: 392
+number of node: 346
+
+number of edge: 446
+number of node: 354
+
+number of edge: 302
+number of node: 276
+
+number of edge: 347
+number of node: 269
+
+number of edge: 416
+number of node: 341
+
+number of edge: 385
+number of node: 318
+
+number of edge: 466
+number of node: 347
+
+number of edge: 423
+number of node: 322
+
+number of edge: 480
+number of node: 366
+
+number of edge: 648
+number of node: 408
+
+number of edge: 496
+number of node: 371
+
+number of edge: 412
+number of node: 332
+
+number of edge: 373
+number of node: 326
+
+number of edge: 1269
+number of node: 280
+
+number of edge: 1195
+number of node: 291
+
+number of edge: 945
+number of node: 297
+
+number of edge: 568
+number of node: 392
+
+number of edge: 459
+number of node: 372
+
+number of edge: 454
+number of node: 381
+
+number of edge: 505
+number of node: 377
+
+number of edge: 432
+number of node: 357
+
+number of edge: 396
+number of node: 355
+
+number of edge: 369
+number of node: 322
+
+number of edge: 267
+number of node: 304
+
+number of edge: 454
+number of node: 370
+
+number of edge: 322
+number of node: 321
+
+number of edge: 466
+number of node: 404
+
+number of edge: 450
+number of node: 387
+
+number of edge: 586
+number of node: 369
+
+number of edge: 459
+number of node: 364
+
+number of edge: 338
+number of node: 315
+
+number of edge: 371
+number of node: 345
+
+number of edge: 379
+number of node: 347
+
+number of edge: 501
+number of node: 390
+
+number of edge: 382
+number of node: 345
+
+number of edge: 415
+number of node: 320
+
+number of edge: 412
+number of node: 357
+
+number of edge: 604
+number of node: 379
+
+number of edge: 442
+number of node: 368
+
+number of edge: 296
+number of node: 305
+
+number of edge: 365
+number of node: 352
+
+number of edge: 519
+number of node: 360
+
+number of edge: 697
+number of node: 449
+
+number of edge: 577
+number of node: 420
+
+number of edge: 497
+number of node: 380
+
+number of edge: 417
+number of node: 364
+
+number of edge: 482
+number of node: 389
+
+number of edge: 318
+number of node: 331
+
+number of edge: 312
+number of node: 327
+
+number of edge: 629
+number of node: 409
+
+number of edge: 446
+number of node: 355
+
+number of edge: 324
+number of node: 326
+
+number of edge: 421
+number of node: 367
+
+number of edge: 383
+number of node: 348
+
+number of edge: 399
+number of node: 354
+
+number of edge: 350
+number of node: 334
+
+number of edge: 386
+number of node: 354
+
+number of edge: 471
+number of node: 384
+
+number of edge: 540
+number of node: 486
+
+number of edge: 458
+number of node: 384
+
+number of edge: 308
+number of node: 314
+
+number of edge: 583
+number of node: 496
+
+number of edge: 423
+number of node: 383
+
+number of edge: 389
+number of node: 366
+
+number of edge: 359
+number of node: 328
+
+number of edge: 438
+number of node: 357
+
+number of edge: 281
+number of node: 295
+
+number of edge: 575
+number of node: 414
+
+number of edge: 425
+number of node: 347
+
+number of edge: 653
+number of node: 441
+
+number of edge: 466
+number of node: 362
+
+number of edge: 308
+number of node: 316
+
+number of edge: 289
+number of node: 310
+
+number of edge: 337
+number of node: 329
+
+number of edge: 328
+number of node: 322
+
+number of edge: 356
+number of node: 333
+
+number of edge: 401
+number of node: 338
+
+number of edge: 362
+number of node: 340
+
+number of edge: 331
+number of node: 335
+
+number of edge: 216
+number of node: 261
+
+number of edge: 517
+number of node: 427
+
+number of edge: 265
+number of node: 297
+
+number of edge: 368
+number of node: 346
+
+number of edge: 286
+number of node: 299
+
+number of edge: 439
+number of node: 369
+
+number of edge: 501
+number of node: 363
+
+number of edge: 506
+number of node: 395
+
+number of edge: 335
+number of node: 317
+
+number of edge: 358
+number of node: 323
+
+number of edge: 470
+number of node: 365
+
+number of edge: 439
+number of node: 329
+
+number of edge: 414
+number of node: 342
+
+number of edge: 438
+number of node: 361
+
+number of edge: 391
+number of node: 353
+
+number of edge: 348
+number of node: 350
+
+number of edge: 371
+number of node: 339
+
+number of edge: 412
+number of node: 341
+
+number of edge: 432
+number of node: 355
+
+number of edge: 544
+number of node: 364
+
+number of edge: 406
+number of node: 345
+
+number of edge: 381
+number of node: 359
+
+number of edge: 332
+number of node: 313
+
+number of edge: 419
+number of node: 384
+
+number of edge: 595
+number of node: 432
+
+number of edge: 543
+number of node: 375
+
+number of edge: 593
+number of node: 414
+
+number of edge: 317
+number of node: 304
+
+number of edge: 400
+number of node: 361
+
+number of edge: 354
+number of node: 307
+
+number of edge: 311
+number of node: 301
+
+number of edge: 355
+number of node: 332
+
+number of edge: 265
+number of node: 285
+
+number of edge: 387
+number of node: 336
+
+number of edge: 333
+number of node: 324
+
+number of edge: 339
+number of node: 300
+
+number of edge: 385
+number of node: 337
+
+number of edge: 345
+number of node: 307
+
+number of edge: 310
+number of node: 304
+
+number of edge: 343
+number of node: 311
+
+number of edge: 856
+number of node: 371
+
+number of edge: 545
+number of node: 379
+
+number of edge: 454
+number of node: 410
+
+number of edge: 326
+number of node: 303
+
+number of edge: 338
+number of node: 323
+
+number of edge: 479
+number of node: 379
+
+number of edge: 339
+number of node: 342
+
+number of edge: 605
+number of node: 455
+
+number of edge: 593
+number of node: 433
+
+number of edge: 359
+number of node: 333
+
+number of edge: 428
+number of node: 367
+
+number of edge: 594
+number of node: 426
+
+number of edge: 319
+number of node: 292
+
+number of edge: 333
+number of node: 334
+
+number of edge: 301
+number of node: 309
+
+number of edge: 579
+number of node: 383
+
+number of edge: 408
+number of node: 354
+
+number of edge: 554
+number of node: 364
+
+number of edge: 564
+number of node: 390
+
+number of edge: 476
+number of node: 342
+
+number of edge: 688
+number of node: 372
+
+number of edge: 527
+number of node: 418
+
+number of edge: 471
+number of node: 370
+
+number of edge: 387
+number of node: 315
+
+number of edge: 332
+number of node: 293
+
+number of edge: 343
+number of node: 316
+
+number of edge: 252
+number of node: 284
+
+number of edge: 369
+number of node: 321
+
+number of edge: 474
+number of node: 368
+
+number of edge: 306
+number of node: 296
+
+number of edge: 414
+number of node: 305
+
+number of edge: 320
+number of node: 295
+
+number of edge: 497
+number of node: 418
+
+number of edge: 323
+number of node: 314
+
+number of edge: 100
+number of node: 133
+
+number of edge: 151
+number of node: 160
+
+number of edge: 110
+number of node: 134
+
+number of edge: 173
+number of node: 179
+
+number of edge: 197
+number of node: 190
+
+number of edge: 238
+number of node: 225
+
+number of edge: 133
+number of node: 146
+
+number of edge: 316
+number of node: 268
+
+number of edge: 282
+number of node: 262
+
+number of edge: 285
+number of node: 260
+
+number of edge: 251
+number of node: 212
+
+number of edge: 201
+number of node: 190
+
+number of edge: 202
+number of node: 196
+
+number of edge: 118
+number of node: 154
+
+number of edge: 148
+number of node: 164
+
+number of edge: 146
+number of node: 181
+
+number of edge: 332
+number of node: 268
+
+number of edge: 262
+number of node: 254
+
+number of edge: 269
+number of node: 223
+
+number of edge: 391
+number of node: 230
+
+number of edge: 230
+number of node: 238
+
+number of edge: 257
+number of node: 262
+
+number of edge: 327
+number of node: 305
+
+number of edge: 200
+number of node: 208
+
+number of edge: 585
+number of node: 391
+
+number of edge: 251
+number of node: 226
+
+number of edge: 443
+number of node: 306
+
+number of edge: 174
+number of node: 207
+
+number of edge: 151
+number of node: 171
+
+number of edge: 795
+number of node: 368
+
+number of edge: 505
+number of node: 343
+
+number of edge: 326
+number of node: 249
+
+number of edge: 687
+number of node: 331
+
+number of edge: 582
+number of node: 340
+
+number of edge: 483
+number of node: 320
+
+number of edge: 487
+number of node: 350
+
+number of edge: 296
+number of node: 290
+
+number of edge: 603
+number of node: 420
+
+number of edge: 347
+number of node: 276
+
+number of edge: 391
+number of node: 332
+
+number of edge: 337
+number of node: 296
+
+number of edge: 656
+number of node: 406
+
+number of edge: 492
+number of node: 382
+
+number of edge: 480
+number of node: 357
+
+number of edge: 395
+number of node: 334
+
+number of edge: 591
+number of node: 347
+
+number of edge: 672
+number of node: 389
+
+number of edge: 519
+number of node: 316
+
+number of edge: 486
+number of node: 356
+
+number of edge: 467
+number of node: 304
+
+number of edge: 639
+number of node: 388
+
+number of edge: 332
+number of node: 299
+
+number of edge: 395
+number of node: 334
+
+number of edge: 664
+number of node: 339
+
+number of edge: 550
+number of node: 330
+
+number of edge: 660
+number of node: 386
+
+number of edge: 537
+number of node: 371
+
+number of edge: 648
+number of node: 348
+
+number of edge: 555
+number of node: 395
+
+number of edge: 662
+number of node: 367
+
+number of edge: 531
+number of node: 373
+
+number of edge: 503
+number of node: 357
+
+number of edge: 378
+number of node: 299
+
+number of edge: 509
+number of node: 331
+
+number of edge: 463
+number of node: 358
+
+number of edge: 504
+number of node: 351
+
+number of edge: 552
+number of node: 414
+
+number of edge: 654
+number of node: 346
+
+number of edge: 620
+number of node: 399
+
+number of edge: 604
+number of node: 413
+
+number of edge: 609
+number of node: 379
+
+number of edge: 486
+number of node: 396
+
+number of edge: 439
+number of node: 363
+
+number of edge: 1353
+number of node: 283
+
+number of edge: 687
+number of node: 428
+
+number of edge: 363
+number of node: 339
+
+number of edge: 416
+number of node: 361
+
+number of edge: 759
+number of node: 409
+
+number of edge: 371
+number of node: 340
+
+number of edge: 540
+number of node: 380
+
+number of edge: 689
+number of node: 399
+
+number of edge: 647
+number of node: 367
+
+number of edge: 384
+number of node: 330
+
+number of edge: 384
+number of node: 350
+
+number of edge: 636
+number of node: 398
+
+number of edge: 535
+number of node: 401
+
+number of edge: 439
+number of node: 366
+
+number of edge: 433
+number of node: 349
+
+number of edge: 457
+number of node: 344
+
+number of edge: 624
+number of node: 410
+
+number of edge: 393
+number of node: 341
+
+number of edge: 484
+number of node: 378
+
+number of edge: 384
+number of node: 331
+
+number of edge: 601
+number of node: 418
+
+number of edge: 378
+number of node: 354
+
+number of edge: 459
+number of node: 383
+
+number of edge: 522
+number of node: 366
+
+number of edge: 432
+number of node: 324
+
+number of edge: 455
+number of node: 376
+
+number of edge: 306
+number of node: 300
+
+number of edge: 488
+number of node: 355
+
+number of edge: 444
+number of node: 369
+
+number of edge: 635
+number of node: 403
+
+number of edge: 367
+number of node: 340
+
+number of edge: 635
+number of node: 403
+
+number of edge: 546
+number of node: 373
+
+number of edge: 354
+number of node: 328
+
+number of edge: 394
+number of node: 340
+
+number of edge: 485
+number of node: 381
+
+number of edge: 468
+number of node: 358
+
+number of edge: 265
+number of node: 297
+
+number of edge: 287
+number of node: 302
+
+number of edge: 451
+number of node: 378
+
+number of edge: 408
+number of node: 357
+
+number of edge: 437
+number of node: 370
+
+number of edge: 448
+number of node: 373
+
+number of edge: 547
+number of node: 387
+
+number of edge: 492
+number of node: 362
+
+number of edge: 292
+number of node: 302
+
+number of edge: 485
+number of node: 382
+
+number of edge: 505
+number of node: 402
+
+number of edge: 464
+number of node: 415
+
+number of edge: 328
+number of node: 316
+
+number of edge: 541
+number of node: 392
+
+number of edge: 392
+number of node: 335
+
+number of edge: 538
+number of node: 417
+
+number of edge: 481
+number of node: 374
+
+number of edge: 452
+number of node: 374
+
+number of edge: 539
+number of node: 375
+
+number of edge: 652
+number of node: 405
+
+number of edge: 382
+number of node: 337
+
+number of edge: 483
+number of node: 386
+
+number of edge: 373
+number of node: 338
+
+number of edge: 435
+number of node: 360
+
+number of edge: 433
+number of node: 366
+
+number of edge: 518
+number of node: 430
+
+number of edge: 456
+number of node: 375
+
+number of edge: 568
+number of node: 410
+
+number of edge: 589
+number of node: 425
+
+number of edge: 445
+number of node: 343
+
+number of edge: 395
+number of node: 355
+
+number of edge: 444
+number of node: 362
+
+number of edge: 572
+number of node: 409
+
+number of edge: 509
+number of node: 393
+
+number of edge: 534
+number of node: 394
+
+number of edge: 323
+number of node: 299
+
+number of edge: 667
+number of node: 394
+
+number of edge: 567
+number of node: 413
+
+number of edge: 293
+number of node: 285
+
+number of edge: 446
+number of node: 374
+
+number of edge: 325
+number of node: 327
+
+number of edge: 388
+number of node: 344
+
+number of edge: 466
+number of node: 374
+
+number of edge: 469
+number of node: 355
+
+number of edge: 274
+number of node: 291
+
+number of edge: 357
+number of node: 316
+
+number of edge: 340
+number of node: 319
+
+number of edge: 217
+number of node: 261
+
+number of edge: 474
+number of node: 383
+
+number of edge: 224
+number of node: 251
+
+number of edge: 692
+number of node: 467
+
+number of edge: 558
+number of node: 413
+
+number of edge: 416
+number of node: 360
+
+number of edge: 413
+number of node: 355
+
+number of edge: 762
+number of node: 465
+
+number of edge: 515
+number of node: 390
+
+number of edge: 410
+number of node: 373
+
+number of edge: 617
+number of node: 458
+
+number of edge: 547
+number of node: 420
+
+number of edge: 468
+number of node: 384
+
+number of edge: 547
+number of node: 389
+
+number of edge: 474
+number of node: 374
+
+number of edge: 505
+number of node: 352
+
+number of edge: 683
+number of node: 502
+
+number of edge: 651
+number of node: 439
+
+number of edge: 530
+number of node: 405
+
+number of edge: 571
+number of node: 397
+
+number of edge: 577
+number of node: 391
+
+number of edge: 520
+number of node: 364
+
+number of edge: 449
+number of node: 318
+
+number of edge: 462
+number of node: 352
+
+number of edge: 562
+number of node: 373
+
+number of edge: 606
+number of node: 380
+
+number of edge: 430
+number of node: 373
+
+number of edge: 440
+number of node: 373
+
+number of edge: 608
+number of node: 414
+
+number of edge: 410
+number of node: 350
+
+number of edge: 520
+number of node: 400
+
+number of edge: 406
+number of node: 356
+
+number of edge: 447
+number of node: 360
+
+number of edge: 419
+number of node: 350
+
+number of edge: 477
+number of node: 411
+
+number of edge: 486
+number of node: 392
+
+number of edge: 509
+number of node: 395
+
+number of edge: 781
+number of node: 482
+
+number of edge: 508
+number of node: 388
+
+number of edge: 480
+number of node: 396
+
+number of edge: 321
+number of node: 334
+
+number of edge: 599
+number of node: 431
+
+number of edge: 336
+number of node: 321
+
+number of edge: 378
+number of node: 358
+
+number of edge: 651
+number of node: 464
+
+number of edge: 415
+number of node: 344
+
+number of edge: 407
+number of node: 347
+
+number of edge: 743
+number of node: 449
+
+number of edge: 423
+number of node: 371
+
+number of edge: 486
+number of node: 380
+
+number of edge: 740
+number of node: 480
+
+number of edge: 456
+number of node: 371
+
+number of edge: 344
+number of node: 327
+
+number of edge: 346
+number of node: 322
+
+number of edge: 464
+number of node: 390
+
+number of edge: 641
+number of node: 457
+
+number of edge: 406
+number of node: 346
+
+number of edge: 671
+number of node: 400
+
+number of edge: 518
+number of node: 420
+
+number of edge: 530
+number of node: 413
+
+number of edge: 458
+number of node: 371
+
+number of edge: 590
+number of node: 422
+
+number of edge: 384
+number of node: 350
+
+number of edge: 384
+number of node: 339
+
+number of edge: 322
+number of node: 302
+
+number of edge: 495
+number of node: 373
+
+number of edge: 399
+number of node: 365
+
+number of edge: 625
+number of node: 456
+
+number of edge: 596
+number of node: 431
+
+number of edge: 313
+number of node: 313
+
+number of edge: 347
+number of node: 335
+
+number of edge: 271
+number of node: 299
+
+number of edge: 356
+number of node: 350
+
+number of edge: 562
+number of node: 420
+
+number of edge: 223
+number of node: 238
+
+number of edge: 212
+number of node: 204
+
+number of edge: 161
+number of node: 175
+
+number of edge: 230
+number of node: 221
+
+number of edge: 202
+number of node: 208
+
+number of edge: 281
+number of node: 261
+
+number of edge: 277
+number of node: 258
+
+number of edge: 214
+number of node: 239
+
+number of edge: 217
+number of node: 231
+
+number of edge: 272
+number of node: 254
+
+number of edge: 229
+number of node: 217
+
+number of edge: 304
+number of node: 259
+
+number of edge: 233
+number of node: 233
+
+number of edge: 264
+number of node: 239
+
+number of edge: 164
+number of node: 185
+
+number of edge: 259
+number of node: 227
+
+number of edge: 259
+number of node: 212
+
+number of edge: 166
+number of node: 178
+
+number of edge: 213
+number of node: 232
+
+number of edge: 325
+number of node: 251
+
+number of edge: 323
+number of node: 271
+
+number of edge: 269
+number of node: 250
+
+number of edge: 230
+number of node: 248
+
+number of edge: 301
+number of node: 289
+
+number of edge: 251
+number of node: 242
+
+number of edge: 214
+number of node: 213
+
+number of edge: 366
+number of node: 331
+
+number of edge: 236
+number of node: 272
+
+number of edge: 353
+number of node: 289
+
+number of edge: 272
+number of node: 265
+
+number of edge: 379
+number of node: 314
+
+number of edge: 225
+number of node: 266
+
+number of edge: 315
+number of node: 331
+
+number of edge: 314
+number of node: 300
+
+number of edge: 258
+number of node: 290
+
+number of edge: 341
+number of node: 322
+
+number of edge: 266
+number of node: 265
+
+number of edge: 290
+number of node: 288
+
+number of edge: 160
+number of node: 181
+
+number of edge: 315
+number of node: 288
+
+number of edge: 348
+number of node: 289
+
+number of edge: 297
+number of node: 311
+
+number of edge: 244
+number of node: 251
+
+number of edge: 417
+number of node: 359
+
+number of edge: 251
+number of node: 281
+
+number of edge: 290
+number of node: 304
+
+number of edge: 294
+number of node: 300
+
+number of edge: 272
+number of node: 275
+
+number of edge: 362
+number of node: 324
+
+number of edge: 341
+number of node: 306
+
+number of edge: 285
+number of node: 289
+
+number of edge: 256
+number of node: 287
+
+number of edge: 248
+number of node: 283
+
+number of edge: 354
+number of node: 285
+
+number of edge: 334
+number of node: 324
+
+number of edge: 299
+number of node: 292
+
+number of edge: 299
+number of node: 301
+
+number of edge: 244
+number of node: 288
+
+number of edge: 307
+number of node: 301
+
+number of edge: 293
+number of node: 282
+
+number of edge: 329
+number of node: 300
+
+number of edge: 356
+number of node: 330
+
+number of edge: 398
+number of node: 335
+
+number of edge: 405
+number of node: 329
+
+number of edge: 335
+number of node: 318
+
+number of edge: 295
+number of node: 311
+
+number of edge: 331
+number of node: 309
+
+number of edge: 299
+number of node: 318
+
+number of edge: 316
+number of node: 320
+
+number of edge: 278
+number of node: 289
+
+number of edge: 277
+number of node: 298
+
+number of edge: 317
+number of node: 308
+
+number of edge: 356
+number of node: 334
+
+number of edge: 355
+number of node: 305
+
+number of edge: 333
+number of node: 332
+
+number of edge: 256
+number of node: 280
+
+number of edge: 370
+number of node: 336
+
+number of edge: 222
+number of node: 259
+
+number of edge: 337
+number of node: 314
+
+number of edge: 446
+number of node: 359
+
+number of edge: 385
+number of node: 300
+
+number of edge: 397
+number of node: 357
+
+number of edge: 307
+number of node: 304
+
+number of edge: 328
+number of node: 325
+
+number of edge: 385
+number of node: 341
+
+number of edge: 375
+number of node: 349
+
+number of edge: 251
+number of node: 283
+
+number of edge: 279
+number of node: 303
+
+number of edge: 245
+number of node: 274
+
+number of edge: 388
+number of node: 351
+
+number of edge: 313
+number of node: 300
+
+number of edge: 354
+number of node: 322
+
+number of edge: 393
+number of node: 315
+
+number of edge: 379
+number of node: 363
+
+number of edge: 291
+number of node: 288
+
+number of edge: 299
+number of node: 320
+
+number of edge: 404
+number of node: 345
+
+number of edge: 270
+number of node: 292
+
+number of edge: 293
+number of node: 319
+
+number of edge: 282
+number of node: 297
+
+number of edge: 285
+number of node: 285
+
+number of edge: 457
+number of node: 371
+
+number of edge: 399
+number of node: 338
+
+number of edge: 382
+number of node: 342
+
+number of edge: 332
+number of node: 303
+
+number of edge: 439
+number of node: 375
+
+number of edge: 288
+number of node: 280
+
+number of edge: 269
+number of node: 279
+
+number of edge: 396
+number of node: 329
+
+number of edge: 292
+number of node: 317
+
+number of edge: 370
+number of node: 335
+
+number of edge: 363
+number of node: 339
+
+number of edge: 367
+number of node: 330
+
+number of edge: 353
+number of node: 340
+
+number of edge: 290
+number of node: 304
+
+number of edge: 369
+number of node: 341
+
+number of edge: 441
+number of node: 365
+
+number of edge: 359
+number of node: 336
+
+number of edge: 371
+number of node: 345
+
+number of edge: 297
+number of node: 300
+
+number of edge: 300
+number of node: 289
+
+number of edge: 447
+number of node: 374
+
+number of edge: 354
+number of node: 343
+
+number of edge: 308
+number of node: 289
+
+number of edge: 217
+number of node: 263
+
+number of edge: 309
+number of node: 318
+
+number of edge: 275
+number of node: 300
+
+number of edge: 239
+number of node: 270
+
+number of edge: 241
+number of node: 276
+
+number of edge: 252
+number of node: 285
+
+number of edge: 341
+number of node: 347
+
+number of edge: 302
+number of node: 306
+
+number of edge: 286
+number of node: 291
+
+number of edge: 173
+number of node: 224
+
+number of edge: 245
+number of node: 281
+
+number of edge: 281
+number of node: 301
+
+number of edge: 228
+number of node: 219
+
+number of edge: 242
+number of node: 237
+
+number of edge: 216
+number of node: 229
+
+number of edge: 189
+number of node: 206
+
+number of edge: 199
+number of node: 208
+
+number of edge: 235
+number of node: 211
+
+number of edge: 230
+number of node: 222
+
+number of edge: 163
+number of node: 176
+
+number of edge: 289
+number of node: 266
+
+number of edge: 276
+number of node: 258
+
+number of edge: 260
+number of node: 221
+
+number of edge: 338
+number of node: 252
+
+number of edge: 209
+number of node: 195
+
+number of edge: 192
+number of node: 212
+
+number of edge: 240
+number of node: 253
+
+number of edge: 210
+number of node: 208
+
+number of edge: 294
+number of node: 262
+
+number of edge: 324
+number of node: 294
+
+number of edge: 203
+number of node: 196
+
+number of edge: 358
+number of node: 289
+
+number of edge: 240
+number of node: 227
+
+number of edge: 305
+number of node: 281
+
+number of edge: 308
+number of node: 277
+
+number of edge: 313
+number of node: 275
+
+number of edge: 439
+number of node: 351
+
+number of edge: 281
+number of node: 287
+
+number of edge: 412
+number of node: 344
+
+number of edge: 335
+number of node: 303
+
+number of edge: 317
+number of node: 285
+
+number of edge: 381
+number of node: 326
+
+number of edge: 459
+number of node: 369
+
+number of edge: 384
+number of node: 314
+
+number of edge: 438
+number of node: 342
+
+number of edge: 342
+number of node: 302
+
+number of edge: 416
+number of node: 352
+
+number of edge: 242
+number of node: 254
+
+number of edge: 164
+number of node: 175
+
+number of edge: 275
+number of node: 279
+
+number of edge: 356
+number of node: 318
+
+number of edge: 352
+number of node: 332
+
+number of edge: 455
+number of node: 377
+
+number of edge: 321
+number of node: 297
+
+number of edge: 277
+number of node: 275
+
+number of edge: 358
+number of node: 311
+
+number of edge: 376
+number of node: 331
+
+number of edge: 264
+number of node: 278
+
+number of edge: 339
+number of node: 308
+
+number of edge: 302
+number of node: 285
+
+number of edge: 312
+number of node: 302
+
+number of edge: 347
+number of node: 322
+
+number of edge: 319
+number of node: 315
+
+number of edge: 364
+number of node: 284
+
+number of edge: 238
+number of node: 262
+
+number of edge: 303
+number of node: 302
+
+number of edge: 325
+number of node: 316
+
+number of edge: 355
+number of node: 329
+
+number of edge: 311
+number of node: 289
+
+number of edge: 388
+number of node: 282
+
+number of edge: 373
+number of node: 344
+
+number of edge: 167
+number of node: 189
+
+number of edge: 123
+number of node: 134
+
+number of edge: 115
+number of node: 118
+
+number of edge: 138
+number of node: 155
+
+number of edge: 172
+number of node: 193
+
+number of edge: 261
+number of node: 287
+
+number of edge: 213
+number of node: 250
+
+number of edge: 277
+number of node: 287
+
+number of edge: 257
+number of node: 268
+
+number of edge: 377
+number of node: 309
+
+number of edge: 389
+number of node: 350
+
+number of edge: 272
+number of node: 278
+
+number of edge: 292
+number of node: 309
+
+number of edge: 401
+number of node: 351
+
+number of edge: 306
+number of node: 318
+
+number of edge: 333
+number of node: 332
+
+number of edge: 227
+number of node: 264
+
+number of edge: 269
+number of node: 276
+
+number of edge: 213
+number of node: 258
+
+number of edge: 258
+number of node: 278
+
+number of edge: 421
+number of node: 361
+
+number of edge: 405
+number of node: 343
+
+number of edge: 345
+number of node: 319
+
+number of edge: 326
+number of node: 316
+
+number of edge: 426
+number of node: 348
+
+number of edge: 304
+number of node: 307
+
+number of edge: 142
+number of node: 153
+
+number of edge: 109
+number of node: 114
+
+number of edge: 123
+number of node: 129
+
+number of edge: 101
+number of node: 106
+
+number of edge: 106
+number of node: 109
+
+number of edge: 132
+number of node: 141
+
+number of edge: 257
+number of node: 263
+
+number of edge: 295
+number of node: 314
+
+number of edge: 330
+number of node: 318
+
+number of edge: 424
+number of node: 375
+
+number of edge: 417
+number of node: 374
+
+number of edge: 344
+number of node: 307
+
+number of edge: 352
+number of node: 342
+
+number of edge: 300
+number of node: 276
+
+number of edge: 259
+number of node: 275
+
+number of edge: 538
+number of node: 369
+
+number of edge: 517
+number of node: 398
+
+number of edge: 315
+number of node: 308
+
+number of edge: 442
+number of node: 351
+
+number of edge: 438
+number of node: 362
+
+number of edge: 374
+number of node: 325
+
+number of edge: 373
+number of node: 325
+
+number of edge: 431
+number of node: 349
+
+number of edge: 407
+number of node: 293
+
+number of edge: 331
+number of node: 295
+
+number of edge: 335
+number of node: 337
+
+number of edge: 416
+number of node: 354
+
+number of edge: 368
+number of node: 313
+
+number of edge: 406
+number of node: 336
+
+number of edge: 330
+number of node: 314
+
+number of edge: 245
+number of node: 269
+
+number of edge: 337
+number of node: 330
+
+number of edge: 141
+number of node: 157
+
+number of edge: 126
+number of node: 149
+
+number of edge: 126
+number of node: 133
+
+number of edge: 172
+number of node: 204
+
+number of edge: 207
+number of node: 235
+
+number of edge: 351
+number of node: 326
+
+number of edge: 321
+number of node: 308
+
+number of edge: 287
+number of node: 289
+
+number of edge: 357
+number of node: 343
+
+number of edge: 321
+number of node: 301
+
+number of edge: 335
+number of node: 301
+
+number of edge: 353
+number of node: 324
+
+number of edge: 263
+number of node: 284
+
+number of edge: 203
+number of node: 257
+
+number of edge: 289
+number of node: 289
+
+number of edge: 259
+number of node: 277
+
+number of edge: 249
+number of node: 274
+
+number of edge: 322
+number of node: 305
+
+number of edge: 346
+number of node: 344
+
+number of edge: 100
+number of node: 103
+
+number of edge: 100
+number of node: 102
+
+number of edge: 100
+number of node: 104
+
+number of edge: 100
+number of node: 101
+
+number of edge: 103
+number of node: 105
+
+number of edge: 103
+number of node: 110
+
+number of edge: 135
+number of node: 151
+
+number of edge: 100
+number of node: 104
+
+number of edge: 113
+number of node: 117
+
+number of edge: 100
+number of node: 103
+
+number of edge: 101
+number of node: 122
+
+number of edge: 116
+number of node: 128
+
+number of edge: 135
+number of node: 149
+
+number of edge: 327
+number of node: 302
+
+number of edge: 205
+number of node: 222
+
+number of edge: 139
+number of node: 141
+
+number of edge: 100
+number of node: 103
+
+number of edge: 146
+number of node: 170
+
+number of edge: 261
+number of node: 266
+
+number of edge: 226
+number of node: 253
+
+number of edge: 232
+number of node: 267
+
+number of edge: 252
+number of node: 270
+
+number of edge: 358
+number of node: 339
+
+number of edge: 156
+number of node: 177
+
+number of edge: 103
+number of node: 114
+
+number of edge: 100
+number of node: 102
+
+number of edge: 100
+number of node: 101
+
+number of edge: 100
+number of node: 102
+
+number of edge: 100
+number of node: 103
+
+number of edge: 131
+number of node: 142
+
+number of edge: 100
+number of node: 106
+
+number of edge: 100
+number of node: 102
+
+number of edge: 102
+number of node: 106
+
+number of edge: 143
+number of node: 149
+
+number of edge: 100
+number of node: 101
+
+number of edge: 100
+number of node: 105
+
+number of edge: 115
+number of node: 118
+
+number of edge: 172
+number of node: 223
+
+number of edge: 194
+number of node: 247
+
+number of edge: 166
+number of node: 181
+
+number of edge: 101
+number of node: 113
+
+number of edge: 101
+number of node: 108
+
+number of edge: 105
+number of node: 120
+
+number of edge: 113
+number of node: 126
+
+number of edge: 137
+number of node: 130
+
+number of edge: 179
+number of node: 201
+
+number of edge: 215
+number of node: 233
+
+number of edge: 246
+number of node: 240
+
+number of edge: 284
+number of node: 248
+
+number of edge: 224
+number of node: 209
+
+number of edge: 239
+number of node: 231
+
+number of edge: 171
+number of node: 174
+
+number of edge: 304
+number of node: 269
+
+number of edge: 286
+number of node: 272
+
+number of edge: 259
+number of node: 241
+
+number of edge: 298
+number of node: 262
+
+number of edge: 244
+number of node: 233
+
+number of edge: 384
+number of node: 308
+
+number of edge: 378
+number of node: 226
+
+number of edge: 350
+number of node: 225
+
+number of edge: 430
+number of node: 316
+
+number of edge: 270
+number of node: 241
+
+number of edge: 340
+number of node: 296
+
+number of edge: 351
+number of node: 326
+
+number of edge: 396
+number of node: 341
+
+number of edge: 440
+number of node: 347
+
+number of edge: 332
+number of node: 307
+
+number of edge: 248
+number of node: 253
+
+number of edge: 379
+number of node: 293
+
+number of edge: 454
+number of node: 371
+
+number of edge: 527
+number of node: 383
+
+number of edge: 225
+number of node: 234
+
+number of edge: 100
+number of node: 101
+
+number of edge: 141
+number of node: 149
+
+number of edge: 100
+number of node: 101
+
+number of edge: 130
+number of node: 132
+
+number of edge: 339
+number of node: 316
+
+number of edge: 258
+number of node: 274
+
+number of edge: 332
+number of node: 319
+
+number of edge: 247
+number of node: 240
+
+number of edge: 392
+number of node: 345
+
+number of edge: 400
+number of node: 312
+
+number of edge: 489
+number of node: 341
+
+number of edge: 350
+number of node: 319
+
+number of edge: 438
+number of node: 355
+
+number of edge: 343
+number of node: 335
+
+number of edge: 288
+number of node: 292
+
+number of edge: 449
+number of node: 343
+
+number of edge: 356
+number of node: 327
+
+number of edge: 430
+number of node: 361
+
+number of edge: 130
+number of node: 133
+
+number of edge: 100
+number of node: 101
+
+number of edge: 100
+number of node: 101
+
+number of edge: 148
+number of node: 144
+
+number of edge: 101
+number of node: 104
+
+number of edge: 174
+number of node: 201
+
+number of edge: 121
+number of node: 146
+
+number of edge: 225
+number of node: 234
+
+number of edge: 394
+number of node: 337
+
+number of edge: 391
+number of node: 351
+
+number of edge: 348
+number of node: 311
+
+number of edge: 337
+number of node: 330
+
+number of edge: 400
+number of node: 344
+
+number of edge: 380
+number of node: 289
+
+number of edge: 381
+number of node: 317
+
+number of edge: 325
+number of node: 296
+
+number of edge: 351
+number of node: 317
+
+number of edge: 339
+number of node: 316
+
+number of edge: 244
+number of node: 269
+
+number of edge: 338
+number of node: 318
+
+number of edge: 377
+number of node: 291
+
+number of edge: 371
+number of node: 332
+
+number of edge: 270
+number of node: 280
+
+number of edge: 279
+number of node: 281
+
+number of edge: 329
+number of node: 301
+
+number of edge: 296
+number of node: 301
+
+number of edge: 381
+number of node: 321
+
+number of edge: 369
+number of node: 322
+
+number of edge: 101
+number of node: 112
+
+number of edge: 206
+number of node: 180
+
+number of edge: 103
+number of node: 107
+
+number of edge: 102
+number of node: 105
+
+number of edge: 106
+number of node: 112
+
+number of edge: 133
+number of node: 155
+
+number of edge: 465
+number of node: 385
+
+number of edge: 275
+number of node: 272
+
+number of edge: 384
+number of node: 344
+
+number of edge: 295
+number of node: 245
+
+number of edge: 397
+number of node: 266
+
+number of edge: 433
+number of node: 382
+
+number of edge: 288
+number of node: 309
+
+number of edge: 276
+number of node: 275
+
+number of edge: 353
+number of node: 311
+
+number of edge: 261
+number of node: 268
+
+number of edge: 324
+number of node: 315
+
+number of edge: 394
+number of node: 325
+
+number of edge: 436
+number of node: 339
+
+number of edge: 225
+number of node: 245
+
+number of edge: 360
+number of node: 328
+
+number of edge: 285
+number of node: 275
+
+number of edge: 341
+number of node: 286
+
+number of edge: 343
+number of node: 305
+
+number of edge: 269
+number of node: 271
+
+number of edge: 295
+number of node: 271
+
+number of edge: 314
+number of node: 289
+
+number of edge: 331
+number of node: 322
+
+number of edge: 281
+number of node: 278
+
+number of edge: 388
+number of node: 289
+
+number of edge: 431
+number of node: 353
+
+number of edge: 427
+number of node: 379
+
+number of edge: 327
+number of node: 306
+
+number of edge: 356
+number of node: 331
+
+number of edge: 234
+number of node: 269
+
+number of edge: 372
+number of node: 353
+
+number of edge: 301
+number of node: 305
+
+number of edge: 298
+number of node: 297
+
+number of edge: 335
+number of node: 306
+
+number of edge: 339
+number of node: 301
+
+number of edge: 377
+number of node: 329
+
+number of edge: 399
+number of node: 345
+
+number of edge: 298
+number of node: 298
+
+number of edge: 279
+number of node: 270
+
+number of edge: 360
+number of node: 287
+
+number of edge: 333
+number of node: 315
+
+number of edge: 390
+number of node: 321
+
+number of edge: 343
+number of node: 281
+
+number of edge: 331
+number of node: 299
+
+number of edge: 311
+number of node: 302
+
+number of edge: 307
+number of node: 262
+
+number of edge: 253
+number of node: 259
+
+number of edge: 305
+number of node: 268
+
+number of edge: 260
+number of node: 296
+
+number of edge: 344
+number of node: 310
+
+number of edge: 291
+number of node: 258
+
+number of edge: 224
+number of node: 265
+
+number of edge: 257
+number of node: 288
+
+number of edge: 314
+number of node: 282
+
+number of edge: 418
+number of node: 301
+
+number of edge: 416
+number of node: 279
+
+number of edge: 256
+number of node: 256
+
+number of edge: 229
+number of node: 246
+
+number of edge: 324
+number of node: 322
+
+number of edge: 234
+number of node: 234
+
+number of edge: 329
+number of node: 320
+
+number of edge: 323
+number of node: 316
+
+number of edge: 202
+number of node: 207
+
+number of edge: 101
+number of node: 107
+
+number of edge: 165
+number of node: 216
+
+number of edge: 279
+number of node: 295
+
+number of edge: 327
+number of node: 254
+
+number of edge: 276
+number of node: 261
+
+number of edge: 342
+number of node: 315
+
+number of edge: 132
+number of node: 178
+
+number of edge: 193
+number of node: 215
+
+number of edge: 107
+number of node: 112
+
+number of edge: 141
+number of node: 163
+
+number of edge: 102
+number of node: 110
+
+number of edge: 110
+number of node: 119
+
+number of edge: 203
+number of node: 219
+
+number of edge: 222
+number of node: 237
+
+number of edge: 153
+number of node: 158
+
+number of edge: 206
+number of node: 229
+
+number of edge: 106
+number of node: 113
+
+number of edge: 104
+number of node: 110
+
+number of edge: 101
+number of node: 106
+
+number of edge: 100
+number of node: 104
+
+number of edge: 118
+number of node: 131
+
+number of edge: 100
+number of node: 101
+
+number of edge: 100
+number of node: 103
+
+number of edge: 100
+number of node: 101
+
+number of edge: 100
+number of node: 101
+
+number of edge: 100
+number of node: 101
+
+number of edge: 109
+number of node: 113
+
+number of edge: 101
+number of node: 104
+
+number of edge: 100
+number of node: 102
+
+number of edge: 111
+number of node: 113
+
+number of edge: 102
+number of node: 107
+
+number of edge: 106
+number of node: 108
+
+number of edge: 119
+number of node: 122
+
+number of edge: 105
+number of node: 108
+
+number of edge: 101
+number of node: 103
+
+number of edge: 100
+number of node: 101
+
+number of edge: 101
+number of node: 105
+
+number of edge: 112
+number of node: 119
+
+number of edge: 101
+number of node: 106
+
+number of edge: 105
+number of node: 107
+
+number of edge: 100
+number of node: 109
+
+number of edge: 213
+number of node: 225
+
+number of edge: 234
+number of node: 207
+
+number of edge: 180
+number of node: 184
+
+number of edge: 177
+number of node: 241
+
+number of edge: 165
+number of node: 188
+
+number of edge: 401
+number of node: 362
+
+number of edge: 341
+number of node: 322
+
+number of edge: 472
+number of node: 322
+
+number of edge: 282
+number of node: 266
+
+number of edge: 249
+number of node: 255
+
+number of edge: 256
+number of node: 242
+
+number of edge: 357
+number of node: 316
+
+number of edge: 252
+number of node: 230
+
+number of edge: 355
+number of node: 282
+
+number of edge: 410
+number of node: 337
+
+number of edge: 331
+number of node: 247
+
+number of edge: 284
+number of node: 283
+
+number of edge: 415
+number of node: 320
+
+number of edge: 389
+number of node: 334
+
+number of edge: 411
+number of node: 325
+
+number of edge: 353
+number of node: 290
+
+number of edge: 580
+number of node: 408
+
+number of edge: 491
+number of node: 398
+
+number of edge: 352
+number of node: 339
+
+number of edge: 381
+number of node: 335
+
+number of edge: 464
+number of node: 370
+
+number of edge: 412
+number of node: 321
+
+number of edge: 398
+number of node: 333
+
+number of edge: 364
+number of node: 214
+
+number of edge: 493
+number of node: 356
+
+number of edge: 483
+number of node: 347
+
+number of edge: 378
+number of node: 338
+
+number of edge: 409
+number of node: 298
+
+number of edge: 461
+number of node: 378
+
+number of edge: 520
+number of node: 343
+
+number of edge: 512
+number of node: 390
+
+number of edge: 352
+number of node: 320
+
+number of edge: 382
+number of node: 310
+
+number of edge: 410
+number of node: 351
+
+number of edge: 516
+number of node: 381
+
+number of edge: 348
+number of node: 322
+
+number of edge: 406
+number of node: 362
+
+number of edge: 381
+number of node: 350
+
+number of edge: 470
+number of node: 335
+
+number of edge: 375
+number of node: 319
+
+number of edge: 353
+number of node: 297
+
+number of edge: 338
+number of node: 298
+
+number of edge: 382
+number of node: 326
+
+number of edge: 336
+number of node: 314
+
+number of edge: 404
+number of node: 321
+
+number of edge: 336
+number of node: 321
+
+number of edge: 375
+number of node: 302
+
+number of edge: 332
+number of node: 299
+
+number of edge: 314
+number of node: 322
+
+number of edge: 301
+number of node: 298
+
+number of edge: 261
+number of node: 248
+
+number of edge: 264
+number of node: 262
+
+number of edge: 197
+number of node: 224
+
+number of edge: 306
+number of node: 303
+
+number of edge: 412
+number of node: 330
+
+number of edge: 282
+number of node: 295
+
+number of edge: 415
+number of node: 315
+
+number of edge: 481
+number of node: 345
+
+number of edge: 370
+number of node: 286
+
+number of edge: 386
+number of node: 335
+
+number of edge: 379
+number of node: 335
+
+number of edge: 312
+number of node: 288
+
+number of edge: 341
+number of node: 297
+
+number of edge: 334
+number of node: 299
+
+number of edge: 372
+number of node: 304
+
+number of edge: 284
+number of node: 302
+
+number of edge: 348
+number of node: 322
+
+number of edge: 298
+number of node: 274
+
+number of edge: 254
+number of node: 267
+
+number of edge: 259
+number of node: 261
+
+number of edge: 362
+number of node: 293
+
+number of edge: 309
+number of node: 266
+
+number of edge: 391
+number of node: 320
+
+number of edge: 291
+number of node: 297
+
+number of edge: 424
+number of node: 336
+
+number of edge: 393
+number of node: 316
+
+number of edge: 582
+number of node: 351
+
+number of edge: 240
+number of node: 204
+
+number of edge: 215
+number of node: 166
+
+number of edge: 187
+number of node: 174
+
+number of edge: 274
+number of node: 291
+
+number of edge: 266
+number of node: 244
+
+number of edge: 293
+number of node: 275
+
+number of edge: 261
+number of node: 264
+
+number of edge: 328
+number of node: 268
+
+number of edge: 332
+number of node: 319
+
+number of edge: 271
+number of node: 250
+
+number of edge: 223
+number of node: 228
+
+number of edge: 365
+number of node: 302
+
+number of edge: 465
+number of node: 364
+
+number of edge: 369
+number of node: 330
+
+number of edge: 486
+number of node: 379
+
+number of edge: 516
+number of node: 359
+
+number of edge: 370
+number of node: 310
+
+number of edge: 344
+number of node: 302
+
+number of edge: 539
+number of node: 386
+
+number of edge: 414
+number of node: 285
+
+number of edge: 370
+number of node: 312
+
+number of edge: 416
+number of node: 326
+
+number of edge: 416
+number of node: 341
+
+number of edge: 389
+number of node: 340
+
+number of edge: 409
+number of node: 338
+
+number of edge: 509
+number of node: 380
+
+number of edge: 284
+number of node: 278
+
+number of edge: 243
+number of node: 231
+
+number of edge: 453
+number of node: 362
+
+number of edge: 517
+number of node: 362
+
+number of edge: 314
+number of node: 284
+
+number of edge: 290
+number of node: 250
+
+number of edge: 354
+number of node: 296
+
+number of edge: 350
+number of node: 305
+
+number of edge: 388
+number of node: 272
+
+number of edge: 305
+number of node: 269
+
+number of edge: 554
+number of node: 332
+
+number of edge: 331
+number of node: 277
+
+number of edge: 382
+number of node: 313
+
+number of edge: 383
+number of node: 337
+
+number of edge: 339
+number of node: 310
+
+number of edge: 383
+number of node: 308
+
+number of edge: 163
+number of node: 184
+
+number of edge: 144
+number of node: 156
+
+number of edge: 131
+number of node: 141
+
+number of edge: 222
+number of node: 230
+
+number of edge: 234
+number of node: 227
+
+number of edge: 299
+number of node: 305
+
+number of edge: 261
+number of node: 277
+
+number of edge: 259
+number of node: 278
+
+number of edge: 330
+number of node: 317
+
+number of edge: 359
+number of node: 310
+
+number of edge: 261
+number of node: 287
+
+number of edge: 358
+number of node: 338
+
+number of edge: 338
+number of node: 266
+
+number of edge: 131
+number of node: 135
+
+number of edge: 200
+number of node: 227
+
+number of edge: 183
+number of node: 219
+
+number of edge: 332
+number of node: 269
+
+number of edge: 286
+number of node: 194
+
+number of edge: 346
+number of node: 329
+
+number of edge: 191
+number of node: 227
+
+number of edge: 114
+number of node: 149
+
+number of edge: 147
+number of node: 167
+
+number of edge: 248
+number of node: 271
+
+number of edge: 325
+number of node: 302
+
+number of edge: 421
+number of node: 341
+
+number of edge: 301
+number of node: 262
+
+number of edge: 414
+number of node: 306
+
+number of edge: 614
+number of node: 344
+
+number of edge: 280
+number of node: 249
+
+number of edge: 442
+number of node: 327
+
+number of edge: 410
+number of node: 264
+
+number of edge: 367
+number of node: 267
+
+number of edge: 302
+number of node: 286
+
+number of edge: 445
+number of node: 338
+
+number of edge: 346
+number of node: 230
+
+number of edge: 499
+number of node: 321
+
+number of edge: 448
+number of node: 354
+
+number of edge: 414
+number of node: 308
+
+number of edge: 250
+number of node: 242
+
+number of edge: 518
+number of node: 326
+
+number of edge: 710
+number of node: 414
+
+number of edge: 545
+number of node: 389
+
+number of edge: 493
+number of node: 332
+
+number of edge: 291
+number of node: 291
+
+number of edge: 459
+number of node: 371
+
+number of edge: 491
+number of node: 349
+
+number of edge: 466
+number of node: 358
+
+number of edge: 461
+number of node: 318
+
+number of edge: 565
+number of node: 380
+
+number of edge: 616
+number of node: 416
+
+number of edge: 456
+number of node: 335
+
+number of edge: 603
+number of node: 389
+
+number of edge: 393
+number of node: 304
+
+number of edge: 420
+number of node: 361
+
+number of edge: 529
+number of node: 375
+
+number of edge: 313
+number of node: 258
+
+number of edge: 493
+number of node: 303
+
+number of edge: 323
+number of node: 310
+
+number of edge: 336
+number of node: 284
+
+number of edge: 409
+number of node: 367
+
+number of edge: 414
+number of node: 346
+
+number of edge: 310
+number of node: 299
+
+number of edge: 389
+number of node: 333
+
+number of edge: 353
+number of node: 336
+
+number of edge: 343
+number of node: 327
+
+number of edge: 464
+number of node: 333
+
+number of edge: 391
+number of node: 305
+
+number of edge: 395
+number of node: 348
+
+number of edge: 480
+number of node: 376
+
+number of edge: 245
+number of node: 256
+
+number of edge: 389
+number of node: 333
+
+number of edge: 432
+number of node: 357
+
+number of edge: 461
+number of node: 365
+
+number of edge: 461
+number of node: 325
+
+number of edge: 329
+number of node: 301
+
+number of edge: 345
+number of node: 319
+
+number of edge: 359
+number of node: 259
+
+number of edge: 368
+number of node: 322
+
+number of edge: 289
+number of node: 246
+
+number of edge: 377
+number of node: 317
+
+number of edge: 471
+number of node: 365
+
+number of edge: 437
+number of node: 370
+
+number of edge: 399
+number of node: 337
+
+number of edge: 424
+number of node: 347
+
+number of edge: 431
+number of node: 310
+
+number of edge: 527
+number of node: 372
+
+number of edge: 366
+number of node: 269
+
+number of edge: 286
+number of node: 246
+
+number of edge: 318
+number of node: 309
+
+number of edge: 334
+number of node: 281
+
+number of edge: 365
+number of node: 295
+
+number of edge: 380
+number of node: 318
+
+number of edge: 295
+number of node: 276
+
+number of edge: 243
+number of node: 236
+
+number of edge: 348
+number of node: 305
+
+number of edge: 317
+number of node: 294
+
+number of edge: 308
+number of node: 270
+
+number of edge: 316
+number of node: 313
+
+number of edge: 287
+number of node: 266
+
+number of edge: 300
+number of node: 285
+
+number of edge: 339
+number of node: 285
+
+number of edge: 485
+number of node: 330
+
+number of edge: 438
+number of node: 372
+
+number of edge: 444
+number of node: 364
+
+number of edge: 492
+number of node: 372
+
+number of edge: 406
+number of node: 356
+
+number of edge: 443
+number of node: 377
+
+number of edge: 328
+number of node: 291
+
+number of edge: 578
+number of node: 376
+
+number of edge: 163
+number of node: 174
+
+number of edge: 377
+number of node: 317
+
+number of edge: 392
+number of node: 330
+
+number of edge: 480
+number of node: 361
+
+number of edge: 246
+number of node: 242
+
+number of edge: 238
+number of node: 236
+
+number of edge: 196
+number of node: 199
+
+number of edge: 311
+number of node: 304
+
+number of edge: 451
+number of node: 352
+
+number of edge: 441
+number of node: 350
+
+number of edge: 410
+number of node: 343
+
+number of edge: 352
+number of node: 324
+
+number of edge: 367
+number of node: 341
+
+number of edge: 450
+number of node: 374
+
+number of edge: 312
+number of node: 278
+
+number of edge: 302
+number of node: 238
+
+number of edge: 391
+number of node: 324
+
+number of edge: 178
+number of node: 164
+
+number of edge: 130
+number of node: 144
+
+number of edge: 362
+number of node: 285
+
+number of edge: 497
+number of node: 393
+
+number of edge: 279
+number of node: 280
+
+number of edge: 374
+number of node: 315
+
+number of edge: 393
+number of node: 327
+
+number of edge: 347
+number of node: 327
+
+number of edge: 339
+number of node: 321
+
+number of edge: 330
+number of node: 298
+
+number of edge: 338
+number of node: 293
+
+number of edge: 334
+number of node: 292
+
+number of edge: 334
+number of node: 335
+
+number of edge: 215
+number of node: 229
+
+number of edge: 336
+number of node: 252
+
+number of edge: 356
+number of node: 333
+
+number of edge: 331
+number of node: 293
+
+number of edge: 276
+number of node: 223
+
+number of edge: 331
+number of node: 332
+
+number of edge: 204
+number of node: 219
+
+number of edge: 192
+number of node: 204
+
+number of edge: 279
+number of node: 295
+
+number of edge: 229
+number of node: 234
+
+number of edge: 137
+number of node: 153
+
+number of edge: 191
+number of node: 222
+
+number of edge: 258
+number of node: 259
+
+number of edge: 289
+number of node: 302
+
+number of edge: 226
+number of node: 249
+
+number of edge: 217
+number of node: 243
+
+number of edge: 185
+number of node: 221
+
+number of edge: 197
+number of node: 203
+
+number of edge: 179
+number of node: 192
+
+number of edge: 246
+number of node: 259
+
+number of edge: 248
+number of node: 226
+
+number of edge: 282
+number of node: 266
+
+number of edge: 203
+number of node: 245
+
+number of edge: 540
+number of node: 406
+
+number of edge: 523
+number of node: 393
+
+number of edge: 321
+number of node: 276
+
+number of edge: 338
+number of node: 288
+
+number of edge: 290
+number of node: 264
+
+number of edge: 457
+number of node: 329
+
+number of edge: 432
+number of node: 304
+
+number of edge: 529
+number of node: 357
+
+number of edge: 517
+number of node: 194
+
+number of edge: 480
+number of node: 198
+
+number of edge: 333
+number of node: 258
+
+number of edge: 453
+number of node: 365
+
+number of edge: 446
+number of node: 350
+
+number of edge: 476
+number of node: 367
+
+number of edge: 471
+number of node: 375
+
+number of edge: 505
+number of node: 397
+
+number of edge: 593
+number of node: 419
+
+number of edge: 635
+number of node: 420
+
+number of edge: 531
+number of node: 390
+
+number of edge: 469
+number of node: 371
+
+number of edge: 611
+number of node: 427
+
+number of edge: 651
+number of node: 394
+
+number of edge: 555
+number of node: 285
+
+number of edge: 603
+number of node: 390
+
+number of edge: 499
+number of node: 384
+
+number of edge: 370
+number of node: 312
+
+number of edge: 385
+number of node: 313
+
+number of edge: 258
+number of node: 267
+
+number of edge: 294
+number of node: 287
+
+number of edge: 338
+number of node: 307
+
+number of edge: 465
+number of node: 352
+
+number of edge: 574
+number of node: 395
+
+number of edge: 573
+number of node: 400
+
+number of edge: 466
+number of node: 353
+
+number of edge: 389
+number of node: 337
+
+number of edge: 588
+number of node: 395
+
+number of edge: 429
+number of node: 302
+
+number of edge: 614
+number of node: 409
+
+number of edge: 437
+number of node: 336
+
+number of edge: 348
+number of node: 307
+
+number of edge: 406
+number of node: 318
+
+number of edge: 396
+number of node: 349
+
+number of edge: 547
+number of node: 366
+
+number of edge: 411
+number of node: 288
+
+number of edge: 371
+number of node: 329
+
+number of edge: 359
+number of node: 335
+
+number of edge: 312
+number of node: 299
+
+number of edge: 324
+number of node: 282
+
+number of edge: 352
+number of node: 251
+
+number of edge: 348
+number of node: 278
+
+number of edge: 425
+number of node: 320
+
+number of edge: 239
+number of node: 259
+
+number of edge: 235
+number of node: 198
+
+number of edge: 301
+number of node: 247
+
+number of edge: 329
+number of node: 281
+
+number of edge: 365
+number of node: 330
+
+number of edge: 312
+number of node: 287
+
+number of edge: 542
+number of node: 407
+
+number of edge: 373
+number of node: 236
+
+number of edge: 317
+number of node: 304
+
+number of edge: 471
+number of node: 303
+
+number of edge: 386
+number of node: 341
+
+number of edge: 319
+number of node: 258
+
+number of edge: 510
+number of node: 339
+
+number of edge: 376
+number of node: 321
+
+number of edge: 449
+number of node: 361
+
+number of edge: 346
+number of node: 317
+
+number of edge: 442
+number of node: 381
+
+number of edge: 501
+number of node: 324
+
+number of edge: 461
+number of node: 374
+
+number of edge: 278
+number of node: 291
+
+number of edge: 327
+number of node: 291
+
+number of edge: 385
+number of node: 332
+
+number of edge: 333
+number of node: 324
+
+number of edge: 543
+number of node: 391
+
+number of edge: 320
+number of node: 264
+
+number of edge: 609
+number of node: 398
+
+number of edge: 532
+number of node: 376
+
+number of edge: 418
+number of node: 315
+
+number of edge: 483
+number of node: 373
+
+number of edge: 504
+number of node: 396
+
+number of edge: 577
+number of node: 376
+
+number of edge: 568
+number of node: 377
+
+number of edge: 391
+number of node: 338
+
+number of edge: 442
+number of node: 350
+
+number of edge: 553
+number of node: 407
+
+number of edge: 434
+number of node: 344
+
+number of edge: 361
+number of node: 310
+
+number of edge: 494
+number of node: 339
+
+number of edge: 438
+number of node: 323
+
+number of edge: 508
+number of node: 386
+
+number of edge: 430
+number of node: 367
+
+number of edge: 351
+number of node: 290
+
+number of edge: 444
+number of node: 365
+
+number of edge: 343
+number of node: 267
+
+number of edge: 466
+number of node: 369
+
+number of edge: 337
+number of node: 324
+
+number of edge: 500
+number of node: 343
+
+number of edge: 493
+number of node: 358
+
+number of edge: 412
+number of node: 335
+
+number of edge: 343
+number of node: 314
+
+number of edge: 158
+number of node: 174
+
+number of edge: 117
+number of node: 147
+
+number of edge: 277
+number of node: 281
+
+number of edge: 260
+number of node: 262
+
+number of edge: 387
+number of node: 356
+
+number of edge: 493
+number of node: 364
+
+number of edge: 396
+number of node: 335
+
+number of edge: 429
+number of node: 334
+
+number of edge: 493
+number of node: 370
+
+number of edge: 329
+number of node: 322
+
+number of edge: 128
+number of node: 132
+
+number of edge: 139
+number of node: 159
+
+number of edge: 361
+number of node: 351
+
+number of edge: 265
+number of node: 257
+
+number of edge: 434
+number of node: 295
+
+number of edge: 388
+number of node: 321
+
+number of edge: 238
+number of node: 267
+
+number of edge: 273
+number of node: 250
+
+number of edge: 358
+number of node: 306
+
+number of edge: 354
+number of node: 321
+
+number of edge: 327
+number of node: 266
+
+number of edge: 413
+number of node: 341
+
+number of edge: 359
+number of node: 320
+
+number of edge: 235
+number of node: 251
+
+number of edge: 295
+number of node: 287
+
+number of edge: 114
+number of node: 136
+
+number of edge: 184
+number of node: 209
+
+number of edge: 240
+number of node: 274
+
+number of edge: 237
+number of node: 268
+
+number of edge: 234
+number of node: 270
+
+number of edge: 257
+number of node: 264
+
+number of edge: 191
+number of node: 219
+
+number of edge: 343
+number of node: 305
+
+number of edge: 231
+number of node: 258
+
+number of edge: 243
+number of node: 239
+
+number of edge: 192
+number of node: 220
+
+number of edge: 191
+number of node: 232
+
+number of edge: 319
+number of node: 285
+
+number of edge: 341
+number of node: 296
+
+number of edge: 400
+number of node: 313
+
+number of edge: 492
+number of node: 334
+
+number of edge: 349
+number of node: 275
+
+number of edge: 436
+number of node: 347
+
+number of edge: 507
+number of node: 199
+
+number of edge: 398
+number of node: 241
+
+number of edge: 614
+number of node: 411
+
+number of edge: 559
+number of node: 381
+
+number of edge: 614
+number of node: 435
+
+number of edge: 625
+number of node: 399
+
+number of edge: 425
+number of node: 359
+
+number of edge: 459
+number of node: 374
+
+number of edge: 496
+number of node: 357
+
+number of edge: 420
+number of node: 354
+
+number of edge: 502
+number of node: 346
+
+number of edge: 587
+number of node: 400
+
+number of edge: 459
+number of node: 357
+
+number of edge: 499
+number of node: 396
+
+number of edge: 544
+number of node: 356
+
+number of edge: 579
+number of node: 367
+
+number of edge: 495
+number of node: 378
+
+number of edge: 563
+number of node: 398
+
+number of edge: 468
+number of node: 375
+
+number of edge: 584
+number of node: 369
+
+number of edge: 384
+number of node: 332
+
+number of edge: 440
+number of node: 365
+
+number of edge: 297
+number of node: 284
+
+number of edge: 478
+number of node: 315
+
+number of edge: 560
+number of node: 405
+
+number of edge: 389
+number of node: 286
+
+number of edge: 420
+number of node: 337
+
+number of edge: 269
+number of node: 256
+
+number of edge: 189
+number of node: 198
+
+number of edge: 390
+number of node: 350
+
+number of edge: 447
+number of node: 343
+
+number of edge: 461
+number of node: 351
+
+number of edge: 383
+number of node: 288
+
+number of edge: 428
+number of node: 309
+
+number of edge: 481
+number of node: 370
+
+number of edge: 402
+number of node: 331
+
+number of edge: 387
+number of node: 328
+
+number of edge: 353
+number of node: 317
+
+number of edge: 280
+number of node: 292
+
+number of edge: 368
+number of node: 287
+
+number of edge: 399
+number of node: 336
+
+number of edge: 352
+number of node: 296
+
+number of edge: 288
+number of node: 254
+
+number of edge: 144
+number of node: 168
+
+number of edge: 164
+number of node: 188
+
+number of edge: 160
+number of node: 177
+
+number of edge: 386
+number of node: 343
+
+number of edge: 488
+number of node: 368
+
+number of edge: 383
+number of node: 332
+
+number of edge: 318
+number of node: 312
+
+number of edge: 418
+number of node: 331
+
+number of edge: 402
+number of node: 267
+
+number of edge: 291
+number of node: 283
+
+number of edge: 441
+number of node: 363
+
+number of edge: 332
+number of node: 314
+
+number of edge: 372
+number of node: 306
+
+number of edge: 486
+number of node: 375
+
+number of edge: 424
+number of node: 362
+
+number of edge: 415
+number of node: 329
+
+number of edge: 380
+number of node: 331
+
+number of edge: 340
+number of node: 291
+
+number of edge: 364
+number of node: 309
+
+number of edge: 450
+number of node: 372
+
+number of edge: 461
+number of node: 383
+
+number of edge: 424
+number of node: 344
+
+number of edge: 462
+number of node: 346
+
+number of edge: 337
+number of node: 335
+
+number of edge: 378
+number of node: 341
+
+number of edge: 475
+number of node: 308
+
+number of edge: 505
+number of node: 381
+
+number of edge: 416
+number of node: 345
+
+number of edge: 264
+number of node: 268
+
+number of edge: 383
+number of node: 329
+
+number of edge: 440
+number of node: 252
+
+number of edge: 511
+number of node: 396
+
+number of edge: 381
+number of node: 335
+
+number of edge: 375
+number of node: 305
+
+number of edge: 463
+number of node: 370
+
+number of edge: 434
+number of node: 352
+
+number of edge: 445
+number of node: 312
+
+number of edge: 425
+number of node: 364
+
+number of edge: 309
+number of node: 298
+
+number of edge: 472
+number of node: 359
+
+number of edge: 450
+number of node: 368
+
+number of edge: 537
+number of node: 368
+
+number of edge: 400
+number of node: 342
+
+number of edge: 546
+number of node: 382
+
+number of edge: 336
+number of node: 204
+
+number of edge: 267
+number of node: 265
+
+number of edge: 362
+number of node: 318
+
+number of edge: 340
+number of node: 311
+
+number of edge: 295
+number of node: 296
+
+number of edge: 316
+number of node: 275
+
+number of edge: 662
+number of node: 366
+
+number of edge: 399
+number of node: 353
+
+number of edge: 363
+number of node: 332
+
+number of edge: 387
+number of node: 347
+
+number of edge: 378
+number of node: 335
+
+number of edge: 366
+number of node: 324
+
+number of edge: 390
+number of node: 319
+
+number of edge: 394
+number of node: 350
+
+number of edge: 325
+number of node: 308
+
+number of edge: 223
+number of node: 215
+
+number of edge: 123
+number of node: 134
+
+number of edge: 170
+number of node: 175
+
+number of edge: 212
+number of node: 226
+
+number of edge: 100
+number of node: 106
+
+number of edge: 117
+number of node: 128
+
+number of edge: 251
+number of node: 261
+
+number of edge: 275
+number of node: 300
+
+number of edge: 361
+number of node: 342
+
+number of edge: 311
+number of node: 237
+
+number of edge: 244
+number of node: 197
+
+number of edge: 208
+number of node: 184
+
+number of edge: 314
+number of node: 217
+
+number of edge: 441
+number of node: 296
+
+number of edge: 380
+number of node: 360
+
+number of edge: 287
+number of node: 293
+
+number of edge: 188
+number of node: 228
+
+number of edge: 236
+number of node: 252
+
+number of edge: 265
+number of node: 266
+
+number of edge: 353
+number of node: 334
+
+number of edge: 249
+number of node: 262
+
+number of edge: 378
+number of node: 335
+
+number of edge: 365
+number of node: 287
+
+number of edge: 241
+number of node: 269
+
+number of edge: 309
+number of node: 302
+
+number of edge: 250
+number of node: 231
+
+number of edge: 200
+number of node: 191
+
+number of edge: 264
+number of node: 270
+
+number of edge: 302
+number of node: 285
+
+number of edge: 164
+number of node: 155
+
+number of edge: 216
+number of node: 213
+
+number of edge: 208
+number of node: 246
+
+number of edge: 213
+number of node: 256
+
+number of edge: 165
+number of node: 211
+
+number of edge: 169
+number of node: 211
+
+number of edge: 370
+number of node: 325
+
+number of edge: 292
+number of node: 263
+
+number of edge: 492
+number of node: 336
+
+number of edge: 498
+number of node: 346
+
+number of edge: 505
+number of node: 354
+
+number of edge: 418
+number of node: 248
+
+number of edge: 437
+number of node: 278
+
+number of edge: 498
+number of node: 356
+
+number of edge: 370
+number of node: 300
+
+number of edge: 480
+number of node: 352
+
+number of edge: 453
+number of node: 350
+
+number of edge: 413
+number of node: 281
+
+number of edge: 392
+number of node: 318
+
+number of edge: 434
+number of node: 356
+
+number of edge: 477
+number of node: 369
+
+number of edge: 480
+number of node: 376
+
+number of edge: 743
+number of node: 445
+
+number of edge: 663
+number of node: 399
+
+number of edge: 516
+number of node: 372
+
+number of edge: 571
+number of node: 398
+
+number of edge: 447
+number of node: 335
+
+number of edge: 325
+number of node: 296
+
+number of edge: 476
+number of node: 359
+
+number of edge: 344
+number of node: 269
+
+number of edge: 557
+number of node: 407
+
+number of edge: 577
+number of node: 406
+
+number of edge: 493
+number of node: 372
+
+number of edge: 395
+number of node: 322
+
+number of edge: 388
+number of node: 308
+
+number of edge: 759
+number of node: 437
+
+number of edge: 542
+number of node: 381
+
+number of edge: 640
+number of node: 426
+
+number of edge: 589
+number of node: 375
+
+number of edge: 453
+number of node: 337
+
+number of edge: 432
+number of node: 382
+
+number of edge: 397
+number of node: 344
+
+number of edge: 522
+number of node: 402
+
+number of edge: 403
+number of node: 355
+
+number of edge: 447
+number of node: 340
+
+number of edge: 391
+number of node: 343
+
+number of edge: 267
+number of node: 281
+
+number of edge: 306
+number of node: 259
+
+number of edge: 448
+number of node: 354
+
+number of edge: 347
+number of node: 279
+
+number of edge: 354
+number of node: 279
+
+number of edge: 387
+number of node: 335
+
+number of edge: 414
+number of node: 339
+
+number of edge: 290
+number of node: 284
+
+number of edge: 314
+number of node: 284
+
+number of edge: 223
+number of node: 233
+
+number of edge: 239
+number of node: 256
+
+number of edge: 257
+number of node: 257
+
+number of edge: 338
+number of node: 315
+
+number of edge: 337
+number of node: 313
+
+number of edge: 496
+number of node: 383
+
+number of edge: 449
+number of node: 335
+
+number of edge: 307
+number of node: 229
+
+number of edge: 304
+number of node: 253
+
+number of edge: 408
+number of node: 328
+
+number of edge: 389
+number of node: 331
+
+number of edge: 307
+number of node: 304
+
+number of edge: 466
+number of node: 369
+
+number of edge: 356
+number of node: 326
+
+number of edge: 442
+number of node: 343
+
+number of edge: 476
+number of node: 372
+
+number of edge: 440
+number of node: 368
+
+number of edge: 372
+number of node: 288
+
+number of edge: 456
+number of node: 352
+
+number of edge: 303
+number of node: 292
+
+number of edge: 412
+number of node: 349
+
+number of edge: 331
+number of node: 310
+
+number of edge: 432
+number of node: 370
+
+number of edge: 340
+number of node: 324
+
+number of edge: 361
+number of node: 279
+
+number of edge: 315
+number of node: 247
+
+number of edge: 451
+number of node: 368
+
+number of edge: 423
+number of node: 341
+
+number of edge: 430
+number of node: 379
+
+number of edge: 634
+number of node: 424
+
+number of edge: 419
+number of node: 314
+
+number of edge: 375
+number of node: 333
+
+number of edge: 490
+number of node: 374
+
+number of edge: 356
+number of node: 331
+
+number of edge: 543
+number of node: 376
+
+number of edge: 320
+number of node: 278
+
+number of edge: 437
+number of node: 372
+
+number of edge: 308
+number of node: 306
+
+number of edge: 473
+number of node: 376
+
+number of edge: 454
+number of node: 360
+
+number of edge: 395
+number of node: 356
+
+number of edge: 299
+number of node: 304
+
+number of edge: 337
+number of node: 320
+
+number of edge: 373
+number of node: 363
+
+number of edge: 222
+number of node: 250
+
+number of edge: 281
+number of node: 276
+
+number of edge: 349
+number of node: 289
+
+number of edge: 242
+number of node: 265
+
+number of edge: 131
+number of node: 131
+
+number of edge: 192
+number of node: 157
+
+number of edge: 156
+number of node: 177
+
+number of edge: 330
+number of node: 294
+
+number of edge: 348
+number of node: 251
+
+number of edge: 286
+number of node: 274
+
+number of edge: 347
+number of node: 314
+
+number of edge: 266
+number of node: 288
+
+number of edge: 347
+number of node: 315
+
+number of edge: 340
+number of node: 315
+
+number of edge: 339
+number of node: 311
+
+number of edge: 257
+number of node: 255
+
+number of edge: 315
+number of node: 307
+
+number of edge: 474
+number of node: 366
+
+number of edge: 306
+number of node: 305
+
+number of edge: 317
+number of node: 326
+
+number of edge: 292
+number of node: 304
+
+number of edge: 287
+number of node: 297
+
+number of edge: 248
+number of node: 288
+
+number of edge: 277
+number of node: 281
+
+number of edge: 153
+number of node: 213
+
+number of edge: 256
+number of node: 269
+
+number of edge: 411
+number of node: 329
+
+number of edge: 413
+number of node: 321
+
+number of edge: 326
+number of node: 248
+
+number of edge: 317
+number of node: 276
+
+number of edge: 413
+number of node: 319
+
+number of edge: 380
+number of node: 293
+
+number of edge: 384
+number of node: 269
+
+number of edge: 452
+number of node: 349
+
+number of edge: 369
+number of node: 307
+
+number of edge: 210
+number of node: 202
+
+number of edge: 517
+number of node: 364
+
+number of edge: 320
+number of node: 312
+
+number of edge: 467
+number of node: 374
+
+number of edge: 481
+number of node: 373
+
+number of edge: 295
+number of node: 276
+
+number of edge: 464
+number of node: 395
+
+number of edge: 316
+number of node: 319
+
+number of edge: 376
+number of node: 339
+
+number of edge: 317
+number of node: 307
+
+number of edge: 418
+number of node: 339
+
+number of edge: 483
+number of node: 384
+
+number of edge: 405
+number of node: 372
+
+number of edge: 418
+number of node: 342
+
+number of edge: 393
+number of node: 327
+
+number of edge: 457
+number of node: 366
+
+number of edge: 306
+number of node: 268
+
+number of edge: 423
+number of node: 338
+
+number of edge: 416
+number of node: 327
+
+number of edge: 378
+number of node: 338
+
+number of edge: 204
+number of node: 190
+
+number of edge: 344
+number of node: 273
+
+number of edge: 449
+number of node: 362
+
+number of edge: 362
+number of node: 320
+
+number of edge: 137
+number of node: 162
+
+number of edge: 256
+number of node: 262
+
+number of edge: 174
+number of node: 196
+
+number of edge: 199
+number of node: 211
+
+number of edge: 147
+number of node: 159
+
+number of edge: 100
+number of node: 106
+
+number of edge: 282
+number of node: 292
+
+number of edge: 429
+number of node: 293
+
+number of edge: 372
+number of node: 250
+
+number of edge: 336
+number of node: 284
+
+number of edge: 422
+number of node: 356
+
+number of edge: 233
+number of node: 246
+
+number of edge: 158
+number of node: 166
+
+number of edge: 277
+number of node: 271
+
+number of edge: 394
+number of node: 323
+
+number of edge: 283
+number of node: 289
+
+number of edge: 531
+number of node: 405
+
+number of edge: 254
+number of node: 263
+
+number of edge: 252
+number of node: 222
+
+number of edge: 160
+number of node: 152
+
+number of edge: 131
+number of node: 154
+
+number of edge: 271
+number of node: 272
+
+number of edge: 282
+number of node: 292
+
+number of edge: 291
+number of node: 282
+
+number of edge: 268
+number of node: 285
+
+number of edge: 218
+number of node: 207
+
+number of edge: 215
+number of node: 209
+
+number of edge: 228
+number of node: 262
+
+number of edge: 404
+number of node: 353
+
+number of edge: 271
+number of node: 269
+
+number of edge: 156
+number of node: 163
+
+number of edge: 322
+number of node: 195
+
+number of edge: 267
+number of node: 186
+
+number of edge: 244
+number of node: 253
+
+number of edge: 267
+number of node: 252
+
+number of edge: 138
+number of node: 151
+
+number of edge: 220
+number of node: 237
+
+number of edge: 362
+number of node: 334
+
+number of edge: 344
+number of node: 317
+
+number of edge: 331
+number of node: 263
+
+number of edge: 282
+number of node: 278
+
+number of edge: 382
+number of node: 278
+
+number of edge: 201
+number of node: 227
+
+number of edge: 364
+number of node: 329
+
+number of edge: 442
+number of node: 340
+
+number of edge: 390
+number of node: 335
+
+number of edge: 418
+number of node: 358
+
+number of edge: 365
+number of node: 334
+
+number of edge: 371
+number of node: 322
+
+number of edge: 423
+number of node: 365
+
+number of edge: 392
+number of node: 358
+
+number of edge: 387
+number of node: 310
+
+number of edge: 359
+number of node: 346
+
+number of edge: 236
+number of node: 247
+
+number of edge: 350
+number of node: 308
+
+number of edge: 189
+number of node: 211
+
+number of edge: 159
+number of node: 166
+
+number of edge: 322
+number of node: 262
+
+number of edge: 412
+number of node: 360
+
+number of edge: 354
+number of node: 287
+
+number of edge: 349
+number of node: 311
+
+number of edge: 365
+number of node: 336
+
+number of edge: 202
+number of node: 196
+
+number of edge: 456
+number of node: 351
+
+number of edge: 447
+number of node: 386
+
+number of edge: 306
+number of node: 293
+
+number of edge: 282
+number of node: 268
+
+number of edge: 210
+number of node: 178
+
+number of edge: 264
+number of node: 213
+
+number of edge: 387
+number of node: 329
+
+number of edge: 393
+number of node: 354
+
+number of edge: 446
+number of node: 367
+
+number of edge: 353
+number of node: 307
+
+number of edge: 393
+number of node: 322
+
+number of edge: 384
+number of node: 332
+
+number of edge: 358
+number of node: 315
+
+number of edge: 312
+number of node: 309
+
+number of edge: 389
+number of node: 336
+
+number of edge: 164
+number of node: 181
+
+number of edge: 217
+number of node: 215
+
+number of edge: 151
+number of node: 180
+
+number of edge: 377
+number of node: 322
+
+number of edge: 368
+number of node: 320
+
+number of edge: 298
+number of node: 305
+
+number of edge: 192
+number of node: 205
+
+number of edge: 179
+number of node: 199
+
+number of edge: 235
+number of node: 226
+
+number of edge: 127
+number of node: 153
+
+number of edge: 106
+number of node: 116
+
+number of edge: 262
+number of node: 212
+
+number of edge: 232
+number of node: 253
+
+number of edge: 285
+number of node: 286
+
+number of edge: 264
+number of node: 227
+
+number of edge: 394
+number of node: 337
+
+number of edge: 324
+number of node: 333
+
+number of edge: 296
+number of node: 257
+
+number of edge: 309
+number of node: 299
+
+number of edge: 247
+number of node: 251
+
+number of edge: 289
+number of node: 277
+
+number of edge: 313
+number of node: 299
+
+number of edge: 291
+number of node: 307
+
+number of edge: 275
+number of node: 297
+
+number of edge: 257
+number of node: 283
+
+number of edge: 216
+number of node: 242
+
+number of edge: 387
+number of node: 312
+
+number of edge: 442
+number of node: 337
+
+number of edge: 487
+number of node: 324
+
+number of edge: 485
+number of node: 330
+
+number of edge: 358
+number of node: 251
+
+number of edge: 438
+number of node: 258
+
+number of edge: 381
+number of node: 256
+
+number of edge: 434
+number of node: 332
+
+number of edge: 594
+number of node: 399
+
+number of edge: 602
+number of node: 427
+
+number of edge: 607
+number of node: 391
+
+number of edge: 530
+number of node: 371
+
+number of edge: 671
+number of node: 429
+
+number of edge: 673
+number of node: 438
+
+number of edge: 674
+number of node: 428
+
+number of edge: 543
+number of node: 390
+
+number of edge: 522
+number of node: 364
+
+number of edge: 566
+number of node: 390
+
+number of edge: 657
+number of node: 427
+
+number of edge: 632
+number of node: 416
+
+number of edge: 452
+number of node: 354
+
+number of edge: 470
+number of node: 371
+
+number of edge: 187
+number of node: 191
+
+number of edge: 321
+number of node: 246
+
+number of edge: 299
+number of node: 275
+
+number of edge: 329
+number of node: 318
+
+number of edge: 366
+number of node: 329
+
+number of edge: 382
+number of node: 301
+
+number of edge: 518
+number of node: 378
+
+number of edge: 319
+number of node: 313
+
+number of edge: 575
+number of node: 426
+
+number of edge: 374
+number of node: 331
+
+number of edge: 299
+number of node: 299
+
+number of edge: 354
+number of node: 328
+
+number of edge: 293
+number of node: 285
+
+number of edge: 336
+number of node: 305
+
+number of edge: 382
+number of node: 309
+
+number of edge: 280
+number of node: 192
+
+number of edge: 168
+number of node: 176
+
+number of edge: 268
+number of node: 263
+
+number of edge: 254
+number of node: 243
+
+number of edge: 302
+number of node: 282
+
+number of edge: 408
+number of node: 314
+
+number of edge: 336
+number of node: 314
+
+number of edge: 280
+number of node: 258
+
+number of edge: 323
+number of node: 300
+
+number of edge: 516
+number of node: 420
+
+number of edge: 386
+number of node: 320
+
+number of edge: 428
+number of node: 332
+
+number of edge: 466
+number of node: 386
+
+number of edge: 277
+number of node: 263
+
+number of edge: 294
+number of node: 263
+
+number of edge: 437
+number of node: 363
+
+number of edge: 438
+number of node: 366
+
+number of edge: 346
+number of node: 343
+
+number of edge: 484
+number of node: 382
+
+number of edge: 273
+number of node: 257
+
+number of edge: 231
+number of node: 235
+
+number of edge: 312
+number of node: 276
+
+number of edge: 393
+number of node: 360
+
+number of edge: 339
+number of node: 293
+
+number of edge: 280
+number of node: 277
+
+number of edge: 365
+number of node: 274
+
+number of edge: 517
+number of node: 386
+
+number of edge: 375
+number of node: 294
+
+number of edge: 407
+number of node: 369
+
+number of edge: 494
+number of node: 360
+
+number of edge: 509
+number of node: 362
+
+number of edge: 473
+number of node: 381
+
+number of edge: 461
+number of node: 366
+
+number of edge: 456
+number of node: 376
+
+number of edge: 353
+number of node: 292
+
+number of edge: 331
+number of node: 299
+
+number of edge: 168
+number of node: 154
+
+number of edge: 180
+number of node: 166
+
+number of edge: 221
+number of node: 235
+
+number of edge: 269
+number of node: 277
+
+number of edge: 376
+number of node: 325
+
+number of edge: 248
+number of node: 238
+
+number of edge: 329
+number of node: 292
+
+number of edge: 292
+number of node: 286
+
+number of edge: 385
+number of node: 312
+
+number of edge: 416
+number of node: 370
+
+number of edge: 355
+number of node: 240
+
+number of edge: 348
+number of node: 285
+
+number of edge: 327
+number of node: 314
+
+number of edge: 501
+number of node: 389
+
+number of edge: 270
+number of node: 287
+
+number of edge: 401
+number of node: 332
+
+number of edge: 408
+number of node: 337
+
+number of edge: 520
+number of node: 403
+
+number of edge: 491
+number of node: 389
+
+number of edge: 302
+number of node: 231
+
+number of edge: 160
+number of node: 169
+
+number of edge: 194
+number of node: 189
+
+number of edge: 318
+number of node: 280
+
+number of edge: 315
+number of node: 308
+
+number of edge: 246
+number of node: 236
+
+number of edge: 147
+number of node: 164
+
+number of edge: 204
+number of node: 228
+
+number of edge: 459
+number of node: 371
+
+number of edge: 441
+number of node: 343
+
+number of edge: 198
+number of node: 181
+
+number of edge: 338
+number of node: 278
+
+number of edge: 447
+number of node: 374
+
+number of edge: 305
+number of node: 320
+
+number of edge: 359
+number of node: 298
+
+number of edge: 342
+number of node: 290
+
+number of edge: 319
+number of node: 272
+
+number of edge: 260
+number of node: 276
+
+number of edge: 274
+number of node: 245
+
+number of edge: 350
+number of node: 345
+
+number of edge: 365
+number of node: 293
+
+number of edge: 271
+number of node: 208
+
+number of edge: 342
+number of node: 329
+
+number of edge: 314
+number of node: 297
+
+number of edge: 281
+number of node: 283
+
+number of edge: 302
+number of node: 292
+
+number of edge: 359
+number of node: 334
+
+number of edge: 131
+number of node: 160
+
+number of edge: 296
+number of node: 280
+
+number of edge: 290
+number of node: 268
+
+number of edge: 254
+number of node: 259
+
+number of edge: 248
+number of node: 285
+
+number of edge: 260
+number of node: 275
+
+number of edge: 504
+number of node: 368
+
+number of edge: 564
+number of node: 370
+
+number of edge: 453
+number of node: 358
+
+number of edge: 481
+number of node: 245
+
+number of edge: 435
+number of node: 296
+
+number of edge: 499
+number of node: 246
+
+number of edge: 527
+number of node: 302
+
+number of edge: 613
+number of node: 444
+
+number of edge: 640
+number of node: 432
+
+number of edge: 687
+number of node: 436
+
+number of edge: 599
+number of node: 417
+
+number of edge: 576
+number of node: 414
+
+number of edge: 489
+number of node: 392
+
+number of edge: 526
+number of node: 389
+
+number of edge: 452
+number of node: 357
+
+number of edge: 609
+number of node: 404
+
+number of edge: 611
+number of node: 420
+
+number of edge: 502
+number of node: 401
+
+number of edge: 519
+number of node: 368
+
+number of edge: 649
+number of node: 432
+
+number of edge: 633
+number of node: 427
+
+number of edge: 452
+number of node: 268
+
+number of edge: 645
+number of node: 412
+
+number of edge: 626
+number of node: 437
+
+number of edge: 616
+number of node: 403
+
+number of edge: 360
+number of node: 305
+
+number of edge: 532
+number of node: 372
+
+number of edge: 670
+number of node: 455
+
+number of edge: 281
+number of node: 244
+
+number of edge: 493
+number of node: 376
+
+number of edge: 519
+number of node: 337
+
+number of edge: 418
+number of node: 358
+
+number of edge: 464
+number of node: 365
+
+number of edge: 481
+number of node: 323
+
+number of edge: 398
+number of node: 355
+
+number of edge: 361
+number of node: 326
+
+number of edge: 243
+number of node: 283
+
+number of edge: 423
+number of node: 370
+
+number of edge: 353
+number of node: 331
+
+number of edge: 224
+number of node: 242
+
+number of edge: 508
+number of node: 402
+
+number of edge: 449
+number of node: 341
+
+number of edge: 352
+number of node: 323
+
+number of edge: 108
+number of node: 119
+
+number of edge: 134
+number of node: 143
+
+number of edge: 164
+number of node: 177
+
+number of edge: 157
+number of node: 180
+
+number of edge: 445
+number of node: 392
+
+number of edge: 504
+number of node: 394
+
+number of edge: 277
+number of node: 231
+
+number of edge: 415
+number of node: 346
+
+number of edge: 359
+number of node: 330
+
+number of edge: 389
+number of node: 346
+
+number of edge: 312
+number of node: 276
+
+number of edge: 385
+number of node: 335
+
+number of edge: 289
+number of node: 222
+
+number of edge: 331
+number of node: 292
+
+number of edge: 490
+number of node: 369
+
+number of edge: 387
+number of node: 304
+
+number of edge: 393
+number of node: 315
+
+number of edge: 470
+number of node: 393
+
+number of edge: 332
+number of node: 322
+
+number of edge: 230
+number of node: 243
+
+number of edge: 227
+number of node: 220
+
+number of edge: 353
+number of node: 328
+
+number of edge: 410
+number of node: 353
+
+number of edge: 417
+number of node: 313
+
+number of edge: 269
+number of node: 248
+
+number of edge: 319
+number of node: 296
+
+number of edge: 110
+number of node: 115
+
+number of edge: 122
+number of node: 131
+
+number of edge: 107
+number of node: 122
+
+number of edge: 312
+number of node: 311
+
+number of edge: 447
+number of node: 374
+
+number of edge: 389
+number of node: 349
+
+number of edge: 412
+number of node: 321
+
+number of edge: 245
+number of node: 244
+
+number of edge: 224
+number of node: 233
+
+number of edge: 242
+number of node: 259
+
+number of edge: 179
+number of node: 166
+
+number of edge: 226
+number of node: 187
+
+number of edge: 199
+number of node: 150
+
+number of edge: 431
+number of node: 375
+
+number of edge: 324
+number of node: 319
+
+number of edge: 340
+number of node: 339
+
+number of edge: 418
+number of node: 368
+
+number of edge: 353
+number of node: 239
+
+number of edge: 466
+number of node: 371
+
+number of edge: 534
+number of node: 367
+
+number of edge: 567
+number of node: 404
+
+number of edge: 252
+number of node: 203
+
+number of edge: 401
+number of node: 343
+
+number of edge: 329
+number of node: 255
+
+number of edge: 389
+number of node: 330
+
+number of edge: 490
+number of node: 390
+
+number of edge: 308
+number of node: 303
+
+number of edge: 526
+number of node: 387
+
+number of edge: 505
+number of node: 389
+
+number of edge: 498
+number of node: 397
+
+number of edge: 526
+number of node: 316
+
+number of edge: 385
+number of node: 282
+
+number of edge: 312
+number of node: 264
+
+number of edge: 402
+number of node: 333
+
+number of edge: 519
+number of node: 416
+
+number of edge: 272
+number of node: 280
+
+number of edge: 439
+number of node: 364
+
+number of edge: 377
+number of node: 340
+
+number of edge: 417
+number of node: 358
+
+number of edge: 455
+number of node: 349
+
+number of edge: 522
+number of node: 405
+
+number of edge: 313
+number of node: 269
+
+number of edge: 432
+number of node: 352
+
+number of edge: 331
+number of node: 309
+
+number of edge: 191
+number of node: 198
+
+number of edge: 303
+number of node: 299
+
+number of edge: 364
+number of node: 279
+
+number of edge: 208
+number of node: 250
+
+number of edge: 195
+number of node: 171
+
+number of edge: 298
+number of node: 286
+
+number of edge: 284
+number of node: 303
+
+number of edge: 385
+number of node: 281
+
+number of edge: 354
+number of node: 310
+
+number of edge: 258
+number of node: 221
+
+number of edge: 393
+number of node: 350
+
+number of edge: 325
+number of node: 281
+
+number of edge: 315
+number of node: 313
+
+number of edge: 329
+number of node: 290
+
+number of edge: 277
+number of node: 295
+
+number of edge: 373
+number of node: 337
+
+number of edge: 403
+number of node: 334
+
+number of edge: 473
+number of node: 379
+
+number of edge: 246
+number of node: 240
+
+number of edge: 387
+number of node: 325
+
+number of edge: 429
+number of node: 367
+
+number of edge: 325
+number of node: 320
+
+number of edge: 334
+number of node: 317
+
+number of edge: 195
+number of node: 213
+
+number of edge: 358
+number of node: 332
+
+number of edge: 296
+number of node: 301
+
+number of edge: 315
+number of node: 314
+
+number of edge: 235
+number of node: 262
+
+number of edge: 334
+number of node: 346
+
+number of edge: 307
+number of node: 295
+
+number of edge: 243
+number of node: 276
+
+number of edge: 274
+number of node: 282
+
+number of edge: 580
+number of node: 338
+
+number of edge: 413
+number of node: 309
+
+number of edge: 495
+number of node: 265
+
+number of edge: 481
+number of node: 195
+
+number of edge: 674
+number of node: 434
+
+number of edge: 707
+number of node: 442
+
+number of edge: 603
+number of node: 381
+
+number of edge: 508
+number of node: 390
+
+number of edge: 784
+number of node: 453
+
+number of edge: 657
+number of node: 411
+
+number of edge: 601
+number of node: 395
+
+number of edge: 516
+number of node: 368
+
+number of edge: 447
+number of node: 361
+
+number of edge: 451
+number of node: 332
+
+number of edge: 394
+number of node: 335
+
+number of edge: 631
+number of node: 396
+
+number of edge: 608
+number of node: 392
+
+number of edge: 608
+number of node: 431
+
+number of edge: 423
+number of node: 348
+
+number of edge: 564
+number of node: 383
+
+number of edge: 717
+number of node: 460
+
+number of edge: 781
+number of node: 463
+
+number of edge: 387
+number of node: 214
+
+number of edge: 420
+number of node: 188
+
+number of edge: 596
+number of node: 402
+
+number of edge: 644
+number of node: 427
+
+number of edge: 681
+number of node: 439
+
+number of edge: 409
+number of node: 321
+
+number of edge: 157
+number of node: 155
+
+number of edge: 264
+number of node: 186
+
+number of edge: 458
+number of node: 341
+
+number of edge: 467
+number of node: 372
+
+number of edge: 434
+number of node: 310
+
+number of edge: 249
+number of node: 239
+
+number of edge: 552
+number of node: 391
+
+number of edge: 679
+number of node: 444
+
+number of edge: 567
+number of node: 408
+
+number of edge: 620
+number of node: 397
+
+number of edge: 528
+number of node: 416
+
+number of edge: 473
+number of node: 358
+
+number of edge: 483
+number of node: 395
+
+number of edge: 381
+number of node: 363
+
+number of edge: 555
+number of node: 407
+
+number of edge: 220
+number of node: 241
+
+number of edge: 324
+number of node: 285
+
+number of edge: 391
+number of node: 358
+
+number of edge: 402
+number of node: 364
+
+number of edge: 321
+number of node: 297
+
+number of edge: 389
+number of node: 334
+
+number of edge: 199
+number of node: 182
+
+number of edge: 377
+number of node: 327
+
+number of edge: 333
+number of node: 292
+
+number of edge: 633
+number of node: 411
+
+number of edge: 151
+number of node: 169
+
+number of edge: 101
+number of node: 108
+
+number of edge: 385
+number of node: 289
+
+number of edge: 228
+number of node: 178
+
+number of edge: 293
+number of node: 282
+
+number of edge: 433
+number of node: 341
+
+number of edge: 360
+number of node: 342
+
+number of edge: 256
+number of node: 214
+
+number of edge: 296
+number of node: 273
+
+number of edge: 179
+number of node: 167
+
+number of edge: 519
+number of node: 400
+
+number of edge: 348
+number of node: 337
+
+number of edge: 501
+number of node: 399
+
+number of edge: 303
+number of node: 301
+
+number of edge: 280
+number of node: 241
+
+number of edge: 329
+number of node: 287
+
+number of edge: 393
+number of node: 314
+
+number of edge: 321
+number of node: 278
+
+number of edge: 535
+number of node: 399
+
+number of edge: 336
+number of node: 274
+
+number of edge: 435
+number of node: 346
+
+number of edge: 279
+number of node: 257
+
+number of edge: 313
+number of node: 280
+
+number of edge: 291
+number of node: 268
+
+number of edge: 200
+number of node: 172
+
+number of edge: 367
+number of node: 314
+
+number of edge: 333
+number of node: 296
+
+number of edge: 233
+number of node: 211
+
+number of edge: 248
+number of node: 248
+
+number of edge: 364
+number of node: 335
+
+number of edge: 526
+number of node: 392
+
+number of edge: 298
+number of node: 267
+
+number of edge: 345
+number of node: 303
+
+number of edge: 335
+number of node: 295
+
+number of edge: 451
+number of node: 357
+
+number of edge: 318
+number of node: 252
+
+number of edge: 335
+number of node: 327
+
+number of edge: 500
+number of node: 408
+
+number of edge: 455
+number of node: 382
+
+number of edge: 468
+number of node: 371
+
+number of edge: 543
+number of node: 410
+
+number of edge: 387
+number of node: 342
+
+number of edge: 273
+number of node: 270
+
+number of edge: 261
+number of node: 263
+
+number of edge: 171
+number of node: 179
+
+number of edge: 135
+number of node: 146
+
+number of edge: 221
+number of node: 220
+
+number of edge: 209
+number of node: 237
+
+number of edge: 195
+number of node: 195
+
+number of edge: 244
+number of node: 178
+
+number of edge: 221
+number of node: 216
+
+number of edge: 402
+number of node: 318
+
+number of edge: 237
+number of node: 171
+
+number of edge: 355
+number of node: 256
+
+number of edge: 440
+number of node: 353
+
+number of edge: 496
+number of node: 405
+
+number of edge: 577
+number of node: 416
+
+number of edge: 192
+number of node: 205
+
+number of edge: 490
+number of node: 369
+
+number of edge: 467
+number of node: 353
+
+number of edge: 257
+number of node: 226
+
+number of edge: 259
+number of node: 178
+
+number of edge: 261
+number of node: 243
+
+number of edge: 330
+number of node: 295
+
+number of edge: 379
+number of node: 323
+
+number of edge: 397
+number of node: 305
+
+number of edge: 306
+number of node: 295
+
+number of edge: 301
+number of node: 271
+
+number of edge: 168
+number of node: 159
+
+number of edge: 342
+number of node: 317
+
+number of edge: 368
+number of node: 319
+
+number of edge: 351
+number of node: 301
+
+number of edge: 415
+number of node: 361
+
+number of edge: 493
+number of node: 387
+
+number of edge: 357
+number of node: 347
+
+number of edge: 433
+number of node: 369
+
+number of edge: 318
+number of node: 283
+
+number of edge: 166
+number of node: 170
+
+number of edge: 340
+number of node: 257
+
+number of edge: 366
+number of node: 279
+
+number of edge: 354
+number of node: 326
+
+number of edge: 158
+number of node: 158
+
+number of edge: 364
+number of node: 308
+
+number of edge: 327
+number of node: 315
+
+number of edge: 308
+number of node: 294
+
+number of edge: 319
+number of node: 295
+
+number of edge: 382
+number of node: 335
+
+number of edge: 300
+number of node: 279
+
+number of edge: 389
+number of node: 369
+
+number of edge: 303
+number of node: 294
+
+number of edge: 295
+number of node: 284
+
+number of edge: 303
+number of node: 301
+
+number of edge: 168
+number of node: 173
+
+number of edge: 294
+number of node: 274
+
+number of edge: 507
+number of node: 345
+
+number of edge: 651
+number of node: 384
+
+number of edge: 514
+number of node: 403
+
+number of edge: 588
+number of node: 404
+
+number of edge: 414
+number of node: 187
+
+number of edge: 287
+number of node: 178
+
+number of edge: 256
+number of node: 174
+
+number of edge: 499
+number of node: 360
+
+number of edge: 699
+number of node: 417
+
+number of edge: 632
+number of node: 378
+
+number of edge: 531
+number of node: 403
+
+number of edge: 364
+number of node: 268
+
+number of edge: 638
+number of node: 427
+
+number of edge: 669
+number of node: 456
+
+number of edge: 469
+number of node: 338
+
+number of edge: 584
+number of node: 404
+
+number of edge: 574
+number of node: 405
+
+number of edge: 725
+number of node: 414
+
+number of edge: 734
+number of node: 453
+
+number of edge: 752
+number of node: 452
+
+number of edge: 531
+number of node: 360
+
+number of edge: 622
+number of node: 385
+
+number of edge: 443
+number of node: 337
+
+number of edge: 395
+number of node: 216
+
+number of edge: 485
+number of node: 344
+
+number of edge: 586
+number of node: 421
+
+number of edge: 584
+number of node: 382
+
+number of edge: 528
+number of node: 413
+
+number of edge: 408
+number of node: 299
+
+number of edge: 530
+number of node: 375
+
+number of edge: 631
+number of node: 397
+
+number of edge: 564
+number of node: 395
+
+number of edge: 556
+number of node: 395
+
+number of edge: 460
+number of node: 373
+
+number of edge: 509
+number of node: 391
+
+number of edge: 497
+number of node: 364
+
+number of edge: 436
+number of node: 353
+
+number of edge: 325
+number of node: 209
+
+number of edge: 504
+number of node: 383
+
+number of edge: 292
+number of node: 261
+
+number of edge: 530
+number of node: 383
+
+number of edge: 608
+number of node: 427
+
+number of edge: 379
+number of node: 296
+
+number of edge: 756
+number of node: 436
+
+number of edge: 579
+number of node: 401
+
+number of edge: 540
+number of node: 411
+
+number of edge: 503
+number of node: 354
+
+number of edge: 608
+number of node: 399
+
+number of edge: 403
+number of node: 304
+
+number of edge: 427
+number of node: 368
+
+number of edge: 270
+number of node: 244
+
+number of edge: 461
+number of node: 364
+
+number of edge: 357
+number of node: 318
+
+number of edge: 247
+number of node: 226
+
+number of edge: 326
+number of node: 283
+
+number of edge: 349
+number of node: 322
+
+number of edge: 382
+number of node: 348
+
+number of edge: 270
+number of node: 290
+
+number of edge: 441
+number of node: 375
+
+number of edge: 409
+number of node: 348
+
+number of edge: 494
+number of node: 364
+
+number of edge: 161
+number of node: 162
+
+number of edge: 378
+number of node: 189
+
+number of edge: 401
+number of node: 320
+
+number of edge: 523
+number of node: 350
+
+number of edge: 374
+number of node: 322
+
+number of edge: 304
+number of node: 286
+
+number of edge: 412
+number of node: 346
+
+number of edge: 334
+number of node: 309
+
+number of edge: 458
+number of node: 341
+
+number of edge: 645
+number of node: 421
+
+number of edge: 411
+number of node: 279
+
+number of edge: 509
+number of node: 388
+
+number of edge: 454
+number of node: 348
+
+number of edge: 359
+number of node: 285
+
+number of edge: 408
+number of node: 320
+
+number of edge: 330
+number of node: 294
+
+number of edge: 371
+number of node: 318
+
+number of edge: 349
+number of node: 243
+
+number of edge: 549
+number of node: 392
+
+number of edge: 546
+number of node: 381
+
+number of edge: 472
+number of node: 341
+
+number of edge: 432
+number of node: 357
+
+number of edge: 481
+number of node: 349
+
+number of edge: 367
+number of node: 323
+
+number of edge: 383
+number of node: 340
+
+number of edge: 230
+number of node: 244
+
+number of edge: 241
+number of node: 197
+
+number of edge: 131
+number of node: 149
+
+number of edge: 395
+number of node: 289
+
+number of edge: 505
+number of node: 375
+
+number of edge: 416
+number of node: 362
+
+number of edge: 521
+number of node: 279
+
+number of edge: 554
+number of node: 273
+
+number of edge: 511
+number of node: 346
+
+number of edge: 462
+number of node: 378
+
+number of edge: 299
+number of node: 288
+
+number of edge: 525
+number of node: 359
+
+number of edge: 382
+number of node: 332
+
+number of edge: 457
+number of node: 388
+
+number of edge: 426
+number of node: 265
+
+number of edge: 396
+number of node: 329
+
+number of edge: 396
+number of node: 330
+
+number of edge: 551
+number of node: 414
+
+number of edge: 409
+number of node: 320
+
+number of edge: 512
+number of node: 381
+
+number of edge: 323
+number of node: 291
+
+number of edge: 521
+number of node: 386
+
+number of edge: 392
+number of node: 324
+
+number of edge: 319
+number of node: 245
+
+number of edge: 235
+number of node: 189
+
+number of edge: 445
+number of node: 386
+
+number of edge: 374
+number of node: 343
+
+number of edge: 398
+number of node: 359
+
+number of edge: 343
+number of node: 294
+
+number of edge: 313
+number of node: 296
+
+number of edge: 353
+number of node: 347
+
+number of edge: 362
+number of node: 315
+
+number of edge: 303
+number of node: 288
+
+number of edge: 372
+number of node: 344
+
+number of edge: 448
+number of node: 377
+
+number of edge: 479
+number of node: 355
+
+number of edge: 458
+number of node: 365
+
+number of edge: 403
+number of node: 312
+
+number of edge: 355
+number of node: 291
+
+number of edge: 322
+number of node: 307
+
+number of edge: 373
+number of node: 319
+
+number of edge: 319
+number of node: 298
+
+number of edge: 275
+number of node: 258
+
+number of edge: 276
+number of node: 242
+
+number of edge: 243
+number of node: 229
+
+number of edge: 273
+number of node: 286
+
+number of edge: 296
+number of node: 288
+
+number of edge: 263
+number of node: 264
+
+number of edge: 293
+number of node: 291
+
+number of edge: 265
+number of node: 262
+
+number of edge: 258
+number of node: 278
+
+number of graph: 2608
+Loaded
+
+[Contact High School]
+Loading graph dataset: contact-high-school
+number of edge: 203
+number of node: 181
+
+number of edge: 207
+number of node: 182
+
+number of edge: 206
+number of node: 183
+
+number of edge: 205
+number of node: 186
+
+number of edge: 207
+number of node: 185
+
+number of edge: 207
+number of node: 196
+
+number of edge: 205
+number of node: 188
+
+number of edge: 209
+number of node: 187
+
+number of edge: 212
+number of node: 199
+
+number of edge: 205
+number of node: 198
+
+number of edge: 212
+number of node: 195
+
+number of edge: 209
+number of node: 204
+
+number of edge: 205
+number of node: 202
+
+number of edge: 214
+number of node: 199
+
+number of edge: 203
+number of node: 194
+
+number of edge: 206
+number of node: 200
+
+number of edge: 215
+number of node: 204
+
+number of edge: 207
+number of node: 194
+
+number of edge: 209
+number of node: 198
+
+number of edge: 212
+number of node: 201
+
+number of edge: 209
+number of node: 193
+
+number of edge: 207
+number of node: 181
+
+number of edge: 206
+number of node: 185
+
+number of edge: 208
+number of node: 174
+
+number of edge: 207
+number of node: 166
+
+number of edge: 208
+number of node: 159
+
+number of edge: 206
+number of node: 160
+
+number of edge: 204
+number of node: 161
+
+number of edge: 205
+number of node: 158
+
+number of edge: 204
+number of node: 158
+
+number of edge: 203
+number of node: 154
+
+number of edge: 204
+number of node: 158
+
+number of edge: 206
+number of node: 160
+
+number of edge: 211
+number of node: 159
+
+number of edge: 210
+number of node: 163
+
+number of edge: 209
+number of node: 167
+
+number of edge: 210
+number of node: 170
+
+number of edge: 209
+number of node: 170
+
+number of edge: 206
+number of node: 176
+
+number of edge: 207
+number of node: 161
+
+number of edge: 213
+number of node: 168
+
+number of edge: 211
+number of node: 162
+
+number of edge: 219
+number of node: 168
+
+number of edge: 208
+number of node: 170
+
+number of edge: 216
+number of node: 163
+
+number of edge: 218
+number of node: 169
+
+number of edge: 203
+number of node: 157
+
+number of edge: 215
+number of node: 164
+
+number of edge: 209
+number of node: 177
+
+number of edge: 211
+number of node: 176
+
+number of edge: 205
+number of node: 182
+
+number of edge: 210
+number of node: 179
+
+number of edge: 212
+number of node: 192
+
+number of edge: 208
+number of node: 182
+
+number of edge: 208
+number of node: 181
+
+number of edge: 204
+number of node: 181
+
+number of edge: 203
+number of node: 181
+
+number of edge: 208
+number of node: 182
+
+number of edge: 210
+number of node: 186
+
+number of edge: 209
+number of node: 185
+
+number of edge: 209
+number of node: 180
+
+number of edge: 207
+number of node: 186
+
+number of edge: 216
+number of node: 182
+
+number of edge: 207
+number of node: 182
+
+number of edge: 210
+number of node: 169
+
+number of edge: 206
+number of node: 164
+
+number of edge: 211
+number of node: 153
+
+number of edge: 206
+number of node: 146
+
+number of edge: 209
+number of node: 146
+
+number of edge: 214
+number of node: 152
+
+number of edge: 206
+number of node: 151
+
+number of edge: 213
+number of node: 150
+
+number of edge: 210
+number of node: 145
+
+number of edge: 201
+number of node: 142
+
+number of edge: 213
+number of node: 147
+
+number of edge: 206
+number of node: 155
+
+number of edge: 209
+number of node: 158
+
+number of edge: 211
+number of node: 161
+
+number of edge: 204
+number of node: 161
+
+number of edge: 206
+number of node: 163
+
+number of edge: 207
+number of node: 163
+
+number of edge: 205
+number of node: 169
+
+number of edge: 207
+number of node: 169
+
+number of edge: 214
+number of node: 177
+
+number of edge: 205
+number of node: 174
+
+number of edge: 205
+number of node: 169
+
+number of edge: 210
+number of node: 163
+
+number of edge: 211
+number of node: 167
+
+number of edge: 213
+number of node: 174
+
+number of edge: 215
+number of node: 170
+
+number of edge: 224
+number of node: 181
+
+number of edge: 233
+number of node: 180
+
+number of edge: 218
+number of node: 178
+
+number of edge: 221
+number of node: 184
+
+number of edge: 216
+number of node: 187
+
+number of edge: 215
+number of node: 188
+
+number of edge: 221
+number of node: 209
+
+number of edge: 215
+number of node: 221
+
+number of edge: 215
+number of node: 220
+
+number of edge: 213
+number of node: 219
+
+number of edge: 207
+number of node: 223
+
+number of edge: 214
+number of node: 219
+
+number of edge: 221
+number of node: 224
+
+number of edge: 220
+number of node: 230
+
+number of edge: 212
+number of node: 228
+
+number of edge: 206
+number of node: 222
+
+number of edge: 208
+number of node: 217
+
+number of edge: 206
+number of node: 211
+
+number of edge: 203
+number of node: 223
+
+number of edge: 211
+number of node: 220
+
+number of edge: 208
+number of node: 218
+
+number of edge: 209
+number of node: 203
+
+number of edge: 207
+number of node: 209
+
+number of edge: 201
+number of node: 199
+
+number of edge: 201
+number of node: 192
+
+number of edge: 202
+number of node: 186
+
+number of edge: 200
+number of node: 176
+
+number of edge: 201
+number of node: 182
+
+number of edge: 201
+number of node: 183
+
+number of edge: 200
+number of node: 178
+
+number of edge: 200
+number of node: 175
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 184
+
+number of edge: 200
+number of node: 183
+
+number of edge: 200
+number of node: 173
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 177
+
+number of edge: 200
+number of node: 174
+
+number of edge: 202
+number of node: 187
+
+number of edge: 200
+number of node: 177
+
+number of edge: 201
+number of node: 184
+
+number of edge: 202
+number of node: 188
+
+number of edge: 202
+number of node: 177
+
+number of edge: 200
+number of node: 184
+
+number of edge: 201
+number of node: 182
+
+number of edge: 202
+number of node: 167
+
+number of edge: 200
+number of node: 170
+
+number of edge: 202
+number of node: 178
+
+number of edge: 203
+number of node: 179
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 186
+
+number of edge: 202
+number of node: 176
+
+number of edge: 200
+number of node: 189
+
+number of edge: 201
+number of node: 186
+
+number of edge: 201
+number of node: 183
+
+number of edge: 201
+number of node: 179
+
+number of edge: 200
+number of node: 189
+
+number of edge: 202
+number of node: 186
+
+number of edge: 202
+number of node: 186
+
+number of edge: 203
+number of node: 176
+
+number of edge: 204
+number of node: 187
+
+number of edge: 208
+number of node: 182
+
+number of edge: 207
+number of node: 187
+
+number of edge: 217
+number of node: 177
+
+number of edge: 214
+number of node: 181
+
+number of edge: 209
+number of node: 189
+
+number of edge: 208
+number of node: 181
+
+number of edge: 205
+number of node: 178
+
+number of edge: 206
+number of node: 190
+
+number of edge: 205
+number of node: 190
+
+number of edge: 207
+number of node: 200
+
+number of edge: 209
+number of node: 203
+
+number of edge: 219
+number of node: 207
+
+number of edge: 209
+number of node: 206
+
+number of edge: 209
+number of node: 198
+
+number of edge: 202
+number of node: 193
+
+number of edge: 200
+number of node: 198
+
+number of edge: 201
+number of node: 195
+
+number of edge: 203
+number of node: 183
+
+number of edge: 202
+number of node: 188
+
+number of edge: 207
+number of node: 178
+
+number of edge: 204
+number of node: 181
+
+number of edge: 206
+number of node: 192
+
+number of edge: 201
+number of node: 184
+
+number of edge: 207
+number of node: 177
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 175
+
+number of edge: 201
+number of node: 172
+
+number of edge: 200
+number of node: 176
+
+number of edge: 203
+number of node: 173
+
+number of edge: 205
+number of node: 175
+
+number of edge: 202
+number of node: 185
+
+number of edge: 200
+number of node: 191
+
+number of edge: 203
+number of node: 181
+
+number of edge: 200
+number of node: 174
+
+number of edge: 208
+number of node: 173
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 172
+
+number of edge: 204
+number of node: 170
+
+number of edge: 202
+number of node: 175
+
+number of edge: 200
+number of node: 165
+
+number of edge: 201
+number of node: 169
+
+number of edge: 201
+number of node: 180
+
+number of edge: 200
+number of node: 171
+
+number of edge: 201
+number of node: 170
+
+number of edge: 203
+number of node: 165
+
+number of edge: 200
+number of node: 173
+
+number of edge: 201
+number of node: 157
+
+number of edge: 201
+number of node: 167
+
+number of edge: 205
+number of node: 168
+
+number of edge: 203
+number of node: 163
+
+number of edge: 201
+number of node: 160
+
+number of edge: 201
+number of node: 177
+
+number of edge: 203
+number of node: 171
+
+number of edge: 205
+number of node: 159
+
+number of edge: 200
+number of node: 164
+
+number of edge: 201
+number of node: 165
+
+number of edge: 202
+number of node: 168
+
+number of edge: 205
+number of node: 192
+
+number of edge: 209
+number of node: 203
+
+number of edge: 212
+number of node: 199
+
+number of edge: 215
+number of node: 210
+
+number of edge: 224
+number of node: 204
+
+number of edge: 219
+number of node: 212
+
+number of edge: 228
+number of node: 214
+
+number of edge: 231
+number of node: 209
+
+number of edge: 228
+number of node: 218
+
+number of edge: 225
+number of node: 209
+
+number of edge: 228
+number of node: 214
+
+number of edge: 224
+number of node: 215
+
+number of edge: 224
+number of node: 214
+
+number of edge: 225
+number of node: 201
+
+number of edge: 218
+number of node: 220
+
+number of edge: 211
+number of node: 210
+
+number of edge: 218
+number of node: 204
+
+number of edge: 213
+number of node: 219
+
+number of edge: 209
+number of node: 211
+
+number of edge: 211
+number of node: 203
+
+number of edge: 210
+number of node: 193
+
+number of edge: 205
+number of node: 191
+
+number of edge: 206
+number of node: 186
+
+number of edge: 203
+number of node: 187
+
+number of edge: 202
+number of node: 178
+
+number of edge: 200
+number of node: 168
+
+number of edge: 202
+number of node: 168
+
+number of edge: 200
+number of node: 179
+
+number of edge: 202
+number of node: 168
+
+number of edge: 201
+number of node: 165
+
+number of edge: 203
+number of node: 172
+
+number of edge: 200
+number of node: 176
+
+number of edge: 201
+number of node: 175
+
+number of edge: 201
+number of node: 181
+
+number of edge: 204
+number of node: 167
+
+number of edge: 203
+number of node: 170
+
+number of edge: 200
+number of node: 163
+
+number of edge: 202
+number of node: 164
+
+number of edge: 203
+number of node: 165
+
+number of edge: 202
+number of node: 173
+
+number of edge: 203
+number of node: 164
+
+number of edge: 206
+number of node: 168
+
+number of edge: 203
+number of node: 173
+
+number of edge: 201
+number of node: 167
+
+number of edge: 200
+number of node: 164
+
+number of edge: 200
+number of node: 205
+
+number of edge: 201
+number of node: 202
+
+number of edge: 203
+number of node: 212
+
+number of edge: 203
+number of node: 212
+
+number of edge: 202
+number of node: 213
+
+number of edge: 200
+number of node: 203
+
+number of edge: 200
+number of node: 190
+
+number of edge: 202
+number of node: 197
+
+number of edge: 204
+number of node: 192
+
+number of edge: 201
+number of node: 192
+
+number of edge: 200
+number of node: 193
+
+number of edge: 202
+number of node: 185
+
+number of edge: 201
+number of node: 183
+
+number of edge: 200
+number of node: 183
+
+number of edge: 200
+number of node: 188
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 197
+
+number of edge: 201
+number of node: 179
+
+number of edge: 201
+number of node: 182
+
+number of edge: 200
+number of node: 177
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 194
+
+number of edge: 201
+number of node: 185
+
+number of edge: 200
+number of node: 184
+
+number of edge: 201
+number of node: 184
+
+number of edge: 201
+number of node: 188
+
+number of edge: 200
+number of node: 181
+
+number of edge: 200
+number of node: 175
+
+number of edge: 200
+number of node: 187
+
+number of edge: 200
+number of node: 179
+
+number of edge: 201
+number of node: 173
+
+number of edge: 201
+number of node: 178
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 181
+
+number of edge: 200
+number of node: 196
+
+number of edge: 200
+number of node: 182
+
+number of edge: 200
+number of node: 177
+
+number of edge: 200
+number of node: 177
+
+number of edge: 201
+number of node: 177
+
+number of edge: 200
+number of node: 186
+
+number of edge: 200
+number of node: 173
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 173
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 186
+
+number of edge: 201
+number of node: 189
+
+number of edge: 200
+number of node: 185
+
+number of edge: 200
+number of node: 187
+
+number of edge: 200
+number of node: 185
+
+number of edge: 200
+number of node: 179
+
+number of edge: 201
+number of node: 181
+
+number of edge: 200
+number of node: 189
+
+number of edge: 200
+number of node: 184
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 178
+
+number of edge: 200
+number of node: 191
+
+number of edge: 200
+number of node: 183
+
+number of edge: 201
+number of node: 185
+
+number of edge: 200
+number of node: 184
+
+number of edge: 200
+number of node: 192
+
+number of edge: 200
+number of node: 189
+
+number of edge: 200
+number of node: 182
+
+number of edge: 200
+number of node: 185
+
+number of edge: 200
+number of node: 187
+
+number of edge: 200
+number of node: 192
+
+number of edge: 200
+number of node: 185
+
+number of edge: 200
+number of node: 186
+
+number of edge: 200
+number of node: 183
+
+number of edge: 200
+number of node: 176
+
+number of edge: 201
+number of node: 175
+
+number of edge: 200
+number of node: 183
+
+number of edge: 200
+number of node: 184
+
+number of edge: 200
+number of node: 181
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 171
+
+number of edge: 200
+number of node: 188
+
+number of edge: 201
+number of node: 179
+
+number of edge: 201
+number of node: 183
+
+number of edge: 200
+number of node: 190
+
+number of edge: 200
+number of node: 184
+
+number of edge: 200
+number of node: 185
+
+number of edge: 200
+number of node: 176
+
+number of edge: 201
+number of node: 171
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 183
+
+number of edge: 200
+number of node: 182
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 186
+
+number of edge: 200
+number of node: 178
+
+number of edge: 200
+number of node: 183
+
+number of edge: 200
+number of node: 182
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 173
+
+number of edge: 200
+number of node: 168
+
+number of edge: 201
+number of node: 172
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 168
+
+number of edge: 201
+number of node: 177
+
+number of edge: 200
+number of node: 187
+
+number of edge: 200
+number of node: 181
+
+number of edge: 200
+number of node: 182
+
+number of edge: 202
+number of node: 177
+
+number of edge: 201
+number of node: 182
+
+number of edge: 200
+number of node: 180
+
+number of edge: 206
+number of node: 207
+
+number of edge: 204
+number of node: 206
+
+number of edge: 205
+number of node: 211
+
+number of edge: 203
+number of node: 206
+
+number of edge: 208
+number of node: 210
+
+number of edge: 207
+number of node: 224
+
+number of edge: 209
+number of node: 227
+
+number of edge: 211
+number of node: 222
+
+number of edge: 213
+number of node: 221
+
+number of edge: 221
+number of node: 230
+
+number of edge: 223
+number of node: 236
+
+number of edge: 224
+number of node: 223
+
+number of edge: 219
+number of node: 220
+
+number of edge: 220
+number of node: 217
+
+number of edge: 220
+number of node: 216
+
+number of edge: 218
+number of node: 213
+
+number of edge: 221
+number of node: 210
+
+number of edge: 213
+number of node: 222
+
+number of edge: 210
+number of node: 211
+
+number of edge: 212
+number of node: 220
+
+number of edge: 215
+number of node: 208
+
+number of edge: 211
+number of node: 214
+
+number of edge: 208
+number of node: 219
+
+number of edge: 214
+number of node: 217
+
+number of edge: 211
+number of node: 221
+
+number of edge: 218
+number of node: 223
+
+number of edge: 211
+number of node: 220
+
+number of edge: 209
+number of node: 214
+
+number of edge: 213
+number of node: 207
+
+number of edge: 211
+number of node: 213
+
+number of edge: 223
+number of node: 200
+
+number of edge: 217
+number of node: 204
+
+number of edge: 214
+number of node: 206
+
+number of edge: 207
+number of node: 191
+
+number of edge: 208
+number of node: 189
+
+number of edge: 207
+number of node: 183
+
+number of edge: 201
+number of node: 186
+
+number of edge: 200
+number of node: 190
+
+number of edge: 200
+number of node: 183
+
+number of edge: 202
+number of node: 182
+
+number of edge: 201
+number of node: 178
+
+number of edge: 200
+number of node: 170
+
+number of edge: 200
+number of node: 182
+
+number of edge: 206
+number of node: 182
+
+number of edge: 203
+number of node: 177
+
+number of edge: 207
+number of node: 184
+
+number of edge: 201
+number of node: 177
+
+number of edge: 205
+number of node: 178
+
+number of edge: 205
+number of node: 181
+
+number of edge: 204
+number of node: 176
+
+number of edge: 202
+number of node: 178
+
+number of edge: 201
+number of node: 189
+
+number of edge: 205
+number of node: 179
+
+number of edge: 205
+number of node: 174
+
+number of edge: 201
+number of node: 175
+
+number of edge: 200
+number of node: 173
+
+number of edge: 204
+number of node: 172
+
+number of edge: 203
+number of node: 175
+
+number of edge: 200
+number of node: 169
+
+number of edge: 201
+number of node: 168
+
+number of edge: 200
+number of node: 161
+
+number of edge: 201
+number of node: 163
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 172
+
+number of edge: 201
+number of node: 168
+
+number of edge: 201
+number of node: 174
+
+number of edge: 204
+number of node: 170
+
+number of edge: 206
+number of node: 184
+
+number of edge: 204
+number of node: 179
+
+number of edge: 201
+number of node: 177
+
+number of edge: 202
+number of node: 178
+
+number of edge: 204
+number of node: 175
+
+number of edge: 202
+number of node: 170
+
+number of edge: 201
+number of node: 177
+
+number of edge: 201
+number of node: 162
+
+number of edge: 201
+number of node: 179
+
+number of edge: 202
+number of node: 183
+
+number of edge: 202
+number of node: 179
+
+number of edge: 201
+number of node: 184
+
+number of edge: 201
+number of node: 176
+
+number of edge: 203
+number of node: 184
+
+number of edge: 200
+number of node: 187
+
+number of edge: 202
+number of node: 187
+
+number of edge: 201
+number of node: 184
+
+number of edge: 202
+number of node: 183
+
+number of edge: 204
+number of node: 175
+
+number of edge: 204
+number of node: 186
+
+number of edge: 201
+number of node: 190
+
+number of edge: 201
+number of node: 185
+
+number of edge: 201
+number of node: 194
+
+number of edge: 200
+number of node: 188
+
+number of edge: 200
+number of node: 188
+
+number of edge: 200
+number of node: 173
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 185
+
+number of edge: 203
+number of node: 173
+
+number of edge: 202
+number of node: 174
+
+number of edge: 202
+number of node: 180
+
+number of edge: 201
+number of node: 169
+
+number of edge: 202
+number of node: 172
+
+number of edge: 201
+number of node: 177
+
+number of edge: 203
+number of node: 179
+
+number of edge: 202
+number of node: 176
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 183
+
+number of edge: 201
+number of node: 184
+
+number of edge: 200
+number of node: 185
+
+number of edge: 200
+number of node: 172
+
+number of edge: 201
+number of node: 183
+
+number of edge: 203
+number of node: 174
+
+number of edge: 201
+number of node: 182
+
+number of edge: 201
+number of node: 184
+
+number of edge: 202
+number of node: 175
+
+number of edge: 201
+number of node: 171
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 183
+
+number of edge: 202
+number of node: 174
+
+number of edge: 200
+number of node: 183
+
+number of edge: 201
+number of node: 183
+
+number of edge: 200
+number of node: 182
+
+number of edge: 200
+number of node: 168
+
+number of edge: 200
+number of node: 178
+
+number of edge: 201
+number of node: 173
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 166
+
+number of edge: 201
+number of node: 186
+
+number of edge: 203
+number of node: 181
+
+number of edge: 205
+number of node: 194
+
+number of edge: 208
+number of node: 192
+
+number of edge: 210
+number of node: 191
+
+number of edge: 206
+number of node: 186
+
+number of edge: 212
+number of node: 182
+
+number of edge: 204
+number of node: 179
+
+number of edge: 204
+number of node: 203
+
+number of edge: 205
+number of node: 207
+
+number of edge: 203
+number of node: 211
+
+number of edge: 204
+number of node: 192
+
+number of edge: 206
+number of node: 201
+
+number of edge: 203
+number of node: 179
+
+number of edge: 215
+number of node: 167
+
+number of edge: 221
+number of node: 158
+
+number of edge: 226
+number of node: 150
+
+number of edge: 218
+number of node: 147
+
+number of edge: 223
+number of node: 142
+
+number of edge: 227
+number of node: 148
+
+number of edge: 234
+number of node: 152
+
+number of edge: 225
+number of node: 150
+
+number of edge: 227
+number of node: 147
+
+number of edge: 225
+number of node: 153
+
+number of edge: 225
+number of node: 157
+
+number of edge: 219
+number of node: 150
+
+number of edge: 212
+number of node: 157
+
+number of edge: 217
+number of node: 159
+
+number of edge: 220
+number of node: 159
+
+number of edge: 216
+number of node: 163
+
+number of edge: 225
+number of node: 163
+
+number of edge: 229
+number of node: 165
+
+number of edge: 227
+number of node: 173
+
+number of edge: 225
+number of node: 170
+
+number of edge: 225
+number of node: 185
+
+number of edge: 213
+number of node: 171
+
+number of edge: 212
+number of node: 180
+
+number of edge: 213
+number of node: 185
+
+number of edge: 218
+number of node: 185
+
+number of edge: 208
+number of node: 176
+
+number of edge: 212
+number of node: 178
+
+number of edge: 219
+number of node: 180
+
+number of edge: 221
+number of node: 185
+
+number of edge: 228
+number of node: 181
+
+number of edge: 203
+number of node: 189
+
+number of edge: 204
+number of node: 194
+
+number of edge: 209
+number of node: 178
+
+number of edge: 210
+number of node: 177
+
+number of edge: 204
+number of node: 179
+
+number of edge: 208
+number of node: 178
+
+number of edge: 208
+number of node: 158
+
+number of edge: 205
+number of node: 150
+
+number of edge: 201
+number of node: 139
+
+number of edge: 223
+number of node: 140
+
+number of edge: 213
+number of node: 150
+
+number of edge: 212
+number of node: 147
+
+number of edge: 212
+number of node: 152
+
+number of edge: 204
+number of node: 163
+
+number of edge: 205
+number of node: 163
+
+number of edge: 205
+number of node: 160
+
+number of edge: 210
+number of node: 164
+
+number of edge: 207
+number of node: 162
+
+number of edge: 208
+number of node: 159
+
+number of edge: 216
+number of node: 161
+
+number of edge: 210
+number of node: 175
+
+number of edge: 212
+number of node: 167
+
+number of edge: 209
+number of node: 166
+
+number of edge: 211
+number of node: 158
+
+number of edge: 210
+number of node: 161
+
+number of edge: 217
+number of node: 163
+
+number of edge: 218
+number of node: 165
+
+number of edge: 216
+number of node: 159
+
+number of edge: 219
+number of node: 168
+
+number of edge: 224
+number of node: 168
+
+number of edge: 226
+number of node: 178
+
+number of edge: 223
+number of node: 169
+
+number of edge: 229
+number of node: 183
+
+number of edge: 212
+number of node: 189
+
+number of edge: 215
+number of node: 193
+
+number of edge: 208
+number of node: 204
+
+number of edge: 211
+number of node: 204
+
+number of edge: 208
+number of node: 202
+
+number of edge: 217
+number of node: 196
+
+number of edge: 219
+number of node: 209
+
+number of edge: 210
+number of node: 201
+
+number of edge: 208
+number of node: 209
+
+number of edge: 206
+number of node: 208
+
+number of edge: 206
+number of node: 204
+
+number of edge: 200
+number of node: 178
+
+number of edge: 205
+number of node: 182
+
+number of edge: 203
+number of node: 183
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 183
+
+number of edge: 201
+number of node: 182
+
+number of edge: 201
+number of node: 174
+
+number of edge: 201
+number of node: 176
+
+number of edge: 201
+number of node: 175
+
+number of edge: 200
+number of node: 180
+
+number of edge: 204
+number of node: 166
+
+number of edge: 203
+number of node: 165
+
+number of edge: 200
+number of node: 177
+
+number of edge: 201
+number of node: 175
+
+number of edge: 204
+number of node: 174
+
+number of edge: 200
+number of node: 168
+
+number of edge: 200
+number of node: 161
+
+number of edge: 200
+number of node: 158
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 174
+
+number of edge: 201
+number of node: 173
+
+number of edge: 200
+number of node: 173
+
+number of edge: 200
+number of node: 169
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 174
+
+number of edge: 201
+number of node: 183
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 178
+
+number of edge: 201
+number of node: 170
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 174
+
+number of edge: 202
+number of node: 184
+
+number of edge: 202
+number of node: 171
+
+number of edge: 203
+number of node: 164
+
+number of edge: 201
+number of node: 177
+
+number of edge: 200
+number of node: 172
+
+number of edge: 202
+number of node: 175
+
+number of edge: 201
+number of node: 172
+
+number of edge: 204
+number of node: 178
+
+number of edge: 203
+number of node: 177
+
+number of edge: 200
+number of node: 173
+
+number of edge: 201
+number of node: 170
+
+number of edge: 201
+number of node: 177
+
+number of edge: 201
+number of node: 170
+
+number of edge: 200
+number of node: 172
+
+number of edge: 202
+number of node: 169
+
+number of edge: 202
+number of node: 174
+
+number of edge: 201
+number of node: 174
+
+number of edge: 202
+number of node: 171
+
+number of edge: 202
+number of node: 171
+
+number of edge: 203
+number of node: 174
+
+number of edge: 200
+number of node: 176
+
+number of edge: 201
+number of node: 169
+
+number of edge: 201
+number of node: 176
+
+number of edge: 203
+number of node: 181
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 181
+
+number of edge: 206
+number of node: 184
+
+number of edge: 209
+number of node: 183
+
+number of edge: 202
+number of node: 183
+
+number of edge: 201
+number of node: 178
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 173
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 170
+
+number of edge: 200
+number of node: 172
+
+number of edge: 201
+number of node: 177
+
+number of edge: 200
+number of node: 180
+
+number of edge: 202
+number of node: 177
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 175
+
+number of edge: 200
+number of node: 169
+
+number of edge: 200
+number of node: 173
+
+number of edge: 200
+number of node: 177
+
+number of edge: 203
+number of node: 184
+
+number of edge: 203
+number of node: 183
+
+number of edge: 206
+number of node: 208
+
+number of edge: 204
+number of node: 211
+
+number of edge: 208
+number of node: 206
+
+number of edge: 212
+number of node: 219
+
+number of edge: 207
+number of node: 213
+
+number of edge: 210
+number of node: 217
+
+number of edge: 217
+number of node: 214
+
+number of edge: 209
+number of node: 213
+
+number of edge: 211
+number of node: 199
+
+number of edge: 204
+number of node: 188
+
+number of edge: 211
+number of node: 199
+
+number of edge: 207
+number of node: 191
+
+number of edge: 210
+number of node: 201
+
+number of edge: 210
+number of node: 194
+
+number of edge: 202
+number of node: 188
+
+number of edge: 204
+number of node: 167
+
+number of edge: 202
+number of node: 174
+
+number of edge: 202
+number of node: 166
+
+number of edge: 200
+number of node: 165
+
+number of edge: 201
+number of node: 167
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 175
+
+number of edge: 200
+number of node: 160
+
+number of edge: 200
+number of node: 161
+
+number of edge: 200
+number of node: 161
+
+number of edge: 200
+number of node: 167
+
+number of edge: 200
+number of node: 166
+
+number of edge: 200
+number of node: 162
+
+number of edge: 200
+number of node: 164
+
+number of edge: 200
+number of node: 170
+
+number of edge: 200
+number of node: 159
+
+number of edge: 200
+number of node: 163
+
+number of edge: 205
+number of node: 214
+
+number of edge: 209
+number of node: 189
+
+number of edge: 203
+number of node: 189
+
+number of edge: 205
+number of node: 198
+
+number of edge: 204
+number of node: 190
+
+number of edge: 202
+number of node: 187
+
+number of edge: 207
+number of node: 182
+
+number of edge: 203
+number of node: 183
+
+number of edge: 200
+number of node: 169
+
+number of edge: 202
+number of node: 178
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 171
+
+number of edge: 200
+number of node: 177
+
+number of edge: 200
+number of node: 170
+
+number of edge: 200
+number of node: 166
+
+number of edge: 202
+number of node: 174
+
+number of edge: 201
+number of node: 180
+
+number of edge: 202
+number of node: 177
+
+number of edge: 205
+number of node: 171
+
+number of edge: 201
+number of node: 178
+
+number of edge: 204
+number of node: 178
+
+number of edge: 201
+number of node: 180
+
+number of edge: 204
+number of node: 174
+
+number of edge: 201
+number of node: 179
+
+number of edge: 200
+number of node: 178
+
+number of edge: 201
+number of node: 181
+
+number of edge: 202
+number of node: 182
+
+number of edge: 200
+number of node: 182
+
+number of edge: 204
+number of node: 172
+
+number of edge: 205
+number of node: 176
+
+number of edge: 203
+number of node: 180
+
+number of edge: 201
+number of node: 182
+
+number of edge: 200
+number of node: 177
+
+number of edge: 200
+number of node: 168
+
+number of edge: 200
+number of node: 175
+
+number of edge: 205
+number of node: 176
+
+number of edge: 205
+number of node: 183
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 183
+
+number of edge: 203
+number of node: 180
+
+number of edge: 204
+number of node: 176
+
+number of edge: 204
+number of node: 181
+
+number of edge: 200
+number of node: 177
+
+number of edge: 200
+number of node: 187
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 180
+
+number of edge: 201
+number of node: 181
+
+number of edge: 200
+number of node: 182
+
+number of edge: 201
+number of node: 174
+
+number of edge: 201
+number of node: 176
+
+number of edge: 201
+number of node: 184
+
+number of edge: 200
+number of node: 189
+
+number of edge: 202
+number of node: 183
+
+number of edge: 206
+number of node: 195
+
+number of edge: 215
+number of node: 190
+
+number of edge: 212
+number of node: 192
+
+number of edge: 204
+number of node: 200
+
+number of edge: 212
+number of node: 188
+
+number of edge: 210
+number of node: 186
+
+number of edge: 203
+number of node: 184
+
+number of edge: 206
+number of node: 191
+
+number of edge: 201
+number of node: 188
+
+number of edge: 201
+number of node: 183
+
+number of edge: 201
+number of node: 185
+
+number of edge: 200
+number of node: 189
+
+number of edge: 202
+number of node: 184
+
+number of edge: 201
+number of node: 182
+
+number of edge: 202
+number of node: 184
+
+number of edge: 200
+number of node: 183
+
+number of edge: 200
+number of node: 184
+
+number of edge: 200
+number of node: 189
+
+number of edge: 201
+number of node: 185
+
+number of edge: 200
+number of node: 180
+
+number of edge: 201
+number of node: 182
+
+number of edge: 200
+number of node: 191
+
+number of edge: 200
+number of node: 183
+
+number of edge: 202
+number of node: 187
+
+number of edge: 201
+number of node: 176
+
+number of edge: 200
+number of node: 185
+
+number of edge: 201
+number of node: 186
+
+number of edge: 200
+number of node: 184
+
+number of edge: 201
+number of node: 183
+
+number of edge: 200
+number of node: 191
+
+number of edge: 200
+number of node: 190
+
+number of edge: 204
+number of node: 177
+
+number of edge: 201
+number of node: 184
+
+number of edge: 200
+number of node: 188
+
+number of edge: 200
+number of node: 189
+
+number of edge: 201
+number of node: 183
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 182
+
+number of edge: 200
+number of node: 188
+
+number of edge: 201
+number of node: 183
+
+number of edge: 200
+number of node: 189
+
+number of edge: 200
+number of node: 186
+
+number of edge: 204
+number of node: 178
+
+number of edge: 203
+number of node: 185
+
+number of edge: 200
+number of node: 185
+
+number of edge: 201
+number of node: 183
+
+number of edge: 201
+number of node: 184
+
+number of edge: 200
+number of node: 188
+
+number of edge: 201
+number of node: 180
+
+number of edge: 203
+number of node: 181
+
+number of edge: 204
+number of node: 202
+
+number of edge: 201
+number of node: 201
+
+number of edge: 203
+number of node: 220
+
+number of edge: 204
+number of node: 213
+
+number of edge: 203
+number of node: 216
+
+number of edge: 209
+number of node: 210
+
+number of edge: 208
+number of node: 211
+
+number of edge: 209
+number of node: 218
+
+number of edge: 211
+number of node: 210
+
+number of edge: 218
+number of node: 206
+
+number of edge: 220
+number of node: 211
+
+number of edge: 219
+number of node: 216
+
+number of edge: 218
+number of node: 225
+
+number of edge: 218
+number of node: 216
+
+number of edge: 219
+number of node: 218
+
+number of edge: 220
+number of node: 220
+
+number of edge: 223
+number of node: 218
+
+number of edge: 232
+number of node: 226
+
+number of edge: 225
+number of node: 215
+
+number of edge: 223
+number of node: 215
+
+number of edge: 218
+number of node: 218
+
+number of edge: 221
+number of node: 223
+
+number of edge: 219
+number of node: 219
+
+number of edge: 220
+number of node: 221
+
+number of edge: 218
+number of node: 223
+
+number of edge: 214
+number of node: 220
+
+number of edge: 212
+number of node: 234
+
+number of edge: 223
+number of node: 231
+
+number of edge: 219
+number of node: 229
+
+number of edge: 216
+number of node: 224
+
+number of edge: 210
+number of node: 218
+
+number of edge: 208
+number of node: 227
+
+number of edge: 213
+number of node: 223
+
+number of edge: 214
+number of node: 221
+
+number of edge: 213
+number of node: 223
+
+number of edge: 204
+number of node: 219
+
+number of edge: 209
+number of node: 206
+
+number of edge: 205
+number of node: 199
+
+number of edge: 201
+number of node: 192
+
+number of edge: 202
+number of node: 189
+
+number of edge: 200
+number of node: 185
+
+number of edge: 204
+number of node: 181
+
+number of edge: 200
+number of node: 179
+
+number of edge: 202
+number of node: 180
+
+number of edge: 208
+number of node: 172
+
+number of edge: 202
+number of node: 172
+
+number of edge: 201
+number of node: 184
+
+number of edge: 200
+number of node: 178
+
+number of edge: 204
+number of node: 175
+
+number of edge: 202
+number of node: 167
+
+number of edge: 202
+number of node: 180
+
+number of edge: 209
+number of node: 175
+
+number of edge: 204
+number of node: 170
+
+number of edge: 203
+number of node: 180
+
+number of edge: 203
+number of node: 182
+
+number of edge: 206
+number of node: 184
+
+number of edge: 212
+number of node: 174
+
+number of edge: 210
+number of node: 167
+
+number of edge: 211
+number of node: 174
+
+number of edge: 215
+number of node: 179
+
+number of edge: 210
+number of node: 173
+
+number of edge: 215
+number of node: 171
+
+number of edge: 203
+number of node: 172
+
+number of edge: 201
+number of node: 178
+
+number of edge: 200
+number of node: 184
+
+number of edge: 201
+number of node: 175
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 173
+
+number of edge: 202
+number of node: 180
+
+number of edge: 202
+number of node: 162
+
+number of edge: 200
+number of node: 151
+
+number of edge: 200
+number of node: 176
+
+number of edge: 201
+number of node: 169
+
+number of edge: 200
+number of node: 158
+
+number of edge: 201
+number of node: 170
+
+number of edge: 200
+number of node: 171
+
+number of edge: 200
+number of node: 177
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 177
+
+number of edge: 200
+number of node: 164
+
+number of edge: 200
+number of node: 172
+
+number of edge: 201
+number of node: 181
+
+number of edge: 200
+number of node: 175
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 170
+
+number of edge: 200
+number of node: 173
+
+number of edge: 201
+number of node: 179
+
+number of edge: 203
+number of node: 169
+
+number of edge: 201
+number of node: 168
+
+number of edge: 200
+number of node: 177
+
+number of edge: 201
+number of node: 164
+
+number of edge: 200
+number of node: 165
+
+number of edge: 200
+number of node: 178
+
+number of edge: 200
+number of node: 170
+
+number of edge: 200
+number of node: 170
+
+number of edge: 200
+number of node: 185
+
+number of edge: 200
+number of node: 175
+
+number of edge: 200
+number of node: 167
+
+number of edge: 201
+number of node: 188
+
+number of edge: 202
+number of node: 175
+
+number of edge: 203
+number of node: 173
+
+number of edge: 201
+number of node: 170
+
+number of edge: 200
+number of node: 168
+
+number of edge: 200
+number of node: 171
+
+number of edge: 200
+number of node: 169
+
+number of edge: 200
+number of node: 171
+
+number of edge: 201
+number of node: 176
+
+number of edge: 201
+number of node: 180
+
+number of edge: 202
+number of node: 172
+
+number of edge: 201
+number of node: 185
+
+number of edge: 201
+number of node: 175
+
+number of edge: 200
+number of node: 181
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 178
+
+number of edge: 201
+number of node: 172
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 185
+
+number of edge: 200
+number of node: 180
+
+number of edge: 202
+number of node: 199
+
+number of edge: 202
+number of node: 210
+
+number of edge: 204
+number of node: 206
+
+number of edge: 209
+number of node: 203
+
+number of edge: 203
+number of node: 191
+
+number of edge: 202
+number of node: 171
+
+number of edge: 203
+number of node: 162
+
+number of edge: 201
+number of node: 161
+
+number of edge: 200
+number of node: 158
+
+number of edge: 200
+number of node: 144
+
+number of edge: 200
+number of node: 154
+
+number of edge: 200
+number of node: 145
+
+number of edge: 200
+number of node: 146
+
+number of edge: 202
+number of node: 156
+
+number of edge: 206
+number of node: 162
+
+number of edge: 211
+number of node: 154
+
+number of edge: 205
+number of node: 154
+
+number of edge: 209
+number of node: 154
+
+number of edge: 204
+number of node: 162
+
+number of edge: 203
+number of node: 155
+
+number of edge: 209
+number of node: 157
+
+number of edge: 201
+number of node: 164
+
+number of edge: 206
+number of node: 173
+
+number of edge: 202
+number of node: 173
+
+number of edge: 206
+number of node: 176
+
+number of edge: 206
+number of node: 168
+
+number of edge: 209
+number of node: 161
+
+number of edge: 214
+number of node: 174
+
+number of edge: 212
+number of node: 168
+
+number of edge: 213
+number of node: 168
+
+number of edge: 215
+number of node: 166
+
+number of edge: 210
+number of node: 173
+
+number of edge: 222
+number of node: 168
+
+number of edge: 211
+number of node: 175
+
+number of edge: 214
+number of node: 173
+
+number of edge: 207
+number of node: 166
+
+number of edge: 212
+number of node: 174
+
+number of edge: 212
+number of node: 171
+
+number of edge: 204
+number of node: 180
+
+number of edge: 216
+number of node: 181
+
+number of edge: 204
+number of node: 184
+
+number of edge: 206
+number of node: 182
+
+number of edge: 214
+number of node: 173
+
+number of edge: 217
+number of node: 168
+
+number of edge: 216
+number of node: 170
+
+number of edge: 210
+number of node: 158
+
+number of edge: 217
+number of node: 171
+
+number of edge: 222
+number of node: 163
+
+number of edge: 236
+number of node: 151
+
+number of edge: 220
+number of node: 157
+
+number of edge: 219
+number of node: 160
+
+number of edge: 213
+number of node: 163
+
+number of edge: 216
+number of node: 159
+
+number of edge: 226
+number of node: 150
+
+number of edge: 219
+number of node: 148
+
+number of edge: 217
+number of node: 151
+
+number of edge: 216
+number of node: 152
+
+number of edge: 215
+number of node: 147
+
+number of edge: 205
+number of node: 147
+
+number of edge: 202
+number of node: 155
+
+number of edge: 210
+number of node: 143
+
+number of edge: 210
+number of node: 155
+
+number of edge: 213
+number of node: 159
+
+number of edge: 213
+number of node: 169
+
+number of edge: 206
+number of node: 167
+
+number of edge: 207
+number of node: 165
+
+number of edge: 209
+number of node: 172
+
+number of edge: 211
+number of node: 172
+
+number of edge: 210
+number of node: 175
+
+number of edge: 212
+number of node: 165
+
+number of edge: 205
+number of node: 171
+
+number of edge: 203
+number of node: 166
+
+number of edge: 206
+number of node: 163
+
+number of edge: 211
+number of node: 173
+
+number of edge: 207
+number of node: 173
+
+number of edge: 206
+number of node: 182
+
+number of edge: 203
+number of node: 187
+
+number of edge: 209
+number of node: 191
+
+number of edge: 212
+number of node: 186
+
+number of edge: 201
+number of node: 191
+
+number of edge: 208
+number of node: 178
+
+number of edge: 201
+number of node: 181
+
+number of edge: 201
+number of node: 172
+
+number of edge: 207
+number of node: 158
+
+number of edge: 205
+number of node: 156
+
+number of edge: 200
+number of node: 159
+
+number of edge: 201
+number of node: 149
+
+number of edge: 200
+number of node: 143
+
+number of edge: 200
+number of node: 149
+
+number of edge: 202
+number of node: 146
+
+number of edge: 203
+number of node: 151
+
+number of edge: 201
+number of node: 148
+
+number of edge: 200
+number of node: 150
+
+number of edge: 200
+number of node: 149
+
+number of edge: 202
+number of node: 153
+
+number of edge: 203
+number of node: 157
+
+number of edge: 204
+number of node: 151
+
+number of edge: 204
+number of node: 157
+
+number of edge: 203
+number of node: 151
+
+number of edge: 203
+number of node: 160
+
+number of edge: 200
+number of node: 156
+
+number of edge: 200
+number of node: 154
+
+number of edge: 201
+number of node: 161
+
+number of edge: 204
+number of node: 170
+
+number of edge: 200
+number of node: 159
+
+number of edge: 200
+number of node: 164
+
+number of edge: 205
+number of node: 165
+
+number of edge: 206
+number of node: 162
+
+number of edge: 205
+number of node: 162
+
+number of edge: 204
+number of node: 160
+
+number of edge: 201
+number of node: 152
+
+number of edge: 202
+number of node: 158
+
+number of edge: 207
+number of node: 146
+
+number of edge: 206
+number of node: 154
+
+number of edge: 204
+number of node: 158
+
+number of edge: 205
+number of node: 154
+
+number of edge: 203
+number of node: 153
+
+number of edge: 201
+number of node: 148
+
+number of edge: 202
+number of node: 157
+
+number of edge: 202
+number of node: 155
+
+number of edge: 203
+number of node: 147
+
+number of edge: 203
+number of node: 159
+
+number of edge: 200
+number of node: 149
+
+number of edge: 201
+number of node: 148
+
+number of edge: 200
+number of node: 157
+
+number of edge: 200
+number of node: 149
+
+number of edge: 200
+number of node: 152
+
+number of edge: 201
+number of node: 155
+
+number of edge: 202
+number of node: 167
+
+number of edge: 207
+number of node: 171
+
+number of edge: 209
+number of node: 184
+
+number of edge: 211
+number of node: 191
+
+number of edge: 213
+number of node: 188
+
+number of edge: 213
+number of node: 179
+
+number of edge: 218
+number of node: 169
+
+number of edge: 216
+number of node: 166
+
+number of edge: 214
+number of node: 169
+
+number of edge: 218
+number of node: 154
+
+number of edge: 218
+number of node: 149
+
+number of edge: 213
+number of node: 143
+
+number of edge: 205
+number of node: 132
+
+number of edge: 200
+number of node: 139
+
+number of edge: 200
+number of node: 136
+
+number of edge: 200
+number of node: 174
+
+number of edge: 201
+number of node: 165
+
+number of edge: 204
+number of node: 179
+
+number of edge: 212
+number of node: 173
+
+number of edge: 211
+number of node: 170
+
+number of edge: 202
+number of node: 177
+
+number of edge: 202
+number of node: 159
+
+number of edge: 200
+number of node: 158
+
+number of edge: 200
+number of node: 160
+
+number of edge: 200
+number of node: 161
+
+number of edge: 200
+number of node: 175
+
+number of edge: 200
+number of node: 163
+
+number of edge: 201
+number of node: 153
+
+number of edge: 202
+number of node: 163
+
+number of edge: 200
+number of node: 161
+
+number of edge: 200
+number of node: 162
+
+number of edge: 200
+number of node: 168
+
+number of edge: 201
+number of node: 156
+
+number of edge: 201
+number of node: 170
+
+number of edge: 203
+number of node: 161
+
+number of edge: 200
+number of node: 168
+
+number of edge: 203
+number of node: 170
+
+number of edge: 201
+number of node: 169
+
+number of edge: 201
+number of node: 170
+
+number of edge: 201
+number of node: 170
+
+number of edge: 200
+number of node: 170
+
+number of edge: 200
+number of node: 165
+
+number of edge: 200
+number of node: 160
+
+number of edge: 200
+number of node: 161
+
+number of edge: 204
+number of node: 167
+
+number of edge: 204
+number of node: 174
+
+number of edge: 200
+number of node: 162
+
+number of edge: 200
+number of node: 167
+
+number of edge: 204
+number of node: 172
+
+number of edge: 206
+number of node: 169
+
+number of edge: 202
+number of node: 167
+
+number of edge: 201
+number of node: 171
+
+number of edge: 202
+number of node: 165
+
+number of edge: 203
+number of node: 164
+
+number of edge: 204
+number of node: 167
+
+number of edge: 200
+number of node: 151
+
+number of edge: 200
+number of node: 168
+
+number of edge: 201
+number of node: 165
+
+number of edge: 201
+number of node: 166
+
+number of edge: 201
+number of node: 176
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 172
+
+number of edge: 202
+number of node: 173
+
+number of edge: 203
+number of node: 161
+
+number of edge: 203
+number of node: 174
+
+number of edge: 202
+number of node: 168
+
+number of edge: 202
+number of node: 168
+
+number of edge: 200
+number of node: 169
+
+number of edge: 200
+number of node: 177
+
+number of edge: 200
+number of node: 176
+
+number of edge: 201
+number of node: 173
+
+number of edge: 202
+number of node: 183
+
+number of edge: 201
+number of node: 178
+
+number of edge: 201
+number of node: 179
+
+number of edge: 200
+number of node: 162
+
+number of edge: 201
+number of node: 172
+
+number of edge: 201
+number of node: 167
+
+number of edge: 200
+number of node: 170
+
+number of edge: 201
+number of node: 161
+
+number of edge: 200
+number of node: 169
+
+number of edge: 200
+number of node: 171
+
+number of edge: 204
+number of node: 174
+
+number of edge: 203
+number of node: 172
+
+number of edge: 203
+number of node: 167
+
+number of edge: 200
+number of node: 173
+
+number of edge: 200
+number of node: 177
+
+number of edge: 201
+number of node: 172
+
+number of edge: 200
+number of node: 162
+
+number of edge: 200
+number of node: 181
+
+number of edge: 201
+number of node: 171
+
+number of edge: 200
+number of node: 171
+
+number of edge: 201
+number of node: 165
+
+number of edge: 202
+number of node: 167
+
+number of edge: 200
+number of node: 165
+
+number of edge: 203
+number of node: 164
+
+number of edge: 200
+number of node: 167
+
+number of edge: 202
+number of node: 170
+
+number of edge: 201
+number of node: 163
+
+number of edge: 200
+number of node: 164
+
+number of edge: 201
+number of node: 173
+
+number of edge: 200
+number of node: 158
+
+number of edge: 200
+number of node: 168
+
+number of edge: 200
+number of node: 179
+
+number of edge: 201
+number of node: 185
+
+number of edge: 202
+number of node: 191
+
+number of edge: 203
+number of node: 204
+
+number of edge: 204
+number of node: 202
+
+number of edge: 203
+number of node: 221
+
+number of edge: 204
+number of node: 221
+
+number of edge: 205
+number of node: 211
+
+number of edge: 208
+number of node: 202
+
+number of edge: 215
+number of node: 204
+
+number of edge: 211
+number of node: 207
+
+number of edge: 214
+number of node: 218
+
+number of edge: 210
+number of node: 218
+
+number of edge: 211
+number of node: 213
+
+number of edge: 208
+number of node: 212
+
+number of edge: 219
+number of node: 208
+
+number of edge: 217
+number of node: 198
+
+number of edge: 215
+number of node: 206
+
+number of edge: 215
+number of node: 204
+
+number of edge: 212
+number of node: 196
+
+number of edge: 211
+number of node: 208
+
+number of edge: 213
+number of node: 203
+
+number of edge: 221
+number of node: 197
+
+number of edge: 212
+number of node: 209
+
+number of edge: 219
+number of node: 214
+
+number of edge: 217
+number of node: 211
+
+number of edge: 218
+number of node: 215
+
+number of edge: 222
+number of node: 209
+
+number of edge: 216
+number of node: 212
+
+number of edge: 213
+number of node: 208
+
+number of edge: 210
+number of node: 210
+
+number of edge: 207
+number of node: 201
+
+number of edge: 211
+number of node: 205
+
+number of edge: 208
+number of node: 201
+
+number of edge: 205
+number of node: 198
+
+number of edge: 208
+number of node: 205
+
+number of edge: 207
+number of node: 191
+
+number of edge: 201
+number of node: 180
+
+number of edge: 201
+number of node: 187
+
+number of edge: 205
+number of node: 174
+
+number of edge: 202
+number of node: 178
+
+number of edge: 203
+number of node: 178
+
+number of edge: 203
+number of node: 163
+
+number of edge: 203
+number of node: 161
+
+number of edge: 201
+number of node: 161
+
+number of edge: 200
+number of node: 169
+
+number of edge: 200
+number of node: 171
+
+number of edge: 200
+number of node: 161
+
+number of edge: 203
+number of node: 173
+
+number of edge: 202
+number of node: 171
+
+number of edge: 201
+number of node: 171
+
+number of edge: 200
+number of node: 177
+
+number of edge: 202
+number of node: 167
+
+number of edge: 202
+number of node: 166
+
+number of edge: 204
+number of node: 161
+
+number of edge: 202
+number of node: 162
+
+number of edge: 200
+number of node: 163
+
+number of edge: 200
+number of node: 165
+
+number of edge: 200
+number of node: 161
+
+number of edge: 200
+number of node: 166
+
+number of edge: 200
+number of node: 169
+
+number of edge: 202
+number of node: 168
+
+number of edge: 200
+number of node: 171
+
+number of edge: 204
+number of node: 162
+
+number of edge: 203
+number of node: 160
+
+number of edge: 202
+number of node: 161
+
+number of edge: 202
+number of node: 166
+
+number of edge: 200
+number of node: 166
+
+number of edge: 200
+number of node: 168
+
+number of edge: 200
+number of node: 162
+
+number of edge: 200
+number of node: 162
+
+number of edge: 200
+number of node: 168
+
+number of edge: 202
+number of node: 175
+
+number of edge: 200
+number of node: 176
+
+number of edge: 208
+number of node: 178
+
+number of edge: 204
+number of node: 177
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 180
+
+number of edge: 201
+number of node: 170
+
+number of edge: 200
+number of node: 171
+
+number of edge: 200
+number of node: 173
+
+number of edge: 201
+number of node: 163
+
+number of edge: 200
+number of node: 163
+
+number of edge: 200
+number of node: 165
+
+number of edge: 201
+number of node: 162
+
+number of edge: 200
+number of node: 160
+
+number of edge: 201
+number of node: 170
+
+number of edge: 201
+number of node: 163
+
+number of edge: 200
+number of node: 169
+
+number of edge: 204
+number of node: 167
+
+number of edge: 202
+number of node: 175
+
+number of edge: 202
+number of node: 166
+
+number of edge: 200
+number of node: 167
+
+number of edge: 200
+number of node: 171
+
+number of edge: 204
+number of node: 180
+
+number of edge: 204
+number of node: 180
+
+number of edge: 203
+number of node: 185
+
+number of edge: 202
+number of node: 179
+
+number of edge: 204
+number of node: 179
+
+number of edge: 201
+number of node: 179
+
+number of edge: 201
+number of node: 177
+
+number of edge: 204
+number of node: 176
+
+number of edge: 205
+number of node: 176
+
+number of edge: 207
+number of node: 165
+
+number of edge: 202
+number of node: 165
+
+number of edge: 202
+number of node: 164
+
+number of edge: 200
+number of node: 172
+
+number of edge: 201
+number of node: 166
+
+number of edge: 203
+number of node: 172
+
+number of edge: 201
+number of node: 169
+
+number of edge: 201
+number of node: 171
+
+number of edge: 201
+number of node: 167
+
+number of edge: 201
+number of node: 177
+
+number of edge: 202
+number of node: 177
+
+number of edge: 202
+number of node: 179
+
+number of edge: 206
+number of node: 187
+
+number of edge: 212
+number of node: 186
+
+number of edge: 208
+number of node: 191
+
+number of edge: 206
+number of node: 209
+
+number of edge: 203
+number of node: 215
+
+number of edge: 211
+number of node: 218
+
+number of edge: 212
+number of node: 220
+
+number of edge: 209
+number of node: 190
+
+number of edge: 205
+number of node: 184
+
+number of edge: 204
+number of node: 170
+
+number of edge: 208
+number of node: 153
+
+number of edge: 208
+number of node: 147
+
+number of edge: 205
+number of node: 140
+
+number of edge: 204
+number of node: 150
+
+number of edge: 204
+number of node: 138
+
+number of edge: 201
+number of node: 136
+
+number of edge: 204
+number of node: 144
+
+number of edge: 202
+number of node: 147
+
+number of edge: 206
+number of node: 140
+
+number of edge: 200
+number of node: 153
+
+number of edge: 204
+number of node: 162
+
+number of edge: 205
+number of node: 161
+
+number of edge: 208
+number of node: 152
+
+number of edge: 213
+number of node: 157
+
+number of edge: 221
+number of node: 158
+
+number of edge: 221
+number of node: 157
+
+number of edge: 211
+number of node: 165
+
+number of edge: 214
+number of node: 175
+
+number of edge: 212
+number of node: 168
+
+number of edge: 219
+number of node: 180
+
+number of edge: 207
+number of node: 188
+
+number of edge: 206
+number of node: 186
+
+number of edge: 204
+number of node: 187
+
+number of edge: 208
+number of node: 181
+
+number of edge: 209
+number of node: 169
+
+number of edge: 208
+number of node: 167
+
+number of edge: 205
+number of node: 160
+
+number of edge: 205
+number of node: 154
+
+number of edge: 201
+number of node: 154
+
+number of edge: 202
+number of node: 154
+
+number of edge: 213
+number of node: 151
+
+number of edge: 207
+number of node: 151
+
+number of edge: 214
+number of node: 148
+
+number of edge: 217
+number of node: 143
+
+number of edge: 216
+number of node: 149
+
+number of edge: 214
+number of node: 152
+
+number of edge: 209
+number of node: 151
+
+number of edge: 202
+number of node: 150
+
+number of edge: 204
+number of node: 156
+
+number of edge: 216
+number of node: 154
+
+number of edge: 205
+number of node: 152
+
+number of edge: 214
+number of node: 156
+
+number of edge: 221
+number of node: 156
+
+number of edge: 215
+number of node: 163
+
+number of edge: 214
+number of node: 158
+
+number of edge: 216
+number of node: 161
+
+number of edge: 208
+number of node: 179
+
+number of edge: 205
+number of node: 171
+
+number of edge: 205
+number of node: 178
+
+number of edge: 205
+number of node: 185
+
+number of edge: 207
+number of node: 186
+
+number of edge: 210
+number of node: 193
+
+number of edge: 204
+number of node: 188
+
+number of edge: 209
+number of node: 184
+
+number of edge: 211
+number of node: 174
+
+number of edge: 207
+number of node: 175
+
+number of edge: 202
+number of node: 171
+
+number of edge: 209
+number of node: 178
+
+number of edge: 203
+number of node: 176
+
+number of edge: 201
+number of node: 175
+
+number of edge: 203
+number of node: 172
+
+number of edge: 204
+number of node: 170
+
+number of edge: 203
+number of node: 162
+
+number of edge: 204
+number of node: 162
+
+number of edge: 202
+number of node: 158
+
+number of edge: 204
+number of node: 167
+
+number of edge: 200
+number of node: 158
+
+number of edge: 200
+number of node: 155
+
+number of edge: 200
+number of node: 160
+
+number of edge: 201
+number of node: 153
+
+number of edge: 200
+number of node: 151
+
+number of edge: 200
+number of node: 155
+
+number of edge: 200
+number of node: 155
+
+number of edge: 200
+number of node: 155
+
+number of edge: 200
+number of node: 158
+
+number of edge: 200
+number of node: 171
+
+number of edge: 202
+number of node: 164
+
+number of edge: 206
+number of node: 152
+
+number of edge: 203
+number of node: 149
+
+number of edge: 200
+number of node: 168
+
+number of edge: 202
+number of node: 182
+
+number of edge: 204
+number of node: 181
+
+number of edge: 208
+number of node: 182
+
+number of edge: 204
+number of node: 183
+
+number of edge: 209
+number of node: 173
+
+number of edge: 206
+number of node: 163
+
+number of edge: 207
+number of node: 170
+
+number of edge: 206
+number of node: 170
+
+number of edge: 202
+number of node: 159
+
+number of edge: 207
+number of node: 166
+
+number of edge: 208
+number of node: 164
+
+number of edge: 210
+number of node: 168
+
+number of edge: 208
+number of node: 152
+
+number of edge: 203
+number of node: 155
+
+number of edge: 204
+number of node: 155
+
+number of edge: 205
+number of node: 158
+
+number of edge: 206
+number of node: 150
+
+number of edge: 209
+number of node: 162
+
+number of edge: 201
+number of node: 160
+
+number of edge: 205
+number of node: 154
+
+number of edge: 201
+number of node: 168
+
+number of edge: 201
+number of node: 160
+
+number of edge: 202
+number of node: 162
+
+number of edge: 202
+number of node: 166
+
+number of edge: 206
+number of node: 155
+
+number of edge: 202
+number of node: 167
+
+number of edge: 208
+number of node: 158
+
+number of edge: 201
+number of node: 158
+
+number of edge: 208
+number of node: 164
+
+number of edge: 202
+number of node: 161
+
+number of edge: 206
+number of node: 168
+
+number of edge: 205
+number of node: 165
+
+number of edge: 211
+number of node: 169
+
+number of edge: 212
+number of node: 183
+
+number of edge: 204
+number of node: 179
+
+number of edge: 205
+number of node: 179
+
+number of edge: 204
+number of node: 191
+
+number of edge: 208
+number of node: 187
+
+number of edge: 201
+number of node: 185
+
+number of edge: 210
+number of node: 178
+
+number of edge: 217
+number of node: 165
+
+number of edge: 212
+number of node: 173
+
+number of edge: 212
+number of node: 161
+
+number of edge: 210
+number of node: 154
+
+number of edge: 209
+number of node: 146
+
+number of edge: 215
+number of node: 142
+
+number of edge: 206
+number of node: 141
+
+number of edge: 204
+number of node: 135
+
+number of edge: 214
+number of node: 133
+
+number of edge: 211
+number of node: 133
+
+number of edge: 204
+number of node: 134
+
+number of edge: 203
+number of node: 194
+
+number of edge: 204
+number of node: 188
+
+number of edge: 204
+number of node: 172
+
+number of edge: 205
+number of node: 176
+
+number of edge: 205
+number of node: 164
+
+number of edge: 202
+number of node: 169
+
+number of edge: 204
+number of node: 168
+
+number of edge: 203
+number of node: 169
+
+number of edge: 201
+number of node: 161
+
+number of edge: 202
+number of node: 163
+
+number of edge: 200
+number of node: 167
+
+number of edge: 202
+number of node: 165
+
+number of edge: 205
+number of node: 162
+
+number of edge: 206
+number of node: 158
+
+number of edge: 202
+number of node: 154
+
+number of edge: 202
+number of node: 163
+
+number of edge: 205
+number of node: 168
+
+number of edge: 204
+number of node: 167
+
+number of edge: 206
+number of node: 159
+
+number of edge: 204
+number of node: 172
+
+number of edge: 207
+number of node: 171
+
+number of edge: 207
+number of node: 157
+
+number of edge: 205
+number of node: 167
+
+number of edge: 201
+number of node: 169
+
+number of edge: 204
+number of node: 168
+
+number of edge: 207
+number of node: 161
+
+number of edge: 202
+number of node: 165
+
+number of edge: 203
+number of node: 157
+
+number of edge: 205
+number of node: 158
+
+number of edge: 204
+number of node: 167
+
+number of edge: 206
+number of node: 163
+
+number of edge: 206
+number of node: 168
+
+number of edge: 206
+number of node: 158
+
+number of edge: 204
+number of node: 153
+
+number of edge: 201
+number of node: 165
+
+number of edge: 202
+number of node: 157
+
+number of edge: 206
+number of node: 155
+
+number of edge: 206
+number of node: 169
+
+number of edge: 207
+number of node: 155
+
+number of edge: 205
+number of node: 168
+
+number of edge: 202
+number of node: 166
+
+number of edge: 205
+number of node: 162
+
+number of edge: 202
+number of node: 159
+
+number of edge: 204
+number of node: 164
+
+number of edge: 206
+number of node: 162
+
+number of edge: 203
+number of node: 165
+
+number of edge: 209
+number of node: 164
+
+number of edge: 202
+number of node: 177
+
+number of edge: 202
+number of node: 174
+
+number of edge: 203
+number of node: 166
+
+number of edge: 207
+number of node: 163
+
+number of edge: 203
+number of node: 171
+
+number of edge: 202
+number of node: 158
+
+number of edge: 204
+number of node: 155
+
+number of edge: 207
+number of node: 168
+
+number of edge: 205
+number of node: 162
+
+number of edge: 205
+number of node: 168
+
+number of edge: 205
+number of node: 164
+
+number of edge: 208
+number of node: 171
+
+number of edge: 206
+number of node: 162
+
+number of edge: 205
+number of node: 170
+
+number of edge: 205
+number of node: 163
+
+number of edge: 208
+number of node: 168
+
+number of edge: 205
+number of node: 159
+
+number of edge: 210
+number of node: 169
+
+number of edge: 209
+number of node: 165
+
+number of edge: 211
+number of node: 164
+
+number of edge: 208
+number of node: 171
+
+number of edge: 208
+number of node: 170
+
+number of edge: 203
+number of node: 175
+
+number of edge: 207
+number of node: 178
+
+number of edge: 206
+number of node: 167
+
+number of edge: 206
+number of node: 167
+
+number of edge: 213
+number of node: 167
+
+number of edge: 207
+number of node: 186
+
+number of edge: 206
+number of node: 196
+
+number of edge: 203
+number of node: 197
+
+number of edge: 206
+number of node: 208
+
+number of edge: 208
+number of node: 217
+
+number of edge: 210
+number of node: 215
+
+number of edge: 216
+number of node: 209
+
+number of edge: 214
+number of node: 211
+
+number of edge: 217
+number of node: 215
+
+number of edge: 212
+number of node: 218
+
+number of edge: 217
+number of node: 213
+
+number of edge: 219
+number of node: 207
+
+number of edge: 210
+number of node: 219
+
+number of edge: 215
+number of node: 212
+
+number of edge: 213
+number of node: 215
+
+number of edge: 206
+number of node: 218
+
+number of edge: 210
+number of node: 219
+
+number of edge: 220
+number of node: 217
+
+number of edge: 210
+number of node: 206
+
+number of edge: 214
+number of node: 213
+
+number of edge: 211
+number of node: 210
+
+number of edge: 216
+number of node: 221
+
+number of edge: 215
+number of node: 218
+
+number of edge: 212
+number of node: 231
+
+number of edge: 211
+number of node: 228
+
+number of edge: 211
+number of node: 225
+
+number of edge: 211
+number of node: 225
+
+number of edge: 210
+number of node: 224
+
+number of edge: 214
+number of node: 231
+
+number of edge: 212
+number of node: 230
+
+number of edge: 208
+number of node: 214
+
+number of edge: 201
+number of node: 221
+
+number of edge: 207
+number of node: 219
+
+number of edge: 205
+number of node: 223
+
+number of edge: 208
+number of node: 217
+
+number of edge: 204
+number of node: 233
+
+number of edge: 203
+number of node: 233
+
+number of edge: 210
+number of node: 220
+
+number of edge: 205
+number of node: 215
+
+number of edge: 201
+number of node: 213
+
+number of edge: 200
+number of node: 209
+
+number of edge: 201
+number of node: 194
+
+number of edge: 201
+number of node: 183
+
+number of edge: 201
+number of node: 175
+
+number of edge: 200
+number of node: 189
+
+number of edge: 200
+number of node: 185
+
+number of edge: 200
+number of node: 187
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 173
+
+number of edge: 201
+number of node: 179
+
+number of edge: 201
+number of node: 170
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 165
+
+number of edge: 200
+number of node: 174
+
+number of edge: 201
+number of node: 176
+
+number of edge: 200
+number of node: 167
+
+number of edge: 200
+number of node: 174
+
+number of edge: 200
+number of node: 167
+
+number of edge: 200
+number of node: 180
+
+number of edge: 201
+number of node: 175
+
+number of edge: 203
+number of node: 175
+
+number of edge: 203
+number of node: 178
+
+number of edge: 200
+number of node: 172
+
+number of edge: 200
+number of node: 170
+
+number of edge: 200
+number of node: 171
+
+number of edge: 200
+number of node: 182
+
+number of edge: 200
+number of node: 178
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 172
+
+number of edge: 203
+number of node: 171
+
+number of edge: 204
+number of node: 184
+
+number of edge: 201
+number of node: 173
+
+number of edge: 202
+number of node: 175
+
+number of edge: 200
+number of node: 176
+
+number of edge: 200
+number of node: 179
+
+number of edge: 201
+number of node: 175
+
+number of edge: 202
+number of node: 174
+
+number of edge: 201
+number of node: 178
+
+number of edge: 200
+number of node: 181
+
+number of edge: 200
+number of node: 179
+
+number of edge: 202
+number of node: 171
+
+number of edge: 200
+number of node: 182
+
+number of edge: 200
+number of node: 178
+
+number of edge: 200
+number of node: 179
+
+number of edge: 200
+number of node: 172
+
+number of edge: 201
+number of node: 170
+
+number of edge: 200
+number of node: 176
+
+number of edge: 202
+number of node: 186
+
+number of edge: 202
+number of node: 187
+
+number of edge: 203
+number of node: 182
+
+number of edge: 202
+number of node: 189
+
+number of edge: 203
+number of node: 171
+
+number of edge: 201
+number of node: 195
+
+number of edge: 200
+number of node: 182
+
+number of edge: 203
+number of node: 174
+
+number of edge: 206
+number of node: 190
+
+number of edge: 202
+number of node: 184
+
+number of edge: 206
+number of node: 186
+
+number of edge: 203
+number of node: 187
+
+number of edge: 205
+number of node: 181
+
+number of edge: 205
+number of node: 183
+
+number of edge: 204
+number of node: 179
+
+number of edge: 205
+number of node: 187
+
+number of edge: 204
+number of node: 182
+
+number of edge: 203
+number of node: 179
+
+number of edge: 202
+number of node: 179
+
+number of edge: 201
+number of node: 182
+
+number of edge: 202
+number of node: 170
+
+number of edge: 201
+number of node: 183
+
+number of edge: 202
+number of node: 168
+
+number of edge: 200
+number of node: 180
+
+number of edge: 200
+number of node: 181
+
+number of edge: 201
+number of node: 182
+
+number of edge: 201
+number of node: 179
+
+number of edge: 204
+number of node: 180
+
+number of edge: 204
+number of node: 192
+
+number of edge: 205
+number of node: 175
+
+number of edge: 201
+number of node: 175
+
+number of edge: 204
+number of node: 175
+
+number of edge: 202
+number of node: 174
+
+number of edge: 203
+number of node: 177
+
+number of edge: 205
+number of node: 190
+
+number of edge: 206
+number of node: 175
+
+number of edge: 201
+number of node: 173
+
+number of edge: 201
+number of node: 170
+
+number of edge: 200
+number of node: 178
+
+number of edge: 202
+number of node: 179
+
+number of edge: 206
+number of node: 168
+
+number of edge: 202
+number of node: 176
+
+number of edge: 203
+number of node: 186
+
+number of edge: 201
+number of node: 176
+
+number of edge: 202
+number of node: 182
+
+number of edge: 204
+number of node: 173
+
+number of edge: 209
+number of node: 174
+
+number of edge: 207
+number of node: 179
+
+number of edge: 208
+number of node: 193
+
+number of edge: 204
+number of node: 198
+
+number of edge: 205
+number of node: 197
+
+number of edge: 203
+number of node: 195
+
+number of edge: 201
+number of node: 191
+
+number of edge: 201
+number of node: 199
+
+number of edge: 201
+number of node: 182
+
+number of edge: 202
+number of node: 174
+
+number of edge: 204
+number of node: 169
+
+number of edge: 201
+number of node: 161
+
+number of edge: 202
+number of node: 162
+
+number of edge: 202
+number of node: 154
+
+number of edge: 201
+number of node: 158
+
+number of edge: 201
+number of node: 151
+
+number of edge: 201
+number of node: 151
+
+number of edge: 201
+number of node: 163
+
+number of edge: 202
+number of node: 155
+
+number of edge: 201
+number of node: 155
+
+number of edge: 204
+number of node: 148
+
+number of edge: 201
+number of node: 161
+
+number of edge: 203
+number of node: 158
+
+number of edge: 207
+number of node: 172
+
+number of edge: 206
+number of node: 156
+
+number of edge: 209
+number of node: 165
+
+number of edge: 206
+number of node: 163
+
+number of edge: 206
+number of node: 166
+
+number of edge: 204
+number of node: 174
+
+number of edge: 200
+number of node: 159
+
+number of edge: 203
+number of node: 164
+
+number of edge: 204
+number of node: 168
+
+number of edge: 203
+number of node: 181
+
+number of edge: 201
+number of node: 175
+
+number of edge: 205
+number of node: 175
+
+number of edge: 202
+number of node: 180
+
+number of edge: 200
+number of node: 181
+
+number of edge: 205
+number of node: 176
+
+number of edge: 209
+number of node: 184
+
+number of edge: 207
+number of node: 178
+
+number of edge: 202
+number of node: 183
+
+number of edge: 202
+number of node: 189
+
+number of edge: 204
+number of node: 192
+
+number of edge: 204
+number of node: 203
+
+number of edge: 206
+number of node: 203
+
+number of edge: 206
+number of node: 201
+
+number of edge: 213
+number of node: 216
+
+number of edge: 205
+number of node: 202
+
+number of edge: 203
+number of node: 192
+
+number of edge: 206
+number of node: 174
+
+number of edge: 206
+number of node: 176
+
+number of edge: 202
+number of node: 174
+
+number of edge: 202
+number of node: 158
+
+number of edge: 210
+number of node: 143
+
+number of edge: 206
+number of node: 148
+
+number of edge: 205
+number of node: 142
+
+number of edge: 202
+number of node: 145
+
+number of edge: 208
+number of node: 155
+
+number of edge: 203
+number of node: 145
+
+number of edge: 201
+number of node: 152
+
+number of edge: 200
+number of node: 151
+
+number of edge: 204
+number of node: 153
+
+number of edge: 200
+number of node: 158
+
+number of edge: 202
+number of node: 160
+
+number of edge: 200
+number of node: 160
+
+number of edge: 204
+number of node: 163
+
+number of edge: 202
+number of node: 168
+
+number of edge: 203
+number of node: 160
+
+number of edge: 204
+number of node: 162
+
+number of edge: 202
+number of node: 162
+
+number of edge: 201
+number of node: 168
+
+number of edge: 205
+number of node: 163
+
+number of edge: 203
+number of node: 168
+
+number of edge: 205
+number of node: 159
+
+number of edge: 205
+number of node: 159
+
+number of edge: 202
+number of node: 163
+
+number of edge: 201
+number of node: 155
+
+number of edge: 202
+number of node: 137
+
+number of edge: 201
+number of node: 143
+
+number of edge: 200
+number of node: 138
+
+number of edge: 201
+number of node: 145
+
+number of edge: 200
+number of node: 146
+
+number of edge: 200
+number of node: 150
+
+number of edge: 200
+number of node: 154
+
+number of edge: 200
+number of node: 151
+
+number of edge: 200
+number of node: 149
+
+number of edge: 200
+number of node: 143
+
+number of edge: 200
+number of node: 144
+
+number of edge: 200
+number of node: 160
+
+number of edge: 201
+number of node: 174
+
+number of edge: 204
+number of node: 174
+
+number of edge: 201
+number of node: 167
+
+number of edge: 202
+number of node: 169
+
+number of edge: 201
+number of node: 156
+
+number of edge: 201
+number of node: 149
+
+number of edge: 201
+number of node: 150
+
+number of edge: 200
+number of node: 155
+
+number of edge: 205
+number of node: 146
+
+number of edge: 203
+number of node: 144
+
+number of edge: 201
+number of node: 137
+
+number of edge: 204
+number of node: 149
+
+number of edge: 207
+number of node: 139
+
+number of edge: 204
+number of node: 148
+
+number of edge: 200
+number of node: 137
+
+number of edge: 203
+number of node: 145
+
+number of edge: 204
+number of node: 142
+
+number of edge: 201
+number of node: 147
+
+number of edge: 201
+number of node: 146
+
+number of edge: 202
+number of node: 158
+
+number of edge: 205
+number of node: 162
+
+number of edge: 203
+number of node: 167
+
+number of edge: 202
+number of node: 156
+
+number of edge: 201
+number of node: 143
+
+number of edge: 200
+number of node: 140
+
+number of edge: 203
+number of node: 142
+
+number of edge: 203
+number of node: 130
+
+number of edge: 200
+number of node: 130
+
+number of edge: 206
+number of node: 133
+
+number of graph: 1720
+Loaded

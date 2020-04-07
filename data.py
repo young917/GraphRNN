@@ -29,6 +29,7 @@ def Graph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'ENZYMES',
     '''
     print('Loading graph dataset: '+str(name))
     G = nx.Graph()
+
     # load data
     path = 'dataset/'+name+'/'
     data_adj = np.loadtxt(path+name+'_A.txt', delimiter=',').astype(int)
@@ -131,43 +132,48 @@ def Graph_load(dataset = 'cora'):
     adj = nx.adjacency_matrix(G)
     return adj, features, G
 
-def Hypergraph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'email-Enron', node_attributes = False, graph_labels=False):
+def Hypergraph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'email-Enron', time_series_size = 100, node_attributes = False, graph_labels=False):
 
     print('Loading graph dataset: '+str(name))
-    G = nx.Graph()
 
     path = '../../minyoung/'+name+'/'
-    data_simplices = np.loadtxt(path+name+'-simplices.txt', dtype=np.int).flatten()
-    data_nverts_per_simplices = np.loadtxt(path+name+'-nverts.txt', dtype=np.int).flatten()
-    hedge_num = np.amax(data_simplices) + 1
-
-    # add nodes and edges
-    start = 0
-    for n in data_nverts_per_simplices:
-        verts_in_simplice = data_simplices[start:start+n]
-        G.add_nodes_from(verts_in_simplice, type="node")
-        G.add_node(hedge_num, type="hyperedge")
-        G.add_edges_from([(hedge_num,v) for v in verts_in_simplice])
-        start += n
-        hedge_num += 1
     
-    print('number of graph:',nx.number_connected_components(G))
+    # contiguous list of the nodes comprising the simplices
+    data_simplices = np.loadtxt(path+name+'-simplices.txt', dtype=np.int).flatten()
 
-    #split into connected component
+    # number of vertices within each simplex
+    data_nverts_per_simplices = np.expand_dims(np.loadtxt(path+name+'-nverts.txt', dtype=np.int), axis=1)
+    data_simplice_end_idx = np.add.accumulate(data_nverts_per_simplices)
+    data_simplice_ref = np.concatenate((data_simplice_end_idx, data_nverts_per_simplices), axis=1)
+
+    # timestamps for each simplex -> chronological sort
+    data_timestamps = np.argsort(np.loadtxt(path+name+'-times.txt', dtype=np.int))
+    data_simplice_ref = data_simplice_ref[data_timestamps]
+
+    hedge_num = np.amax(data_simplices) + 1
+    total_simplices = len(data_simplice_ref)
     graphs = []
-    for nodes in nx.connected_components(G):
-        G_sub = G.subgraph(nodes)
-        
-        assert bipartite.is_bipartite(G_sub)
-        
+    for s in range(0, total_simplices-time_series_size+1, time_series_size):
+        G = nx.Graph()
+
+        for idx in range(s, min(s+time_series_size, total_simplices)):
+            end = data_simplice_ref[idx][0]
+            start = end - data_simplice_ref[idx][1]
+            verts_in_simplice = data_simplices[start:end]
+            G.add_nodes_from(verts_in_simplice, type="node")
+            G.add_node(hedge_num, type="hyperedge")
+            G.add_edges_from([(hedge_num,v) for v in verts_in_simplice])
+            hedge_num += 1
+
+        assert bipartite.is_bipartite(G)
+
         print('number of edge:', G.number_of_edges())
         print('number of node:', G.number_of_nodes())
         print()
 
-        graphs.append(G_sub)
-        #if G_sub.number_of_nodes() >= min_num_nodes and G_sub.number_of_nodes() <= max_num_nodes:
-        #    graphs.append(G_sub)
+        graphs.append(G)
     
+    print('number of graph:',len(graphs))    
     print('Loaded')
     return graphs
 
@@ -1431,4 +1437,9 @@ class GraphDataset(torch.utils.data.Dataset):
         return sample
 
 if __name__ == '__main__':
-    Hypergraph_load_batch()
+    print("[Email Enron]")
+    Hypergraph_load_batch(name="email-Enron")
+    print("\n[Congress Bills]")
+    Hypergraph_load_batch(name="congress-bills")
+    print("\n[Contact High School]")
+    Hypergraph_load_batch(name="contact-high-school")
