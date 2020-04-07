@@ -130,6 +130,25 @@ def Graph_load(dataset = 'cora'):
     adj = nx.adjacency_matrix(G)
     return adj, features, G
 
+def Hypergraph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'email_Enron', node_attributes = False, graph_labels=False):
+
+    print('Loading graph dataset: '+str(name))
+    G = nx.Graph()
+
+    path = '../../minyoung/'+name+'/'
+    data_simplices = np.loadtxt(path+name+'-simplices.txt', dtype=np.int).flatten()
+    data_nverts_per_simplices = np.loadtxt(path+name+'-nverts.txt', dtype=np.int).flatten()
+    hedge_num = np.amax(data_nverts) + 1
+
+    start = 0
+    for n in data_nverts_per_simplices:
+        verts_in_simplice = data_simplices[start:start+n]
+        G.add_nodes_from(verts_in_simplice, type="node")
+        G.add_node(hedge_num, type="hyperedge")
+        G.add_edges_from([(hedge_num,v) for v in verts_in_simplice])
+        start += n
+        hedge_num += 1
+
 
 ######### code test ########
 # adj, features,G = Graph_load()
