@@ -3,6 +3,8 @@ import numpy as np
 import os
 import re
 from random import shuffle
+import networkx as nx
+from networkx.algorithms import bipartite
 
 import eval.stats
 import utils
@@ -19,7 +21,8 @@ class Args_evaluate():
 
         # list of dataset to evaluate
         # use a list of 1 element to evaluate a single dataset
-        self.dataset_name_all = ['caveman', 'grid', 'barabasi', 'citeseer', 'DD']
+        self.dataset_name_all = ['email-Enron']
+        # self.dataset_name_all = ['caveman', 'grid', 'barabasi', 'citeseer', 'DD']
         # self.dataset_name_all = ['citeseer_small','caveman_small']
         # self.dataset_name_all = ['barabasi_noise0','barabasi_noise2','barabasi_noise4','barabasi_noise6','barabasi_noise8','barabasi_noise10']
         # self.dataset_name_all = ['caveman_small', 'ladder_small', 'grid_small', 'ladder_small', 'enzymes_small', 'barabasi_small','citeseer_small']
@@ -202,12 +205,12 @@ def evaluation_epoch(dir_input, fname_output, model_name, dataset_name, args, is
         if 'GraphRNN' in model_name:
             # read test graph
             for epoch in range(epoch_start,epoch_end,epoch_step):
-                for sample_time in range(1,4):
+                for sample_time in range(1,2):
                     # get filename
                     fname_pred = dir_input + model_name + '_' + dataset_name + '_' + str(args.num_layers) + '_' + str(hidden) + '_pred_' + str(epoch) + '_' + str(sample_time) + '.dat'
                     # load graphs
                     try:
-                        graph_pred = utils.load_graph_list(fname_pred,is_real=False) # default False
+                        graph_pred = utils.load_graph_list(fname_pred,is_real=True) # default False
                     except:
                         print('Not found: '+ fname_pred)
                         logging.warning('Not found: '+ fname_pred)
@@ -218,6 +221,13 @@ def evaluation_epoch(dir_input, fname_output, model_name, dataset_name, args, is
                     else:
                         shuffle(graph_pred)
                         graph_pred = graph_pred[0:len(graph_test)]
+                    # remove non bipartite graph
+                    if dataset_name == 'email-Enron':
+                        graph_pred = [graph for graph in graph_pred if bipartite.is_bipartite(graph)]
+                    
+                    if len(graph_pred) == 0:
+                        continue
+                        
                     print('len graph_test', len(graph_test))
                     print('len graph_validate', len(graph_validate))
                     print('len graph_pred', len(graph_pred))
@@ -605,7 +615,7 @@ def process_kron(kron_dir):
  
 
 if __name__ == '__main__':
-    args = Args()
+    args = Args('graphRNN_RNN', 'email-Enron')
     args_evaluate = Args_evaluate()
 
     parser = argparse.ArgumentParser(description='Evaluation arguments.')

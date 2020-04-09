@@ -520,25 +520,23 @@ if __name__ == '__main__':
     #test_perturbed()
     #graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_community4_4_128_train_0.dat')
     #graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_community4_4_128_pred_2500_1.dat')
-    graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_bipartite_small_4_64_pred_3000_1.dat') # 16 graphs
-    draw_graph_list(graphs[:16], 4, 4, fname='figures_prediction/bipartite_' + str(1), layout='bipartite')
+    #graphs = load_graph_list('graphs/' + 'GraphRNN_RNN_email-Enron_4_128_pred_3000_1.dat') # 16 graphs
+    #draw_graph_list(graphs[-4:], 2, 2, fname='figures_prediction/bipartite_' + str(1), layout='bipartite')
 
-    '''
-    args = Args('GraphRNN_RNN', 'bipartite_small')
+    args = Args('GraphRNN_RNN', 'email-Enron')
 
     non_bipartite = 0
     for epoch in range( 1000, args.epochs + 1, args.epochs_test):
         non_bipartite_epoch = 0
         total_graph_epoch = 0
-        fname_pred = args.graph_save_path + args.note + '_' + args.graph_type + '_' + str(args.num_layers) + '_' + str(64) + '_pred_' + str(epoch) + '_1' + '.dat'
+        fname_pred = args.graph_save_path + args.note + '_' + args.graph_type + '_' + str(args.num_layers) + '_' + str(128) + '_pred_' + str(epoch) + '_1' + '.dat'
         # bipartite verify
         graphs = load_graph_list(fname_pred)
         for graph in graphs:
             if not bipartite.is_bipartite(graph):
                 non_bipartite_epoch += 1
             total_graph_epoch += 1
-        print(str(epoch)+" non bipartite rate : "+str(non_bipartite_epoch / total_graph_epoch))
+        print(str(epoch)+" non bipartite proportion : "+str(non_bipartite_epoch / total_graph_epoch))
 
     #for i in range(0, 160, 16):
         #draw_graph_list(graphs[i:i+16], 4, 4, fname='figures_prediction/bipartite_' + str(i), layout='bipartite')
-    '''
