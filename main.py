@@ -39,7 +39,7 @@ if __name__ == '__main__':
     configure("tensorboard/run"+time, flush_secs=5)
 
     graphs = create_graphs.create(args)
-    
+
     # split datasets
     random.seed(123)
     shuffle(graphs)
@@ -113,6 +113,7 @@ if __name__ == '__main__':
         args.max_prev_node = args.max_num_node - 1
     else:
         dataset = Graph_sequence_sampler_pytorch(graphs_train,max_prev_node=args.max_prev_node,max_num_node=args.max_num_node)
+        args.max_prev_node = dataset.max_prev_node
     sample_strategy = torch.utils.data.sampler.WeightedRandomSampler([1.0 / len(dataset) for i in range(len(dataset))],
                                                                    num_samples=args.batch_size*args.batch_ratio, replacement=True)
     dataset_loader = torch.utils.data.DataLoader(dataset, batch_size=args.batch_size, sampler=sample_strategy) #num_workers=args.num_workers
@@ -122,7 +123,7 @@ if __name__ == '__main__':
     ## Graph RNN VAE model
     # lstm = LSTM_plain(input_size=args.max_prev_node, embedding_size=args.embedding_size_lstm,
     #                   hidden_size=args.hidden_size, num_layers=args.num_layers).cuda()
-    
+
     if 'GraphRNN_VAE_conditional' in args.note:
         rnn = GRU_plain(input_size=args.max_prev_node, embedding_size=args.embedding_size_rnn,
                         hidden_size=args.hidden_size_rnn, num_layers=args.num_layers, has_input=True,

@@ -157,6 +157,14 @@ def create(args):
         graphs = graphs[0:200]
         args.max_prev_node = 15
 
+    #Hypergraph
+    elif args.graph_type == 'congress-bills':
+        graphs = Hypergraph_load_batch(name=args.graph_type)
+    elif args.graph_type == 'contact-high-school':
+        graphs = Hypergraph_load_batch(name=args.graph_type)
+    elif args.graph_type == 'email-Enron':
+        graphs = Hypergraph_load_batch(name=args.graph_type)
+
     return graphs
 
 

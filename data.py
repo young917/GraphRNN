@@ -136,7 +136,7 @@ def Hypergraph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'emai
 
     print('Loading graph dataset: '+str(name))
 
-    path = '../../minyoung/'+name+'/'
+    path = 'dataset/'+name+'/'
     
     # contiguous list of the nodes comprising the simplices
     data_simplices = np.loadtxt(path+name+'-simplices.txt', dtype=np.int).flatten()
@@ -167,9 +167,9 @@ def Hypergraph_load_batch(min_num_nodes = 20, max_num_nodes = 1000, name = 'emai
 
         assert bipartite.is_bipartite(G)
 
-        print('number of edge:', G.number_of_edges())
-        print('number of node:', G.number_of_nodes())
-        print()
+        #print('number of edge:', G.number_of_edges())
+        #print('number of node:', G.number_of_nodes())
+        #print()
 
         graphs.append(G)
     
@@ -443,7 +443,7 @@ class Graph_sequence_sampler_pytorch(torch.utils.data.Dataset):
             self.n = max_num_node
         if max_prev_node is None:
             print('calculating max previous node, total iteration: {}'.format(iteration))
-            self.max_prev_node = max(self.calc_max_prev_node(iter=iteration))
+            self.max_prev_node = max(self.calc_max_prev_node(iter=iteration, topk=1))
             print('max previous node: {}'.format(self.max_prev_node))
         else:
             self.max_prev_node = max_prev_node
