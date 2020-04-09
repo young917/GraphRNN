@@ -228,6 +228,7 @@ def evaluation_epoch(dir_input, fname_output, model_name, dataset_name, args, is
                     if len(graph_pred) == 0:
                         continue
                         
+                    print('epoch', epoch)
                     print('len graph_test', len(graph_test))
                     print('len graph_validate', len(graph_validate))
                     print('len graph_pred', len(graph_pred))
@@ -391,7 +392,7 @@ def evaluation(args_evaluate,dir_input, dir_output, model_name_all, dataset_name
                 print(dir_output+model_name+'_'+dataset_name+'.csv exists!')
                 logging.info(dir_output+model_name+'_'+dataset_name+'.csv exists!')
                 continue
-            evaluation_epoch(dir_input,fname_output,model_name,dataset_name,args,is_clean=True, epoch_start=args_evaluate.epoch_start,epoch_end=args_evaluate.epoch_end,epoch_step=args_evaluate.epoch_step)
+            evaluation_epoch(dir_input,fname_output,model_name,dataset_name,args,is_clean=False, epoch_start=args_evaluate.epoch_start,epoch_end=args_evaluate.epoch_end,epoch_step=args_evaluate.epoch_step)
 
 
 
